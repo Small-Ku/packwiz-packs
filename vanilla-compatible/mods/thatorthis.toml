@@ -1,0 +1,13 @@
+name = "ThatOrThis"
+filename = "thatorthis-0.2.6+1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nnL5V3uf/versions/0.2.6+1.17/thatorthis-0.2.6+1.17.jar"
+hash-format = "sha512"
+hash = "9a8003c47bfee33df2d1bf6ae3588bb4008e2056f1440e1dff1c91928b8ec8fdd5c5cb4ab44b4557263044caed83d1f24ec0b17b044fa4e5d7d734062c836df3"
+
+[update]
+[update.modrinth]
+mod-id = "nnL5V3uf"
+version = "18YLAZ9X"

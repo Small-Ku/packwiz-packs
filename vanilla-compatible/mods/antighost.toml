@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "tools/antighost-1.17.1-fabric0.36.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.17.1-fabric0.36.1-1.1.4/antighost-1.17.1-fabric0.36.1-1.1.4.jar"
+hash-format = "sha512"
+hash = "54ccb354556d65d896874d456235aff9135338b14271f82b126436eea5c3a71de10b8145d6057a89b32c0a2f764236f4f66b6e1a20a408dd921cb1c2fb8408e4"
+
+[update]
+[update.modrinth]
+mod-id = "Jw3Wx1KR"
+version = "UZnFMo6D"

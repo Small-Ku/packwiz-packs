@@ -1,0 +1,13 @@
+name = "Title Fixer"
+filename = "look/titlefixer-1.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zYE8DiW/versions/1.0+1.17/titlefixer-1.0+1.17.jar"
+hash-format = "sha512"
+hash = "3911cb2b61814717d8c4b7b913f6ce592df3e11324706ee07af9cae03b892ad4a0633547ccea20890626db536f9023532229923c52e135a89f221cc589f14df3"
+
+[update]
+[update.modrinth]
+mod-id = "8zYE8DiW"
+version = "TZ2UHB42"
