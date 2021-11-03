@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "13c32086cfa84c92b1005e2cb9080f060601ef6146e4c519df02708c01ddc3c9"
+hash = "5042a5c75a0e7965504e3c8519bfd932eec8f7f594497d31f5af3eb89ffa4ab1"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8783fffeefc606aeac7b1ca2b8aa2e7e6d7e31d956ff02af879ffb4fa9a5159e"
+hash = "eb183154295251dd5e1ab3b01f30443ec58fb0a1c51608fe7eb97a451846c80b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "8b947756173566bd087f49eb6c2e658702d8f51a09fd982dc82a664013661db5"
+hash = "c32f633f7420053057ef7a060d45d1ded275a974f40641292a2f30fcce3424ae"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.toml"
-hash = "01300d975279342bfe1434ca1ee21c3fed756d1d5e4581d46ba1ab1c8099e503"
+hash = "6d03b73660b252e2b73610e0e882aa430dd0f0377acf94ef1b5e3edaa18cb687"
 metafile = true
 
 [[files]]
@@ -252,15 +252,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "5e4708a7e5e8594d5d023388689045b00fc940f405b730214bda01a00ddea0a1"
+hash = "263ab314d4ffb2faf3c771a82089158fed0e902ae0f8019863081d48847ac9ce"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "a95cab5bf016873f51403749e88c3caa3baf86d51424cc09103847bc25816bdd"
+hash = "f97bf35697abf0077ddc48e783a425f36e8faa3f2f4d0de358b52e8e20dba949"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "89faabce553ba5528e6df8a07c69a23e86a5532e19bb482c57cc946eca67bbfd"
+hash = "e326a521a5adc2411febce7bbfd1d25a7bce329421a8766b84de9e7ee6ab6810"
 metafile = true
