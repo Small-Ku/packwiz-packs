@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "311ca79bcaeb1d78c207e8059f05225bb05842b7b0dda3c54859d5d5b4e9d908"
+hash = "8085a1c52ea30800552f6351d14a1a435e5aa55f4853733aa1f710a41af2ac80"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "a1f404e490c60e6d6a1eadb84c6d08049528e634a4f18c18f6b6f519c82a2b91"
+hash = "cf05d51c640035bac53606c46777a01f393c89f49016c42bc5e5eff92d248d5e"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "263ab314d4ffb2faf3c771a82089158fed0e902ae0f8019863081d48847ac9ce"
+hash = "1811add9384b3d7c654470e8acf4a529fcba7bd2cf3b50d4487b2006368c16f2"
 metafile = true
 
 [[files]]
