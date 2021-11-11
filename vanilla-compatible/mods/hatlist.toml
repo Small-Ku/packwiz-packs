@@ -1,0 +1,13 @@
+name = "Hat List"
+filename = "look/hatlist-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHLxbmEC/versions/1.2/hatlist-1.2.jar"
+hash-format = "sha512"
+hash = "4717720654a7f9c0627a8046f889d34a2fa9ed7fc92d1ff2ab86d7777c513567df9885c55a355b96a2887edfc79f2444b350f08ba5f2d8755873b8dfe32121b9"
+
+[update]
+[update.modrinth]
+mod-id = "nHLxbmEC"
+version = "LZeQHBFR"

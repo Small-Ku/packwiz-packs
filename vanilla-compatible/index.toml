@@ -121,6 +121,11 @@ hash = "452c3d1d5e125d8cc0d3123277ee713df5bb4242046e53d5ecac48442cb87091"
 metafile = true
 
 [[files]]
+file = "mods/hatlist.toml"
+hash = "d9e8dc7ec6354ca5c90b92f10bd541a03152f7921143df18e67f6642ca05d83d"
+metafile = true
+
+[[files]]
 file = "mods/horsestatsvanilla.toml"
 hash = "c2411a040d4c4f2dc6ff06b8d5af5d00e016efcd2bc027a88c85209948b28e4e"
 metafile = true
