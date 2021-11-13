@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "9a2c7550ffab23d37586afdd78dfb968ff98e8bb5363719e352671cd34d012f8"
+hash = "dfdc484575a80339a14379ff3a5683da8338600592d2cfa1363802e11989053e"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "1811add9384b3d7c654470e8acf4a529fcba7bd2cf3b50d4487b2006368c16f2"
+hash = "e99119c7a6c5be6106c220b35cb336fb8806ff12dc8bc1000165ba753e3451d9"
 metafile = true
 
 [[files]]
