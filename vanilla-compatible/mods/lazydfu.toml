@@ -11,3 +11,8 @@ hash = "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b933
 [update.modrinth]
 mod-id = "hvFnDODi"
 version = "C6e265zK"
+
+[option]
+default = true
+optional = false
+description = ""

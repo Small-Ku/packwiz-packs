@@ -1,6 +1,6 @@
 name = "Custom Entity Models (CEM)"
-filename = "look/cem-0.6.2.jar"
-side = "both"
+filename = "cem-0.6.2.jar"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3440/846/cem-0.6.2.jar"
@@ -11,3 +11,8 @@ hash = "3701570831"
 [update.curseforge]
 file-id = 3440846
 project-id = 477078
+
+[option]
+default = false
+optional = true
+description = ""

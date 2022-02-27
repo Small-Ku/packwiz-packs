@@ -1,5 +1,5 @@
 name = "ChestTracker"
-filename = "tools/chesttracker-1.17.1-1.1.1.jar"
+filename = "chesttracker-1.17.1-1.1.1.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "53a1749dfdbe4cc8beacd2916f806a92ffebab50b966e0cee744652dac767683dd8fc68b
 [update.modrinth]
 mod-id = "ni4SrKmq"
 version = "M2WWrfYm"
+
+[option]
+default = false
+optional = true
+description = ""

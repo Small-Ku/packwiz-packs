@@ -1,5 +1,5 @@
 name = "Dynamic FPS"
-filename = "look/dynamic-fps-2.0.6.jar"
+filename = "dynamic-fps-2.0.6.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "f0bf0e0e75aa95e4f60b2d27ebb6d1c19e9357104e5591f2938f54df8b3457fe52da6b9d
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "Co2w6nIh"
+
+[option]
+default = true
+optional = true
+description = ""

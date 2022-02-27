@@ -1,5 +1,5 @@
 name = "ParadoxSlabs"
-filename = "server/paradox-slabs-0.1.1.jar"
+filename = "paradox-slabs-0.1.1.jar"
 side = "both"
 
 [download]
@@ -11,3 +11,8 @@ hash = "a748f6dae320d570b1eb15ed7a625ce8b46f032d05655c7628ebc220aaf9e4bdc0435415
 [update.modrinth]
 mod-id = "MxPkW0zr"
 version = "gMH1HOAC"
+
+[option]
+default = true
+optional = false
+description = ""

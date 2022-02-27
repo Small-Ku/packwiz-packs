@@ -1,5 +1,5 @@
 name = "Title Fixer"
-filename = "look/titlefixer-1.0+1.17.jar"
+filename = "titlefixer-1.0+1.17.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "3911cb2b61814717d8c4b7b913f6ce592df3e11324706ee07af9cae03b892ad4a0633547
 [update.modrinth]
 mod-id = "8zYE8DiW"
 version = "TZ2UHB42"
+
+[option]
+default = true
+optional = true
+description = ""

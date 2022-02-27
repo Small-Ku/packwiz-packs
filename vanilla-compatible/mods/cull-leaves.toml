@@ -11,3 +11,8 @@ hash = "e09a13efb20a36b7448fd3db688e2d810c00186a280be8f1e4ee2a1401267e544f981f8d
 [update.modrinth]
 mod-id = "GNxdLCoP"
 version = "718Klypf"
+
+[option]
+default = true
+optional = true
+description = ""

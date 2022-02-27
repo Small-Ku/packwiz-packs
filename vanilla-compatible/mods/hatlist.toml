@@ -1,5 +1,5 @@
 name = "Hat List"
-filename = "look/hatlist-1.2.jar"
+filename = "hatlist-1.2.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "4717720654a7f9c0627a8046f889d34a2fa9ed7fc92d1ff2ab86d7777c513567df9885c5
 [update.modrinth]
 mod-id = "nHLxbmEC"
 version = "LZeQHBFR"
+
+[option]
+default = true
+optional = true
+description = ""

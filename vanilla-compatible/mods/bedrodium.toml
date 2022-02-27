@@ -1,5 +1,5 @@
 name = "Bedrodium"
-filename = "sodium-api/bedrodium-0.1.jar"
+filename = "bedrodium-0.1.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "ba1f02b44e098ee6d0b80407d17becd790739bb3bc9346130226d75b3b65839037d29af1
 [update.modrinth]
 mod-id = "5roWs6VO"
 version = "fk1rJL4Z"
+
+[option]
+default = true
+optional = true
+description = ""

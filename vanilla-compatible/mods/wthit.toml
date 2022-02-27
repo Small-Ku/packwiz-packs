@@ -1,6 +1,6 @@
 name = "WTHIT"
-filename = "tools/wthit-fabric-3.11.2.jar"
-side = "both"
+filename = "wthit-fabric-3.11.2.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-3.11.2/wthit-fabric-3.11.2.jar"
@@ -11,3 +11,8 @@ hash = "cdce278ca69343c2805e2b38c6d4fbb935f36c54ac381b9541dd972c166631a1d17e36e9
 [update.modrinth]
 mod-id = "6AQIaxuO"
 version = "5nJF5b9C"
+
+[option]
+default = false
+optional = true
+description = ""

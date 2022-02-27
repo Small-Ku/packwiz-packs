@@ -1,5 +1,5 @@
 name = "Horse Stats Vanilla"
-filename = "tools/horse-stats-vanilla-4.1.8.jar"
+filename = "horse-stats-vanilla-4.1.8.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "700b3bc25e07f4d7bf6e9d5af35210b159255cf86898e689e12a468c9674dfa5d6b8df1d
 [update.modrinth]
 mod-id = "l4qoXLzx"
 version = "JNU6xXEr"
+
+[option]
+default = true
+optional = true
+description = ""

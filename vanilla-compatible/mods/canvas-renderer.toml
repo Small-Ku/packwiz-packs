@@ -1,13 +1,18 @@
 name = "Canvas Renderer"
-filename = "canvas/canvas-mc117-1.17-1.0.2035.jar"
-side = "both"
+filename = "canvas-fabric-mc117-1.0.2230.jar"
+side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3464/66/canvas-mc117-1.17-1.0.2035.jar"
-hash-format = "murmur2"
-hash = "1681645573"
+url = "https://edge.forgecdn.net/files/3559/220/canvas-fabric-mc117-1.0.2230.jar"
+hash-format = "sha1"
+hash = "cadaeeea5d309dcea7608ab17ebcbca116e53767"
 
 [update]
 [update.curseforge]
-file-id = 3464066
+file-id = 3559220
 project-id = 318440
+
+[option]
+default = false
+optional = true
+description = ""

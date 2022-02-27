@@ -1,5 +1,5 @@
 name = "Falling Leaves"
-filename = "look/fallingleaves-1.7.4+1.17.1.jar"
+filename = "fallingleaves-1.7.4+1.17.1.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "684642148f3191589571ef0522ba74b1dbf339701b7e87fc4c37443a16022e34cbd68b6d
 [update.modrinth]
 mod-id = "WhbRG4iK"
 version = "mqyNUioD"
+
+[option]
+default = false
+optional = true
+description = ""

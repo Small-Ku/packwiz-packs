@@ -1,5 +1,5 @@
 name = "FabricSkyboxes"
-filename = "look/fabricskyboxes-1.17.1-0.5.3.jar"
+filename = "fabricskyboxes-1.17.1-0.5.3.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "89dbf3658a41d6abfb0dc4a91618a1f59623052d4a45e9edd1587bc6544ffe5feb911195
 [update.modrinth]
 mod-id = "YBz7DOs8"
 version = "aY5ERIZf"
+
+[option]
+default = false
+optional = true
+description = ""

@@ -1,5 +1,5 @@
 name = "Boat Item View"
-filename = "tools/Boat-Item-View-Fabric-1.17-0.0.2.jar"
+filename = "Boat-Item-View-Fabric-1.17-0.0.2.jar"
 side = "client"
 
 [download]
@@ -11,3 +11,8 @@ hash = "45210bde649711bdcd5cb6e9c696be5fb6e6708f99b104763b7ad74bdf5f4661313ff953
 [update.modrinth]
 mod-id = "BdKIyOLe"
 version = "9PqukzkA"
+
+[option]
+default = false
+optional = true
+description = ""

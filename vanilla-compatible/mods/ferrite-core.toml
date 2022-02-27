@@ -11,3 +11,8 @@ hash = "d9e537185a3d39736ac765df5ba3a05f8ace5a3af87b350da57da8fd7e466b7b84a378c0
 [update.modrinth]
 mod-id = "uXXizFIs"
 version = "JQl5JoCm"
+
+[option]
+default = true
+optional = true
+description = ""

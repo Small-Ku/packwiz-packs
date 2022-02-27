@@ -1,15 +1,15 @@
 name = "1.17.1 for friends"
 author = "Small-Ku"
-version = "0.0.0"
+version = "0.1.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eb5420edde1d00631e0788fe3f93ad8cfe372eeffbeda0feb356eb54f314fee6"
+hash = "7f0ea6e2ae6f888ea1f184c2f5b96f482704fff865e4c78dd209551b7e946c9d"
 
 [versions]
-fabric = "0.11.7"
+fabric = "0.13.3"
 minecraft = "1.17.1"
 
 [options]

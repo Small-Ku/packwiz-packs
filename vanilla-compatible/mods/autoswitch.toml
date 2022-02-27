@@ -1,13 +1,18 @@
 name = "AutoSwitch"
-filename = "tools/autoswitch-3.4.0.jar"
-side = "both"
+filename = "autoswitch-3.5.2.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uSdcnlts/versions/3.4.0/autoswitch-3.4.0.jar"
-hash-format = "sha512"
-hash = "120abf30e1117b72234ca59f74695a6040e7d18bd7d88a4a15a316e6918c900fe425ade7376d8dc753f711ac470dcc379fdc000e6dc7efd93516ad5bc49b77ba"
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/3.5.2/autoswitch-3.5.2.jar"
+hash-format = "sha1"
+hash = "3cba57557ca237bef7e158a8e6cf5792f1c6ed51"
 
 [update]
 [update.modrinth]
 mod-id = "uSdcnlts"
-version = "CKPCA7BG"
+version = "vJ8ltk8Y"
+
+[option]
+default = false
+optional = true
+description = ""

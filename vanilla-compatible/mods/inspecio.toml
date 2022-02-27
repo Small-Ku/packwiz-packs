@@ -1,6 +1,6 @@
 name = "Inspecio"
-filename = "tools/inspecio-1.1.0+1.17.jar"
-side = "both"
+filename = "inspecio-1.1.0+1.17.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/a93H3mKU/versions/1.1.0+1.17/inspecio-1.1.0+1.17.jar"
@@ -11,3 +11,8 @@ hash = "d77870fecc9aabaf6478de4095a6dd8b2f3cd93831d025df5d083754e0bb17033ce00e35
 [update.modrinth]
 mod-id = "a93H3mKU"
 version = "ncrZfbxf"
+
+[option]
+default = true
+optional = true
+description = ""

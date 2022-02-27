@@ -1,5 +1,5 @@
 name = "Krypton"
-filename = "tools/krypton-0.1.4.jar"
+filename = "krypton-0.1.4.jar"
 side = "both"
 
 [download]
@@ -11,3 +11,8 @@ hash = "11caa7034af4b3902da46467e00fe734b5266817d7d312815ea23d3cb1d6ab6a99596251
 [update.modrinth]
 mod-id = "fQEb0iXm"
 version = "PGovBIXq"
+
+[option]
+default = true
+optional = true
+description = ""
