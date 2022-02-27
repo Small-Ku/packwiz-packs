@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "8860d342bd5c48bdac0ebb5f958bd667a79c87f7bbf4aefcafe3f2f24312bc0e"
+hash = "82389ec1c401b8313bdfee387d5910a012ec30254d5cdf293afd02035c670df7"
 metafile = true
 
 [[files]]
