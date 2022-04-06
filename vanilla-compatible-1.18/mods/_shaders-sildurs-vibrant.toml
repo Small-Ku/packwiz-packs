@@ -1,0 +1,22 @@
+name = "[Shader] Sildur's Vibrant shaders"
+filename = "../shaderpacks/SildursVibrant.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3590/77/Sildur%27s+Vibrant+Shaders+v1.32+Extreme.zip"
+hash-format = "sha1"
+hash = "6772614703ea693fbb004ab6814a0d292f8b90a8"
+
+[update]
+[update.curseforge]
+file-id = 3590077
+project-id = 544096
+
+[option]
+default = false
+optional = true
+description = """
+A shaderpack revamps the lighting system and adds advanced effects while maintaining high performance and compatibility with many systems.
+\u6539\u9020\u5149\u7167\u7cfb\u7d71\u3001\u8ffd\u52a0\u9032\u968e\u6548\u679c\uff0c\u4e26\u540c\u6642\u7dad\u6301\u9ad8\u6548\u4e14\u76f8\u5bb9\u65bc\u4e0d\u540c\u7cfb\u7d71\u7684\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders
+"""

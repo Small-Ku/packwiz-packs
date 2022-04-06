@@ -1,0 +1,23 @@
+name = "FerriteCore"
+filename = "ferritecore-4.2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar"
+hash-format = "sha1"
+hash = "5e78186d306ca68dd8b5da4f9939126bf96fdbc0"
+
+[update]
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "OhuTVpQH"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Optimize RAM usage
+\u3010\u63a8\u85a6\u3011
+\u512a\u5316\u4f7f\u7528 RAM
+"""

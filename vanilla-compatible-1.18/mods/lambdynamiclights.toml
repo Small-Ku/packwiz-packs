@@ -1,0 +1,21 @@
+name = "LambDynamicLights"
+filename = "lambdynamiclights-2.1.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar"
+hash-format = "sha1"
+hash = "5f1f59c0ff6d54fc7ec1d42eb347a2f6987d234c"
+
+[update]
+[update.modrinth]
+mod-id = "yBW8D80W"
+version = "zhBXhMhZ"
+
+[option]
+optional = true
+default = false
+description = """
+Dynamic lighting with entities, may not usable with some shader packs
+\u52d5\u614b\u5149\u7167\uff0c\u90e8\u4efd\u5149\u5f71\u5305\u5167\u7f6e\u9019\u529f\u80fd
+"""

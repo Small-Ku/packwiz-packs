@@ -1,0 +1,13 @@
+name = "Carpet TCTC Addition"
+filename = "Carpet-TCTC-Addition-fabric-mc1.18-1.1.8+d0f86ca.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vbBQ6dVH/versions/Carpet-TCTC-Addition-fabric-mc1.18-1.1.8+d0f86ca/Carpet-TCTC-Addition-fabric-mc1.18-1.1.8%2Bd0f86ca.jar"
+hash-format = "sha1"
+hash = "a46e3a3fc88b0ccd21fbcbe8b70a62fe726b8010"
+
+[update]
+[update.modrinth]
+mod-id = "vbBQ6dVH"
+version = "OPGsZ84S"

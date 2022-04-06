@@ -1,0 +1,13 @@
+name = "Better Safe Bed (Forge/Fabric)"
+filename = "bettersafebed-1.18-fabric-a.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/202/bettersafebed-1.18-fabric-a.jar"
+hash-format = "sha1"
+hash = "0f6083f5f45d5f294b4f99fae9f7eb51bc9a264c"
+
+[update]
+[update.curseforge]
+file-id = 3542202
+project-id = 484804

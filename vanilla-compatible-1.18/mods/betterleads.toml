@@ -1,0 +1,13 @@
+name = "BetterLeads"
+filename = "betterleads-1.0.1+1.18.1.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3568/978/betterleads-1.0.1+1.18.1.jar"
+hash-format = "sha1"
+hash = "7ff9c22b2b15b4c2d5e059ee3a58b10abdbc8942"
+
+[update]
+[update.curseforge]
+file-id = 3568978
+project-id = 531503

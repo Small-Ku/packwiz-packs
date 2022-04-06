@@ -1,0 +1,20 @@
+name = "Falling Leaves"
+filename = "fallingleaves-1.10.0+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/1.10.0/fallingleaves-1.10.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "1b85cb53ad67e98ddffa5fe48cab74360b070c95"
+
+[update]
+[update.modrinth]
+mod-id = "WhbRG4iK"
+version = "a7SgCh8W"
+
+[option]
+optional = true
+description = """
+Particle of falling leaves
+\u6a39\u8449\u98c4\u843d\u6548\u679c
+"""

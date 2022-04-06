@@ -1,0 +1,23 @@
+name = "Reese's Sodium Options"
+filename = "reeses_sodium_options-mc1.18.2-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.2/reeses_sodium_options-mc1.18.2-1.4.2.jar"
+hash-format = "sha1"
+hash = "eecfa116802f89921e1b3a11f14240a08b97573b"
+
+[update]
+[update.modrinth]
+mod-id = "Bh37bMuy"
+version = "IUZ9L8mF"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Better UI of Sodium when there is more options
+\u3010\u63a8\u85a6\u3011
+Sodium \u66f4\u591a\u9078\u9805\u6642\u66f4\u4f73\u754c\u9762
+"""

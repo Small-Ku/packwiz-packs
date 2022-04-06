@@ -1,0 +1,17 @@
+name = "[Shader] Continuum"
+filename = "../shaderpacks/Continuum.zip"
+side = "client"
+
+[download]
+url = "https://checkout.continuum.graphics/downloads/continuum/free/continuum-2.0.4.zip"
+hash-format = "sha1"
+hash = "d624a740fccb5b24bf2600b13798ead04adcd6fe"
+
+[option]
+default = false
+optional = true
+description = """
+Highly customizable shaderpacks with support for high end graphical effects usually only seen in the latest, most cutting edge AAA titles.
+\u642d\u8f09\u6700\u65b0AAA\u904a\u6232\u7d1a\u5716\u5f62\u6548\u679c\u7684\u9ad8\u5ea6\u81ea\u8a02\u5149\u5f71\u5305
+See more at https://continuum.graphics/
+"""

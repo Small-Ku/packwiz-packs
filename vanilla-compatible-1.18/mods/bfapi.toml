@@ -1,0 +1,13 @@
+name = "BFAPI"
+filename = "bfapi.jar.disabled"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/toILlMg6/versions/v1.3.2/bfapi.jar"
+hash-format = "sha1"
+hash = "1217714af716fbd6e32bc6eb6128cd7e7ff76b91"
+
+[update]
+[update.modrinth]
+mod-id = "toILlMg6"
+version = "bi51jjs5"

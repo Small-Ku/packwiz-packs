@@ -1,0 +1,23 @@
+name = "Entity Culling Fabric/Forge"
+filename = "entityculling-fabric-mc1.18-1.5.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/143/entityculling-fabric-mc1.18-1.5.0.jar"
+hash-format = "sha1"
+hash = "d1b944079c193a8d5adf9144cab3bd762bb12f5e"
+
+[update]
+[update.curseforge]
+file-id = 3642143
+project-id = 448233
+
+[option]
+optional = true
+default = false
+description = """
+-[Recommended]-
+Entity culling when not visible. Sodium have this functionality already.
+\u3010\u63a8\u85a6\u3011
+\u592a\u9060\u7684\u751f\u7269\u4e0d\u518d\u986f\u793a\uff0c\u53ef\u6539\u9032\u6027\u80fd\uff0cSodium\u5df2\u5167\u5efa\u6b64\u529f\u80fd
+"""

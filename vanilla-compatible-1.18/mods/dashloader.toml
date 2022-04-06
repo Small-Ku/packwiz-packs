@@ -1,0 +1,23 @@
+name = "DashLoader"
+filename = "dashloader-def-3.1.1+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.1.1+1.18/dashloader-def-3.1.1%2B1.18.jar"
+hash-format = "sha1"
+hash = "52865d6564ba3b4c1f146810932371910bfb217d"
+
+[update]
+[update.modrinth]
+mod-id = "ZfQ3kTvR"
+version = "OTK7ITDv"
+
+[option]
+default = true
+optional = true
+description = """
+-[Recommended]-
+Boost launching speed
+\u3010\u63a8\u85a6\u3011
+\u52a0\u5feb\u904a\u6232\u8f09\u5165\u901f\u5ea6
+"""

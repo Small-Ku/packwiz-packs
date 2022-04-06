@@ -1,0 +1,21 @@
+name = "No Strip"
+filename = "nostrip-1.2.2-1.17+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.2/nostrip-1.2.2-1.17+.jar"
+hash-format = "sha1"
+hash = "cc71b10f2bdbfae31a14e10c0bdb56c7008350f2"
+
+[update]
+[update.modrinth]
+mod-id = "3f1BdVqy"
+version = "GndHssS9"
+
+[option]
+optional = true
+default = false
+description = """
+Avoid accidential striping of logs and grass
+\u907f\u514d\u610f\u5916\u5228\u6a39\u76ae\u548c\u9020\u8def
+"""

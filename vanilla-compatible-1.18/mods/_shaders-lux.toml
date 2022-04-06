@@ -1,0 +1,17 @@
+name = "[Shader] Lux"
+filename = "../shaderpacks/Lux.zip"
+side = "client"
+
+[download]
+url = "https://github.com/TechDevOnGitHub/Lux-Shader/releases/download/Lux-EA-B1/Lux-EA-B1.zip"
+hash-format = "sha1"
+hash = "0fb806cf6ea4389a5b35f1b7fb99402719480f7b"
+
+[option]
+default = false
+optional = true
+description = """
+A BSL Shaders edit shaderpack aims to be aestheticly pleasing, and gameplay-friendly.
+\u81f4\u529b\u904a\u73a9\u9ad4\u9a57\u826f\u597d\u4e14\u7f8e\u89c0\u7684BSL\u884d\u751f\u5149\u5f71\u5305
+See more at https://techdevongithub.github.io/Lux/
+"""

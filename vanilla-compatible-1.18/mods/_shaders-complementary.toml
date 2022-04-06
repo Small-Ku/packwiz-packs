@@ -1,0 +1,22 @@
+name = "[Shader] Complementary Shaders"
+filename = "../shaderpacks/Complementary.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3221/720/Chocapic13_V9.1_Extreme_beta_5.zip"
+hash-format = "sha1"
+hash = "00e28c19ac1ee7ac886d9930d4a73e674e564d82"
+
+[update]
+[update.curseforge]
+file-id = 3685089
+project-id = 385587
+
+[option]
+default = false
+optional = true
+description = """
+A shaderpack try to provide you with the most issueless experience possible.
+\u5617\u8a66\u63d0\u4f9b\u7121\u7455\u9ad4\u9a57\u7684\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/complementary-shaders
+"""

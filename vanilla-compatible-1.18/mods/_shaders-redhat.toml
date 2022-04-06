@@ -1,0 +1,22 @@
+name = "[Shader] RedHat Shaders"
+filename = "../shaderpacks/RedHat.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3736/265/RedHat_v34.0.zip"
+hash-format = "sha1"
+hash = "a5c762195b3f7db0311c1eceeb6fdb54397d2ffd"
+
+[update]
+[update.curseforge]
+file-id = 3736265
+project-id = 367167
+
+[option]
+default = false
+optional = true
+description = """
+A Chocapic13 edit shaderpack features awesome colors, many features, tons of configurations, and a pretty good performance.
+\u8272\u5f69\u596a\u76ee\u3001\u591a\u7279\u6027\u3001\u591a\u8a2d\u5b9a\u3001\u4e14\u9ad8\u6548\u7684Chocapic13\u884d\u751f\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/redhat-shader-v1-chocapic13-edit
+"""

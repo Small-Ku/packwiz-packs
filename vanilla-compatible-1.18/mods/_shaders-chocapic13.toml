@@ -1,0 +1,24 @@
+name = "[Shader] Chocapic13' Shaders"
+filename = "../shaderpacks/Chocapic13.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3221/720/Chocapic13_V9.1_Extreme_beta_5.zip"
+hash-format = "sha1"
+hash = "0a98d4f8409e9ffa1ab953e56d52aae0be17437d"
+
+[update]
+[update.curseforge]
+file-id = 3221720
+project-id = 367167
+
+[option]
+default = false
+optional = true
+description = """
+[Not working with Iris][Seems not updating]
+High quality/performance ratio shaderpack scaling to a large range of hardware configurations.
+\u3010\u53ef\u80fd\u4e0d\u76f8\u5bb9Iris\u3011\u3010\u53ef\u80fd\u4e0d\u518d\u66f4\u65b0\u3011
+\u9ad8\u8cea\u9ad8\u6548\u3001\u53ef\u904b\u884c\u65bc\u4e0d\u540c\u786c\u9ad4\u914d\u7f6e\u7684\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/chocapic13-shaders
+"""

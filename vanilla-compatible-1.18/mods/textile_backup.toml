@@ -1,0 +1,13 @@
+name = "Textile Backup"
+filename = "textile_backup-2.3.0-1.18.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wwcspvkr/versions/2.3.0-1.18/textile_backup-2.3.0-1.18.jar"
+hash-format = "sha1"
+hash = "cebc289e887d63be9f4993b6cb2e48d65c491491"
+
+[update]
+[update.modrinth]
+mod-id = "wwcspvkr"
+version = "XDItWXWf"

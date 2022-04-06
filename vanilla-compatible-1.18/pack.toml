@@ -1,0 +1,16 @@
+name = "Vanilla Compatible 1.18"
+author = "Small-Ku"
+version = "0.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05eeb3c199bc5be81eac9633571dcbd7af0801f1f9dd52d5d2f6eacd318342f7"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = "1.18.1 1.18"

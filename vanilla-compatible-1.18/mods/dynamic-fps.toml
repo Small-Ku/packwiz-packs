@@ -1,0 +1,23 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar"
+hash-format = "sha1"
+hash = "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947"
+
+[update]
+[update.modrinth]
+mod-id = "LQ3K71Q1"
+version = "LttnLLIj"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Lowering FPS when window unfocus
+\u3010\u63a8\u85a6\u3011
+\u5728\u96e2\u958b\u8996\u7a97\u6642\u964d\u4f4e FPS (\u5e40\u6578)
+"""

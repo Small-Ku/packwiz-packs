@@ -1,0 +1,23 @@
+name = "ServerCore"
+filename = "servercore-1.2.8-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.8/servercore-1.2.8-1.18.2.jar"
+hash-format = "sha1"
+hash = "949d3e5c84d1f42e917766ed90795d9809307397"
+
+[update]
+[update.modrinth]
+mod-id = "4WWQxlQP"
+version = "4PbPJU10"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Server optimization
+\u3010\u63a8\u85a6\u3011
+\u4f3a\u670d\u5668\u512a\u5316
+"""
