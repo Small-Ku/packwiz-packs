@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "d6aca6f40b2d6f2cf3b39a36e485547bc6a12fc7e8f406a1db301ea30c5ef68f"
+hash = "3e2a467de1e65fae028aab186328b073af3764abb338e812eccc09bdb75ce9df"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ hash = "14501523f91dad219fd5a5d41b1928e1f7d5b79993bb8bc3a1d4483a796dd1dc"
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "989298f216d262ea0e71476f644a91b25e6e1bd4c7927c07bf6a85d6dc21ed2e"
+hash = "7cf8d5628ad112d79542e2286b445586479d6ce78dac1dda504f0fb1bc64ffd9"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "88082c71307118c85073a2a9e368afd230675ce7fafe8033044cb626dd616fdd"
+hash = "577d778018567afac220e6cc820c5d93ba7816a65af5744747f65a38d62875f4"
 metafile = true
 
 [[files]]
