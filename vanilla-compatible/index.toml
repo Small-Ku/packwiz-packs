@@ -121,6 +121,11 @@ hash = "604b4ef80c2fbd0b0d2d33b734458c12582ce829809e5c32b027deb26bd86ebb"
 metafile = true
 
 [[files]]
+file = "mods/forgetmechunk.toml"
+hash = "d778a0ef467acbf77f2b6a116541c94f14fa2000e4843ca2630d5a46ac6caf9f"
+metafile = true
+
+[[files]]
 file = "mods/hatlist.toml"
 hash = "e56d9afd955972feb8c5ee79a6c6f3939d84c48ae5471e39686ffbccbfa9a216"
 metafile = true
@@ -257,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c33961389e32e603779ec60f1903dbe15b6814697798404f1fd507a80e192ab5"
+hash = "5397c83b2befa58f8db148e05abb394ed8e59507528598463cdb170e8bc7540f"
 metafile = true
 
 [[files]]
