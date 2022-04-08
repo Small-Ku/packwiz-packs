@@ -1,0 +1,4 @@
+[submodule "vanilla-compatible"]
+	path = vanilla-compatible
+	url = https://github.com/Small-Ku/packwiz-packs.git
+	branch = 1.17
