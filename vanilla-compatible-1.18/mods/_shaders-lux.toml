@@ -11,7 +11,9 @@ hash = "0fb806cf6ea4389a5b35f1b7fb99402719480f7b"
 default = false
 optional = true
 description = """
+[Waiting Iris update]
 A BSL Shaders edit shaderpack aims to be aestheticly pleasing, and gameplay-friendly.
+\u3010\u5f85Iris\u65e5\u5f8c\u66f4\u65b0\u3011
 \u81f4\u529b\u904a\u73a9\u9ad4\u9a57\u826f\u597d\u4e14\u7f8e\u89c0\u7684BSL\u884d\u751f\u5149\u5f71\u5305
 See more at https://techdevongithub.github.io/Lux/
 """
