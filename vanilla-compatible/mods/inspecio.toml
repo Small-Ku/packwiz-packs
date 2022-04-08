@@ -15,4 +15,7 @@ version = "ncrZfbxf"
 [option]
 default = true
 optional = true
-description = "More item info in inventory\n背包中更多物品資訊\n"
+description = """
+More item info in inventory
+\u80cc\u5305\u4e2d\u66f4\u591a\u7269\u54c1\u8cc7\u8a0a
+"""
