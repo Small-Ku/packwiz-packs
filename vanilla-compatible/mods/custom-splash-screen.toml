@@ -13,8 +13,8 @@ mod-id = "BwFQLeCh"
 version = "3Cv3vvUj"
 
 [option]
-default = true
-optional = false
+default = false
+optional = true
 description = """
 A customizable loading screen
 \u53ef\u81ea\u8a02\u958b\u555f\u756b\u9762

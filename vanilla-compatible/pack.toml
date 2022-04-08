@@ -1,12 +1,12 @@
 name = "1.17.1 for friends"
 author = "Small-Ku"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "77700ce41e7fcd9709ecdb133d82d6daf50da13abf286ff757ce1869ff05cca1"
+hash = "180d924f6cbd4421ac4e964c3675499048647081c59dba605417f0cffaff8677"
 
 [versions]
 fabric = "0.13.3"

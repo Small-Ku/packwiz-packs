@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/custom-splash-screen.toml"
-hash = "744576784ce241dc7d09aafb7b895af2775ee4333ba70b992a7beb3d86e926cb"
+hash = "d4a40b42357e99971d1d2495af5d8016a2dc6fa166a0198be2dbdfdc5a13afcb"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.toml"
-hash = "6810e0e906eccfed0ff73b2d6e7044620aaa0273a98308cdb17ddb6d75125af4"
+hash = "a64ca86c95f0a5043e8aca8d995b414c2b67a45f01450d74a689bb0bcf80a54f"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.toml"
-hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+hash = "40f0a93a5a57d589e10ddfd8b87aefb6c7696de94653c9c6d47872065f536d0c"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "37441e17c2c06bdb249f22febbb083f5efcf19d172aee99e086ca3a47584815b"
+hash = "16e313c8c1780548fdf0baa835b7a299de73960d3f6acf313006e6f924e39050"
 metafile = true
 
 [[files]]
