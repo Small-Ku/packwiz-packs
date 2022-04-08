@@ -1,0 +1,18 @@
+name = "Grind Enchantments"
+filename = "grind-enchantments-1.6.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3739/525/grind-enchantments-1.6.0+1.18.2.jar"
+hash-format = "sha1"
+hash = "84b20f2d7ac792ad925ef92cc406ee96b73d6b93"
+
+[update]
+[update.curseforge]
+file-id = 3739525
+project-id = 379680
+
+[option]
+optional = true
+description = "-[Recommended]-\nAble to use grinder to move enchantment between items\n(required in our server for best experience)\n【推薦】\n以砂輪移動物品中的附魔\n(必須安裝以在伺服器獲得最佳體驗)\n"
+default = true

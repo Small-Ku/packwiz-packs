@@ -1,0 +1,21 @@
+name = "FlightHelper"
+filename = "flighthelper-1.18.2-fabric0.47.10-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1yyNJogn/versions/1.18.2-fabric0.47.10-1.2.2/flighthelper-1.18.2-fabric0.47.10-1.2.2.jar"
+hash-format = "sha1"
+hash = "82abd7b946bb3fbfb88b05905135a69f3b2034ec"
+
+[update]
+[update.modrinth]
+mod-id = "1yyNJogn"
+version = "mXD52otB"
+
+[option]
+default = false
+optional = true
+description = """
+Hotkey for efficient flying with Elytra
+\u589e\u52a0\u71b1\u9375\u4ee5\u9798\u7fc5\u6709\u6548\u98db\u884c
+"""

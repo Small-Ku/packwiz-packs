@@ -1,0 +1,19 @@
+name = "[Shader] SEUS PTGI"
+filename = "../shaderpacks/SEUS-PTGI.zip"
+side = "client"
+
+[download]
+url = "https://www.patreon.com/file?h=45141775&i=6982056"
+hash-format = "sha1"
+hash = "126896b5ea46c89c09fb16c47f995713f6551102"
+
+[option]
+default = false
+optional = true
+description = """
+A work-in-progress shader which features ray traced lighting and reflections.
+Also SEUS Renewed maybe downloaded from the site below since it's not allowed to be redistributed in any ways.
+\u5e36\u6709\u5149\u7dda\u8ffd\u8e64\u7167\u660e\u548c\u53cd\u5c04\u7684\u958b\u767c\u4e2d\u5149\u5f71\u5305
+\u4f60\u4e5f\u53ef\u5f9e\u4e0b\u5217\u7db2\u5740\u4e0b\u8f09SEUS Renewed\uff0c\u7562\u7adf\u5b83\u4e0d\u5141\u8a31\u4ee5\u4efb\u4f55\u5f62\u5f0f\u5206\u767c
+See more at https://www.sonicether.com/seus/
+"""

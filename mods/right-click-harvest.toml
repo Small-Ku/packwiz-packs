@@ -1,0 +1,25 @@
+name = "Right-Click-Harvest"
+filename = "right-click-harvest-1.2.0+1.18.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xQgFileM/versions/1.2.0+1.18/right-click-harvest-1.2.0%2B1.18.2-fabric.jar"
+hash-format = "sha1"
+hash = "6e3bd425cdd11a0aaaaf382bf050923e9824a3fb"
+
+[update]
+[update.modrinth]
+mod-id = "xQgFileM"
+version = "ELIB5QZ2"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Right click harvest and re-plant
+(required in our server for best experience)
+\u3010\u63a8\u85a6\u3011
+\u53f3\u9375\u6536\u5272\u91cd\u7a2e
+(\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
+"""

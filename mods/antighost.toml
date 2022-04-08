@@ -1,0 +1,23 @@
+name = "AntiGhost"
+filename = "antighost-1.18.2-fabric0.47.10-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.18.2-fabric0.47.10-1.1.4/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
+hash-format = "sha1"
+hash = "b9a690827fdaa60388bc297d6bf339c7ffd68261"
+
+[update]
+[update.modrinth]
+mod-id = "Jw3Wx1KR"
+version = "JX1vBTrB"
+
+[option]
+default = true
+optional = true
+description = """
+-[Recommended]-
+A mod that help when there is ghost block stucking you
+\u3010\u63a8\u85a6\u3011
+\u6309\u9375\u89e3\u9664\u8207\u4f3a\u670d\u5668\u4e0d\u540c\u6b65\u800c\u5361\u4f4f\u7684\u72c0\u614b
+"""

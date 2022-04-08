@@ -1,0 +1,21 @@
+name = "Autofish"
+filename = "Autofish-0.9.4-fabric-mc1.18.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/323/Autofish-0.9.4-fabric-mc1.18.jar"
+hash-format = "sha1"
+hash = "ed4d5b67bb152c03441d5aa6bdd897022b4df4f6"
+
+[update]
+[update.curseforge]
+file-id = 3586323
+project-id = 319473
+
+[option]
+default = false
+optional = true
+description = """
+Auto-fishing
+\u81ea\u52d5\u91e3\u9b5a
+"""

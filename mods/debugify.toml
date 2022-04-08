@@ -1,0 +1,18 @@
+name = "Debugify"
+filename = "debugify-fabric-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/1.7.0-fabric/debugify-fabric-1.7.0.jar"
+hash-format = "sha1"
+hash = "d229377284b8f1cd6ab4b9778db94b3e81a99aaa"
+
+[update]
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "tWRyPcFL"
+
+[option]
+optional = true
+description = "-[Recommended]-\nFix bugs in Minecarft to make the game smoother\n【推薦】\n修復遊戲錯誤以獲得流暢體驗\n"
+default = true

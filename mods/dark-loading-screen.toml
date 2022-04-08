@@ -1,0 +1,21 @@
+name = "Dark Loading Screen"
+filename = "dark-loading-screen-1.6.11.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3470/993/dark-loading-screen-1.6.11.jar"
+hash-format = "sha1"
+hash = "4f93411b34bc03e6b6af00f70a6f45190aad9ba7"
+
+[update]
+[update.curseforge]
+file-id = 3470993
+project-id = 365727
+
+[option]
+default = true
+optional = false
+description = """
+A dark loading screen
+\u9ed1\u5591\u6a21\u5f0f\u958b\u555f\u756b\u9762\uff0c\u591c\u665a\u4e0d\u518d\u523a\u773c
+"""

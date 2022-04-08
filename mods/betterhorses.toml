@@ -1,0 +1,13 @@
+name = "Better Horses"
+filename = "betterhorses-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yrlz7nLZ/versions/1.0.0/betterhorses-1.0.0.jar"
+hash-format = "sha1"
+hash = "ca366454fd77e9bcfd36ec7100edfc2d98de3759"
+
+[update]
+[update.modrinth]
+mod-id = "Yrlz7nLZ"
+version = "hm9qGK2Y"

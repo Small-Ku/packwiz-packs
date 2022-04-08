@@ -1,0 +1,25 @@
+name = "OptiFabric"
+filename = "optifabric-1.13.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3717/575/optifabric-1.13.0.jar"
+hash-format = "sha1"
+hash = "7aad70d413df55472b545fbd615b928c06152469"
+
+[update]
+[update.curseforge]
+file-id = 3717575
+project-id = 322385
+
+[option]
+default = false
+optional = true
+description = """
+[Not working with Iris, Sodium, and other rendering related mods]
+[Use with Optifine]
+Run OptiFine on the Fabric Mod Loader.
+\u3010\u4e0d\u76f8\u5bb9\u65bcIris\u3001Sodium\u548c\u5176\u4ed6\u6e32\u67d3\u76f8\u95dc\u6a21\u7d44\u3011
+\u3010\u9700\u8207Optifine\u4e00\u540c\u4f7f\u7528\u3011
+\u4f7fOptifine\u76f8\u5bb9\u65bcFabric\u6a21\u7d44\u8f09\u5165\u5668
+"""

@@ -1,0 +1,22 @@
+name = "[Shader] Skylec Shaders"
+filename = "../shaderpacks/Skylec.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3261/741/Skylec_Shader_v.4.0.zip"
+hash-format = "sha1"
+hash = "b9e6bc9fda7578eb9931062c51d65cca7acf5246"
+
+[update]
+[update.curseforge]
+file-id = 3261741
+project-id = 458192
+
+[option]
+default = false
+optional = true
+description = """
+A shaderpack which makes Minecraft more beautiful with no lags.
+\u4ee4Minecraft\u66f4\u6f02\u4eae\u800c\u540c\u6642\u6d41\u66a2\u904b\u884c\u7684\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/skylec-shaders
+"""

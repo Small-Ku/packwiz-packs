@@ -1,0 +1,21 @@
+name = "CIT Resewn"
+filename = "CITResewn-1.0.1+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/otVJckYQ/versions/1.0.1+1.18.2/CITResewn-1.0.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "cf16285fe5c6c8e03beff83b4b4b8ee054a381d0"
+
+[update]
+[update.modrinth]
+mod-id = "otVJckYQ"
+version = "UpVioyBK"
+
+[option]
+default = false
+optional = true
+description = """
+Custom Item Texture with resource packs in Optifine format
+\u4ee5\u8cc7\u6e90\u5305\u81ea\u5b9a\u7fa9 Optifine \u5f0f\u7684\u7269\u54c1\u6750\u8cea
+"""

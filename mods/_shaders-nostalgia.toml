@@ -1,0 +1,24 @@
+name = "[Shader] Nostalgia Shader"
+filename = "../shaderpacks/Nostalgia.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3711/844/Nostalgia_v4.0a.zip"
+hash-format = "sha1"
+hash = "f8f1ab87c39c12a49357d47ed90fa2f5ae127df0"
+
+[update]
+[update.curseforge]
+file-id = 3711844
+project-id = 326302
+
+[option]
+default = false
+optional = true
+description = """
+[Waiting Iris update]
+A shaderpack meant to replicate the look and feel of "first-gen" shaderpacks while also adding new features and visual effects.
+\u3010\u5f85Iris\u65e5\u5f8c\u66f4\u65b0\u3011
+\u81f4\u529b\u9084\u539f\u521d\u4ee3\u5149\u5f71\u611f\u89ba\uff0c\u4e14\u52a0\u5165\u65b0\u8996\u89ba\u6548\u679c\u548c\u7279\u6027\u7684\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/chocapic13-shaders
+"""
