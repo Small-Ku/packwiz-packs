@@ -3,10 +3,12 @@ hash-format = "sha256"
 [[files]]
 file = "config/betterf3.json"
 hash = "1d2d5de0130435d0e4ab3deb772d1b262cf464f4268f1d35029d3f1297891f12"
+preserve = true
 
 [[files]]
 file = "config/minihud.json"
 hash = "094515ca175691bedd05feba2eb78c6e96c77d2993040287c93974166ec7086d"
+preserve = true
 
 [[files]]
 file = "mods/_shaders-bsl.toml"
@@ -15,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/_shaders-chocapic13.toml"
-hash = "487736d52243685eb46b889f99d291cf3d2b10ba2551796c86e24ff9ccdf48b1"
+hash = "161e669f1fb48413d7d29c4fe4542910e4ce08dda6e45179740204f51ec53ffc"
 metafile = true
 
 [[files]]
 file = "mods/_shaders-complementary.toml"
-hash = "38833ce3eadae31d6fbfee34470daf77b94f25f1a5a1b8ccab8261861372b76a"
+hash = "69fa2d6dbf99ee95ddd542774dc831d65b4755f71d566adaffe4d3d07b7be566"
 metafile = true
 
 [[files]]
@@ -29,13 +31,33 @@ hash = "0ce9badac5c7d85bfb8bc4499c6a655642cc7f2ab53007efb2fe8723d77508b4"
 metafile = true
 
 [[files]]
+file = "mods/_shaders-lux.toml"
+hash = "4e628e473b7cbf6ac808f0c7dfadc9926635a453fcf5fa972c14bad8bec43de3"
+metafile = true
+
+[[files]]
 file = "mods/_shaders-nostalgia.toml"
-hash = "4eec5a5bef3bf51641133631ee7b9e2b09786937a8c924abc02f28d3264f1666"
+hash = "3a27bd0bcdff6f14322e4f50e46adfc3afe9412725453015bd47b95305095b15"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-prismarine.toml"
+hash = "2a3bc21c9ebfbea40b1db4f896d0300b11d05f8eb3adcf055505c08052076b5c"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-redhat.toml"
+hash = "5c73196e33184d54dd0a190fb86f7f9a40dac933477902443105836e627fe515"
 metafile = true
 
 [[files]]
 file = "mods/_shaders-seus-ptgi.toml"
 hash = "6d96517254df5587713b5027dfe475554d8240cb7dc4c133c08b7fd10fac9c48"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-sildurs-enhanced-default.toml"
+hash = "71b90f1163f81a07f960512ec5d1fd25a5bf1b34cda99aa77d3e24129899c027"
 metafile = true
 
 [[files]]
@@ -51,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/_shaders-sora.toml"
 hash = "9de9e995f1e90496d1765d93e22bf73da4b276a9be8b659ba1450fca8f8bb0fb"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-tea.toml"
+hash = "e096ef44fba2e0ddf596f3db387a8c33fc60a55d362713676e62b40b38c06715"
 metafile = true
 
 [[files]]
@@ -204,6 +231,11 @@ hash = "27bb5d757dd5fe43ac44b751300c4f89e424bdd4b47dd9ed4420c648d627cceb"
 metafile = true
 
 [[files]]
+file = "mods/debugify.toml"
+hash = "48afe0bfc7b40a1b29f59554ccb1c68ea8fefc9acf4fe36c2748d6185c8061e8"
+metafile = true
+
+[[files]]
 file = "mods/discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
 hash = "8b837450d2ad82d4e267d76b46d725c166330474dace119b03557411b82e2942"
 
@@ -249,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "b29a9e01f93b7c58dc6ac40c42084d9a5e7405e8dd9310b3115abc0e6e1f1bfe"
+hash = "d10746d111dd0b8be6026ce7b592b08dd5c04b8e551c950b4863d0e402e23469"
 metafile = true
 
 [[files]]
@@ -273,13 +305,8 @@ hash = "5b94fb713dbd40034af67eb1444568be3a97c36d452b8a6cca91be44a62ee741"
 metafile = true
 
 [[files]]
-file = "mods/forgetmechunk.toml"
-hash = "83aa5849b0cf7c57a81164a807bfa6897b0140237b6fe986ec0b82b96be8f423"
-metafile = true
-
-[[files]]
 file = "mods/grind-enchantments.toml"
-hash = "ecaa7d90946ae01850ab9c27bb7ef428d47b69cd945c7542336a9ae35b988087"
+hash = "840f426ad21c27f5ff85615b987cfe59a2544d3b844f0f962526f7bd807e43b8"
 metafile = true
 
 [[files]]
@@ -517,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0d2370c4193fe7007a13d6ee0b957ad1f7997be852219ddb11b311aa8c8bef14"
+hash = "88082c71307118c85073a2a9e368afd230675ce7fafe8033044cb626dd616fdd"
 metafile = true
 
 [[files]]
