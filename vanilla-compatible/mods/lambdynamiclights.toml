@@ -15,4 +15,7 @@ version = "zhBXhMhZ"
 [option]
 default = false
 optional = true
-description = ""
+description = """
+Dynamic lighting with entities, may not usable with some shader packs
+\u52d5\u614b\u5149\u7167\uff0c\u90e8\u4efd\u5149\u5f71\u5305\u5167\u7f6e\u9019\u529f\u80fd
+"""

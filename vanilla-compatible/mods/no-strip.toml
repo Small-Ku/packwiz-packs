@@ -15,4 +15,7 @@ version = "GndHssS9"
 [option]
 default = false
 optional = true
-description = ""
+description = """
+Avoid accidential striping of logs and grass
+\u907f\u514d\u610f\u5916\u5228\u6a39\u76ae\u548c\u9020\u8def
+"""

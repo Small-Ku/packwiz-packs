@@ -15,3 +15,9 @@ version = "CINXm1S6"
 [option]
 optional = true
 default = true
+description = """
+-[Recommended]-
+Tidy up your inventory
+\u3010\u63a8\u85a6\u3011
+\u6574\u7406\u80cc\u5305
+"""

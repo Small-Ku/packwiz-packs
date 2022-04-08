@@ -13,6 +13,8 @@ mod-id = "WhbRG4iK"
 version = "mqyNUioD"
 
 [option]
-default = false
 optional = true
-description = ""
+description = """
+Particle of falling leaves
+\u6a39\u8449\u98c4\u843d\u6548\u679c
+"""

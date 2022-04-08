@@ -13,6 +13,11 @@ mod-id = "1IjD5062"
 version = "yiOF0F2t"
 
 [option]
-default = false
+default = true
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Connect block texture
+\u3010\u63a8\u85a6\u3011
+\u9023\u63a5\u65b9\u584a\u6750\u8cea
+"""

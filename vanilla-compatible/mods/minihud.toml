@@ -15,4 +15,7 @@ project-id = 244260
 [option]
 default = false
 optional = true
-description = ""
+description = """
+More HUD in-game, like lighting values of each blocks
+\u66f4\u591a\u904a\u6232\u8cc7\u8a0a\u986f\u793a\uff0c\u5982\u65b9\u584a\u4eae\u5ea6
+"""

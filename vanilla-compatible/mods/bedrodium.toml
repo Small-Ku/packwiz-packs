@@ -15,4 +15,7 @@ version = "fk1rJL4Z"
 [option]
 default = true
 optional = true
-description = ""
+description = """
+Small optimization by removing the invisible sides of the bedrock
+\u5c11\u8a31\u512a\u5316\uff0c\u79fb\u9664\u57fa\u5ca9\u4e0b\u4e0d\u53ef\u898b\u7684\u90e8\u5206
+"""

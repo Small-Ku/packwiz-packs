@@ -15,4 +15,9 @@ version = "FHFKMKeu"
 [option]
 default = true
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Server optimization
+\u3010\u63a8\u85a6\u3011
+\u4f3a\u670d\u5668\u512a\u5316
+"""

@@ -15,4 +15,9 @@ version = "nc7qGadJ"
 [option]
 default = true
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Optimize light calculation
+\u3010\u63a8\u85a6\u3011
+\u512a\u5316\u5149\u7167\u8a08\u7b97
+"""

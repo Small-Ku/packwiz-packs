@@ -15,4 +15,7 @@ version = "vJ8ltk8Y"
 [option]
 default = false
 optional = true
-description = ""
+description = """
+Auto switch tool
+\u81ea\u52d5\u5207\u63db\u5de5\u5177
+"""

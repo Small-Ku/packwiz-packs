@@ -15,4 +15,9 @@ version = "5nJF5b9C"
 [option]
 default = false
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Showing info of blocks or entities the cursor pointing
+\u3010\u63a8\u85a6\u3011
+\u986f\u793a\u756b\u9762\u6307\u5411\u7684\u65b9\u584a\u6216\u751f\u7269\u8cc7\u8a0a
+"""

@@ -13,6 +13,11 @@ mod-id = "LQ3K71Q1"
 version = "Co2w6nIh"
 
 [option]
-default = true
 optional = true
-description = ""
+default = true
+description = """
+-[Recommended]-
+Lowering FPS when window unfocus
+\u3010\u63a8\u85a6\u3011
+\u5728\u96e2\u958b\u8996\u7a97\u6642\u964d\u4f4e FPS (\u5e40\u6578)
+"""

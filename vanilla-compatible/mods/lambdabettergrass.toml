@@ -15,4 +15,7 @@ version = "A7w87AWG"
 [option]
 default = false
 optional = true
-description = ""
+description = """
+Better looking grass
+\u66f4\u597d\u770b\u7684\u8349\u5730\u65b9\u584a
+"""

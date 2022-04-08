@@ -15,4 +15,9 @@ version = "PGovBIXq"
 [option]
 default = true
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Improve network performance on installed servers (cannot login Hypixel)
+\u3010\u63a8\u85a6\u3011
+\u6539\u9032\u7db2\u7d61\u6027\u80fd\uff08\u7121\u6cd5\u9032\u5165 Hypixel\uff09
+"""

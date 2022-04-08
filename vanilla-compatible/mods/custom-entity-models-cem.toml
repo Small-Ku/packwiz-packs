@@ -13,6 +13,8 @@ file-id = 3440846
 project-id = 477078
 
 [option]
-default = false
 optional = true
-description = ""
+description = """
+Custom Enitity Model with resource packs in Optifine format (currently patially)
+\u4ee5\u8cc7\u6e90\u5305\u81ea\u5b9a\u7fa9 Optifine \u5f0f\u7684\u751f\u7269\u6a21\u578b\uff0c\u76ee\u524d\u672a\u5b8c\u5584
+"""

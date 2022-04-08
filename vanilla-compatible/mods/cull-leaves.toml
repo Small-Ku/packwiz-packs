@@ -15,4 +15,9 @@ version = "718Klypf"
 [option]
 default = true
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Leaves culling when too far from you
+\u3010\u63a8\u85a6\u3011
+\u592a\u9060\u7684\u6a39\u8449\u4e0d\u518d\u900f\u660e\uff0c\u53ef\u6539\u9032\u6027\u80fd
+"""

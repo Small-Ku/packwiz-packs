@@ -13,6 +13,11 @@ mod-id = "uXXizFIs"
 version = "JQl5JoCm"
 
 [option]
-default = true
 optional = true
-description = ""
+default = true
+description = """
+-[Recommended]-
+Optimize RAM usage
+\u3010\u63a8\u85a6\u3011
+\u512a\u5316\u4f7f\u7528 RAM
+"""

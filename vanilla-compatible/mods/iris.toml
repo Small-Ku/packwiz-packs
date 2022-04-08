@@ -14,3 +14,9 @@ version = "7GHcCn6V"
 
 [option]
 optional = true
+description = """
+-[Recommended]-
+Shader mod that compatible with some of the Optifine shaders
+\u3010\u63a8\u85a6\u3011
+\u517c\u5bb9 Optifine \u5149\u5f71\u5305\u7684\u6a21\u7d44
+"""

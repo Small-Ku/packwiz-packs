@@ -15,4 +15,9 @@ version = "C6e265zK"
 [option]
 default = true
 optional = false
-description = ""
+description = """
+-[Recommended]-
+Load map update code on-demand to speed up launching speed
+\u3010\u63a8\u85a6\u3011
+\u52a0\u5feb\u8f09\u5165\u901f\u5ea6\uff0c\u6309\u9700\u8f09\u5165\u5730\u5716\u5347\u7d1a\u4ee3\u78bc
+"""

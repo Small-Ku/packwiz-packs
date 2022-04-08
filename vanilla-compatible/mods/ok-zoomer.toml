@@ -15,4 +15,9 @@ version = "esyBJPbU"
 [option]
 default = true
 optional = true
-description = ""
+description = """
+-[Recommended]-
+Zoom in-game
+\u3010\u63a8\u85a6\u3011
+\u653e\u5927\u93e1
+"""

@@ -15,4 +15,7 @@ project-id = 308892
 [option]
 default = false
 optional = true
-description = ""
+description = """
+Blueprint mod that helps you building
+\u5efa\u7bc9\u85cd\u5716\u6a21\u7d44
+"""

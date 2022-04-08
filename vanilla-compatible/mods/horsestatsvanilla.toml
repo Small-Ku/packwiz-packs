@@ -13,6 +13,9 @@ mod-id = "l4qoXLzx"
 version = "JNU6xXEr"
 
 [option]
-default = true
 optional = true
-description = ""
+default = false
+description = """
+Show statistics of rided horse in inventory
+\u5728\u80cc\u5305\u986f\u793a\u99ac\u5339\u7684\u6578\u64da
+"""

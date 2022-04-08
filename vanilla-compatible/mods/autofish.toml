@@ -15,4 +15,7 @@ project-id = 319473
 [option]
 default = false
 optional = true
-description = ""
+description = """
+Auto-fishing
+\u81ea\u52d5\u91e3\u9b5a
+"""
