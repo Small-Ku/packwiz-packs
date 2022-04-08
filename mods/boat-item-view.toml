@@ -1,0 +1,23 @@
+name = "Boat Item View"
+filename = "Boat-Item-View-Fabric-1.17-0.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/1.17-0.0.2/Boat-Item-View-Fabric-1.17-0.0.2.jar"
+hash-format = "sha512"
+hash = "45210bde649711bdcd5cb6e9c696be5fb6e6708f99b104763b7ad74bdf5f4661313ff95361a5c24277b9e4c6f3d0dd777117e5a027ed17506bcb58c51b2f754c"
+
+[update]
+[update.modrinth]
+mod-id = "BdKIyOLe"
+version = "9PqukzkA"
+
+[option]
+default = true
+optional = true
+description = """
+-[Recommended]-
+A mod that shows map when on boat
+\u3010\u63a8\u85a6\u3011
+\u8239\u4e0a\u822a\u884c\u9014\u4e2d\u4e5f\u80fd\u512a\u96c5\u770b\u5730\u5716
+"""

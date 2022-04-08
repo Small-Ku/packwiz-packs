@@ -1,0 +1,21 @@
+name = "Inspecio"
+filename = "inspecio-1.1.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a93H3mKU/versions/1.1.0+1.17/inspecio-1.1.0+1.17.jar"
+hash-format = "sha512"
+hash = "d77870fecc9aabaf6478de4095a6dd8b2f3cd93831d025df5d083754e0bb17033ce00e35b55486a75403ed8457ee27b7a8612326d463161b44ce34d6f3c214ea"
+
+[update]
+[update.modrinth]
+mod-id = "a93H3mKU"
+version = "ncrZfbxf"
+
+[option]
+default = true
+optional = true
+description = """
+More item info in inventory
+\u80cc\u5305\u4e2d\u66f4\u591a\u7269\u54c1\u8cc7\u8a0a
+"""

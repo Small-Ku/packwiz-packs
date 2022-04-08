@@ -1,0 +1,23 @@
+name = "Enhanced Block Entities"
+filename = "enhancedblockentities-0.5+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar"
+hash-format = "sha512"
+hash = "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1"
+
+[update]
+[update.modrinth]
+mod-id = "OVuFYfre"
+version = "ILuyoK6c"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Enhance rendering fo some blocks, like chest
+\u3010\u63a8\u85a6\u3011
+\u512a\u5316\u90e8\u4efd\u65b9\u584a\u7684\u6e32\u67d3\uff0c\u5982\u7bb1\u5b50\u7b49
+"""

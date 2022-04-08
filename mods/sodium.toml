@@ -1,0 +1,23 @@
+name = "Sodium"
+filename = "sodium-fabric-mc1.17.1-0.3.4+build.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4+build.13.jar"
+hash-format = "sha1"
+hash = "85f5d67f0ce9e995e738eb6b60034bc919a1859d"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "Fz37KqRh"
+
+[option]
+default = true
+optional = true
+description = """
+-[Recommended]-
+Rendering optimization, also recommended when installed Iris
+\u3010\u63a8\u85a6\u3011
+\u6e32\u67d3\u512a\u5316\uff0c\u5982\u4f7f\u7528 Iris \u4e5f\u63a8\u85a6\u5b89\u88dd
+"""

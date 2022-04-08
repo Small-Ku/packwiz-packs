@@ -1,0 +1,21 @@
+name = "AutoSwitch"
+filename = "autoswitch-3.5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/3.5.2/autoswitch-3.5.2.jar"
+hash-format = "sha1"
+hash = "3cba57557ca237bef7e158a8e6cf5792f1c6ed51"
+
+[update]
+[update.modrinth]
+mod-id = "uSdcnlts"
+version = "vJ8ltk8Y"
+
+[option]
+default = false
+optional = true
+description = """
+Auto switch tool
+\u81ea\u52d5\u5207\u63db\u5de5\u5177
+"""

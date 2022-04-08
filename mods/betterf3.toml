@@ -1,0 +1,21 @@
+name = "BetterF3"
+filename = "betterf3-1.1.5+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/8shC1gFX/versions/1.1.5/betterf3-1.1.5+1.17.jar"
+hash-format = "sha1"
+hash = "68ca576d34b6b27942a04668fececec842996f84"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "1eRzbEj6"
+
+[option]
+default = false
+optional = true
+description = """
+Configurable F3 screen
+\u53ef\u8a2d\u5b9a\u7684 F3 \u8cc7\u8a0a
+"""

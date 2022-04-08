@@ -1,0 +1,21 @@
+name = "FabricSkyboxes"
+filename = "fabricskyboxes-1.17.1-0.5.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.3/fabricskyboxes-1.17.1-0.5.3.jar"
+hash-format = "sha512"
+hash = "89dbf3658a41d6abfb0dc4a91618a1f59623052d4a45e9edd1587bc6544ffe5feb9111958e0b296ad994fcfe37aa6a7abd2f87478ddcf916c118452ef0a8bcc8"
+
+[update]
+[update.modrinth]
+mod-id = "YBz7DOs8"
+version = "aY5ERIZf"
+
+[option]
+default = false
+optional = true
+description = """
+Custom sky texture with resource packs in Optifine format
+\u4ee5\u8cc7\u6e90\u5305\u81ea\u5b9a\u7fa9 Optifine \u5f0f\u7684\u5929\u7a7a\u6750\u8cea
+"""

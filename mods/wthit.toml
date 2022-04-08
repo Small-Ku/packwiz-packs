@@ -1,0 +1,23 @@
+name = "WTHIT"
+filename = "wthit-fabric-3.11.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-3.11.2/wthit-fabric-3.11.2.jar"
+hash-format = "sha512"
+hash = "cdce278ca69343c2805e2b38c6d4fbb935f36c54ac381b9541dd972c166631a1d17e36e94ff84c3fafe9ab98ee295c46d49125af81fea30222197ba240eb0a73"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "5nJF5b9C"
+
+[option]
+default = false
+optional = true
+description = """
+-[Recommended]-
+Showing info of blocks or entities the cursor pointing
+\u3010\u63a8\u85a6\u3011
+\u986f\u793a\u756b\u9762\u6307\u5411\u7684\u65b9\u584a\u6216\u751f\u7269\u8cc7\u8a0a
+"""

@@ -1,0 +1,22 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.20.6_Fabric_1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3732/797/XaerosWorldMap_1.20.6_Fabric_1.17.1.jar"
+hash-format = "sha1"
+hash = "861f1db44d67608954d15b48ede60a1b4bd83980"
+
+[update]
+[update.curseforge]
+file-id = 3732797
+project-id = 317780
+
+[option]
+optional = true
+description = """
+-[Recommended]-
+World Map
+\u3010\u63a8\u85a6\u3011
+\u4e16\u754c\u5730\u5716
+"""

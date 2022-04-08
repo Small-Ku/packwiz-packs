@@ -1,0 +1,23 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-fabric-1.17-1.3.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.3.5/InventoryProfilesNext-fabric-1.17-1.3.5.jar"
+hash-format = "sha1"
+hash = "f560230b02ff8f4184f8670ba624a7724cac8ad1"
+
+[update]
+[update.modrinth]
+mod-id = "O7RBXm3n"
+version = "CINXm1S6"
+
+[option]
+optional = true
+default = true
+description = """
+-[Recommended]-
+Tidy up your inventory
+\u3010\u63a8\u85a6\u3011
+\u6574\u7406\u80cc\u5305
+"""

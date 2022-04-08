@@ -1,0 +1,23 @@
+name = "Krypton"
+filename = "krypton-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar"
+hash-format = "sha512"
+hash = "11caa7034af4b3902da46467e00fe734b5266817d7d312815ea23d3cb1d6ab6a9959625138b70e79dc70ff872fe066e8358c7c5cd1cb8cfa8099a08f26531481"
+
+[update]
+[update.modrinth]
+mod-id = "fQEb0iXm"
+version = "PGovBIXq"
+
+[option]
+default = true
+optional = true
+description = """
+-[Recommended]-
+Improve network performance on installed servers (cannot login Hypixel)
+\u3010\u63a8\u85a6\u3011
+\u6539\u9032\u7db2\u7d61\u6027\u80fd\uff08\u7121\u6cd5\u9032\u5165 Hypixel\uff09
+"""

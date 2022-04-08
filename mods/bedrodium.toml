@@ -1,0 +1,21 @@
+name = "Bedrodium"
+filename = "bedrodium-0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5roWs6VO/versions/0.1/bedrodium-0.1.jar"
+hash-format = "sha512"
+hash = "ba1f02b44e098ee6d0b80407d17becd790739bb3bc9346130226d75b3b65839037d29af1b5c55b0108b1bd007ccdab986419850543a633b46663c893c22cb452"
+
+[update]
+[update.modrinth]
+mod-id = "5roWs6VO"
+version = "fk1rJL4Z"
+
+[option]
+default = true
+optional = true
+description = """
+Small optimization by removing the invisible sides of the bedrock
+\u5c11\u8a31\u512a\u5316\uff0c\u79fb\u9664\u57fa\u5ca9\u4e0b\u4e0d\u53ef\u898b\u7684\u90e8\u5206
+"""
