@@ -1,0 +1,21 @@
+name = "Custom Splash Screen"
+filename = "customsplashscreen-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BwFQLeCh/versions/1.1.0/customsplashscreen-1.1.0.jar"
+hash-format = "sha1"
+hash = "887d9cc2849e25fe4281ffea4cbe2f572173c19d"
+
+[update]
+[update.modrinth]
+mod-id = "BwFQLeCh"
+version = "3Cv3vvUj"
+
+[option]
+default = true
+optional = false
+description = """
+A customizable loading screen
+\u53ef\u81ea\u8a02\u958b\u555f\u756b\u9762
+"""
