@@ -236,10 +236,6 @@ hash = "9c77c1ef65aa74a57e0fd56b1d82601c43aac6ac1e9995bf1ccc3d0a6ad6b0bc"
 metafile = true
 
 [[files]]
-file = "mods/discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
-hash = "8b837450d2ad82d4e267d76b46d725c166330474dace119b03557411b82e2942"
-
-[[files]]
 file = "mods/discerning-furnace.toml"
 hash = "5769df0c2e48044b7858b488d76c936fb9ee65001103f4a746858e193e0997a8"
 metafile = true
@@ -335,12 +331,8 @@ hash = "e87327ffc8cf43c38427890db3785501ead17f43536e6621e362add994856ffa"
 metafile = true
 
 [[files]]
-file = "mods/infinity-fix-0.1.3.jar"
-hash = "14501523f91dad219fd5a5d41b1928e1f7d5b79993bb8bc3a1d4483a796dd1dc"
-
-[[files]]
 file = "mods/infinity_fix.toml"
-hash = "2df4a0995e390bfc33af548a79b638a72d9e7c35f8a4c9a66ee2db789a7a92f8"
+hash = "e284d9451266c5797c9b063fd8ba43e298933dad3d6653ebc0894df20aa8f47d"
 metafile = true
 
 [[files]]
@@ -522,10 +514,6 @@ metafile = true
 file = "mods/unlimited-dragon-eggs.toml"
 hash = "bb2480e536d2c5827f7c782f86788d4a08f8cebfc3a63b4a185e9f9fb2047703"
 metafile = true
-
-[[files]]
-file = "mods/unlimiteddragoneggs-1.2.1.jar"
-hash = "ad0fda9f79c2f87676fdef3a4b5d95a5b3a192c58869ddf7b54cc525daace417"
 
 [[files]]
 file = "mods/vmp-fabric.toml"
