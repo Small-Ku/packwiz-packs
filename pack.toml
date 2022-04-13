@@ -1,12 +1,12 @@
 name = "Vanilla Compatible 1.18"
 author = "Small-Ku"
-version = "0.1.1"
+version = "0.2.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "46c1817562e16b278eb6e778ef7c70f50a28298b4a069c8695eb0f7f3e3029fe"
+hash = "1aa8276f726344572e4153235fa94a761fe92f79d604b18e3922a5e1348a09da"
 
 [versions]
 fabric = "0.13.3"

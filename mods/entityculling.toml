@@ -14,4 +14,9 @@ project-id = 448233
 
 [option]
 optional = true
-description = "-[Recommended]-\nEntity culling when not visible. Sodium have this functionality already.\n【推薦】\n太遠的生物不再顯示，可改進性能，Sodium已內建此功能\n"
+description = """
+-[Recommended]-
+Entity culling when not visible. Sodium has this functionality already.
+\u3010\u63a8\u85a6\u3011
+\u770b\u4e0d\u5230\u7684\u751f\u7269\u4e0d\u518d\u6e32\u67d3\uff0c\u53ef\u6539\u9032\u6027\u80fd\uff0cSodium\u5df2\u5167\u5efa\u6b64\u529f\u80fd\n
+"""
