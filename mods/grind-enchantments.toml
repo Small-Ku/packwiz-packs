@@ -1,15 +1,15 @@
 name = "Grind Enchantments"
-filename = "grind-enchantments-1.6.0+1.18.2.jar"
+filename = "grind-enchantments-1.6.2+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3739/525/grind-enchantments-1.6.0+1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3745/738/grind-enchantments-1.6.2+1.18.2.jar"
 hash-format = "sha1"
-hash = "84b20f2d7ac792ad925ef92cc406ee96b73d6b93"
+hash = "23e7595975de43dba2602eef66c000d3d9971841"
 
 [update]
 [update.curseforge]
-file-id = 3739525
+file-id = 3745738
 project-id = 379680
 
 [option]
