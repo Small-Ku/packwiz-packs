@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/discerning-furnace.toml"
-hash = "5769df0c2e48044b7858b488d76c936fb9ee65001103f4a746858e193e0997a8"
+hash = "5bd1e4137b8027e43d73767417f582095dc0c1151f2183c53b3be37d1c5bf122"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimited-dragon-eggs.toml"
-hash = "bb2480e536d2c5827f7c782f86788d4a08f8cebfc3a63b4a185e9f9fb2047703"
+hash = "254dba105b4085e10696627a6ae5ca29dc8992ce0cbafc122888bce8f81787fe"
 metafile = true
 
 [[files]]
