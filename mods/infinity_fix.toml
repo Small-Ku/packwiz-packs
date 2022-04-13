@@ -1,0 +1,13 @@
+name = "Infinity Fix"
+filename = "infinity-fix-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFWme3NP/versions/3/infinity-fix-0.1.3.jar"
+hash-format = "sha1"
+hash = "a713ab080ab3714c4aabafdad810e6285e239fe5"
+
+[update]
+[update.modrinth]
+mod-id = "zFWme3NP"
+version = "sDLrDpDG"
