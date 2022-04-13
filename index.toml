@@ -1,6 +1,61 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/_shaders-bsl.toml"
+hash = "e9de652d5c16295e1bdf08c667fd1c087e06e802d933dcff24ad2aa3180e94ce"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-complementary.toml"
+hash = "69fa2d6dbf99ee95ddd542774dc831d65b4755f71d566adaffe4d3d07b7be566"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-continuum.toml"
+hash = "0ce9badac5c7d85bfb8bc4499c6a655642cc7f2ab53007efb2fe8723d77508b4"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-prismarine.toml"
+hash = "2a3bc21c9ebfbea40b1db4f896d0300b11d05f8eb3adcf055505c08052076b5c"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-redhat.toml"
+hash = "5c73196e33184d54dd0a190fb86f7f9a40dac933477902443105836e627fe515"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-seus-ptgi.toml"
+hash = "6d96517254df5587713b5027dfe475554d8240cb7dc4c133c08b7fd10fac9c48"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-sildurs-enhanced-default.toml"
+hash = "71b90f1163f81a07f960512ec5d1fd25a5bf1b34cda99aa77d3e24129899c027"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-sildurs-vibrant.toml"
+hash = "4fbb8169287da5303c2febb2c7534894547475ce49a40a2a23c2f566f5a4abec"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-skylec.toml"
+hash = "8981e03b517d36c9b4fefcdc352b43c6a053a277f17c9ea7b8da253a6e8d5c32"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-sora.toml"
+hash = "9de9e995f1e90496d1765d93e22bf73da4b276a9be8b659ba1450fca8f8bb0fb"
+metafile = true
+
+[[files]]
+file = "mods/_shaders-tea.toml"
+hash = "e096ef44fba2e0ddf596f3db387a8c33fc60a55d362713676e62b40b38c06715"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "74ea7b0a2b42ae6aaf7180c0b10d6798410e40b11e790294be4f9a5a48cc2d97"
 metafile = true

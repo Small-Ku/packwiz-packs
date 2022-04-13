@@ -1,0 +1,22 @@
+name = "[Shader] Prismarine Shader"
+filename = "../shaderpacks/Prismarine.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3590/68/Sildur%27s+Enhanced+Default+v1.131+Fancy.zip"
+hash-format = "sha1"
+hash = "e5f3749689157216ea6adcbf6372e23f2de44f42"
+
+[update]
+[update.curseforge]
+file-id = 3590068
+project-id = 478295
+
+[option]
+default = false
+optional = true
+description = """
+A BSL Shaders edit shaderpack aims to provide very nice and stunning visuals at low performance cost.
+\u65e8\u5728\u9ad8\u6548\u63d0\u4f9b\u597d\u770b\u6548\u679c\u7684BSL\u884d\u751f\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/prismarine-shader
+"""

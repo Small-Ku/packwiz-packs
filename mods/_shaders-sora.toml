@@ -1,0 +1,22 @@
+name = "[Shader] SORA Shaders"
+filename = "../shaderpacks/SORA.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3665/604/Sora_Shaders_1.142.zip"
+hash-format = "sha1"
+hash = "01180627586e5720f667c8600be9efb67230b29b"
+
+[update]
+[update.curseforge]
+file-id = 3665604
+project-id = 390475
+
+[option]
+default = false
+optional = true
+description = """
+A shaderpack customized with gameplay as the first priority.
+\u4ee5\u904a\u73a9\u9ad4\u9a57\u70ba\u5148\u7684\u5149\u5f71\u5305
+See more at https://www.curseforge.com/minecraft/customization/sora-shaders
+"""
