@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/discerning-furnace.toml"
-hash = "5bd1e4137b8027e43d73767417f582095dc0c1151f2183c53b3be37d1c5bf122"
+hash = "8d6681b4197f138b8233b8703a312ba4e3c94e71e132c9258ba7a0469c9f3bcd"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinity_fix.toml"
-hash = "e284d9451266c5797c9b063fd8ba43e298933dad3d6653ebc0894df20aa8f47d"
+hash = "2ea60bab5ad948f9d272fea892ee2e9d286469099e9e42ac9f43575749809094"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimited-dragon-eggs.toml"
-hash = "254dba105b4085e10696627a6ae5ca29dc8992ce0cbafc122888bce8f81787fe"
+hash = "4c86a52dc0ddf2d9db5ce396a4a84724a9425b89ff79930f54562e0988f98508"
 metafile = true
 
 [[files]]

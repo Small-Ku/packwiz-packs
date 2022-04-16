@@ -3,7 +3,7 @@ filename = "discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Small-Ku/packwiz-packs/tmp-file/discerning-furnace-1.0.5%2BMC1.18-1.18.1.jar"
+url = "https://kuko.ooo/packwiz-packs/mods/discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
 hash-format = "sha1"
 hash = "39ec95c8e212277b5ee826a8ecb94bc707faab61"
 
