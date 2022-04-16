@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.toml"
-hash = "68bc9434826d934329c18c593a705997b19f4bd237f13459dbb4f8fe04c73516"
+hash = "898139f1ffe536741a2d9fb04b299294339b435dd4d622ed34fbdc01b4acc072"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "9c77c1ef65aa74a57e0fd56b1d82601c43aac6ac1e9995bf1ccc3d0a6ad6b0bc"
+hash = "54a116f37c74959a41113f9401a36f5e90d522c662caf6c679986ecfe2e757cf"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "aaf5d0cbd534f2eab1496002923fae768c1a16e710838adb63bcae8cc7760de6"
+hash = "395120454ce102e0b15e57e292767101dfe795be1f72a5a349db010278c4d4c5"
 metafile = true
 
 [[files]]
