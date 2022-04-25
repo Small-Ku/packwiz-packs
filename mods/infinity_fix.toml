@@ -1,13 +1,13 @@
 name = "Infinity Fix"
-filename = "infinity-fix-0.1.3.jar"
+filename = "infinity-fix-0.1.4.jar"
 side = "both"
 
 [download]
-url = "https://kuko.ooo/packwiz-packs/mods/infinity-fix-0.1.3.jar"
+url = "https://cdn.modrinth.com/data/zFWme3NP/versions/v0.1.4/infinity-fix-0.1.4.jar"
 hash-format = "sha1"
-hash = "31734805797a17be37fcf62155153a335b9b7f02"
+hash = "51df307eebf45e58cbf5a186b3d1402ee5e7d66a"
 
 [update]
 [update.modrinth]
 mod-id = "zFWme3NP"
-version = "sDLrDpDG"
+version = "bU0ko84G"

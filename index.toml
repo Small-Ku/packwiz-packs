@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "54a116f37c74959a41113f9401a36f5e90d522c662caf6c679986ecfe2e757cf"
+hash = "a45aa2301fdb29d3fa9a4fa2e87fbd04dd2bcaf4eaf52cd35c3d907c45447907"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
+hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "764bc3cbc029a7b57dec1b7c07dd583c40761ad96bc716217d6181388bcccf98"
+hash = "e6b8f9ff4efa7807a164b2cfc33871410bf3a5ce725d661349ad198fed3268ce"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/grind-enchantments.toml"
-hash = "64e2d2854bb42a4796b39e3a046b7f2a9d2ed774d5a90a205a87860f0ea3564c"
+hash = "e0fe611f1e258dc0845d8f42b68064bdbde68797cbc3a348a8823e556c1e8174"
 metafile = true
 
 [[files]]
@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "e87327ffc8cf43c38427890db3785501ead17f43536e6621e362add994856ffa"
+hash = "91b68b4c58d1b9b9a0cea5c0a0c73107f088635c467110f5348332680866d5cb"
 metafile = true
 
 [[files]]
 file = "mods/infinity_fix.toml"
-hash = "2ea60bab5ad948f9d272fea892ee2e9d286469099e9e42ac9f43575749809094"
+hash = "28214137480330588e9bcc5271b2f44b3b20a70e221d220ea3f0ec966e45467f"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "1b76e7aea6468f478d088c0c0c667b19710c2724ef4a4a11b952fc57422700b8"
+hash = "d3bc6230405be5306c1f713654b4bb0c48706cf9724e558637df8ef31f740c46"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "9d11c0d2f0e67369e4d21a29f6aa3860e055157af140c4e2785ced2a52990d7a"
+hash = "69027eb34e45c2e5bb4d1e269ed0ddb6db06263c35396dbb783e9274bec8d1a0"
 metafile = true
 
 [[files]]
@@ -542,17 +542,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "eb7fb20a8a0d238a06f08367d43e86fd4396680d9e2f052fc5f78d4cb7103e83"
+hash = "1107b5155f629637c635c47638a59b74995b5f8b77b6f273a4415d2de54da314"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "577d778018567afac220e6cc820c5d93ba7816a65af5744747f65a38d62875f4"
+hash = "d39f527ceb443b71865930d29f508879c53a14bb99229b6bdb8bd2bd1ea974b3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "781213b98bc5cd5a3d4dcf5aaf3af3cb562e382cc35cc5f2fbe878d41ca6d754"
+hash = "dd0de399f785f3ed6facd450f0383ec859c30eeee02a4ff40656b4dba2bc770e"
 metafile = true
 
 [[files]]

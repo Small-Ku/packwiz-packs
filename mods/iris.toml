@@ -1,23 +1,17 @@
 name = "Iris Shaders"
-filename = "iris-mc1.18.2-1.2.2-build.32.jar"
+filename = "iris-mc1.18.2-1.2.3-build.35.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.2/iris-mc1.18.2-1.2.2-build.32.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.3/iris-mc1.18.2-1.2.3-build.35.jar"
 hash-format = "sha1"
-hash = "4f414abe310173ea7e270e26dafec8e6c442b9d4"
+hash = "54f32b6beaa5bfb3bbfde8eacd615b2ddcec1fca"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "L401QBlK"
+version = "XU7Kt1A6"
 
 [option]
 optional = true
-default = false
-description = """
--[Recommended]-
-Shader mod that compatible with some of the Optifine shaders
-\u3010\u63a8\u85a6\u3011
-\u517c\u5bb9 Optifine \u5149\u5f71\u5305\u7684\u6a21\u7d44
-"""
+description = "-[Recommended]-\nShader mod that compatible with some of the Optifine shaders\n【推薦】\n兼容 Optifine 光影包的模組\n"
