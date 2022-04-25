@@ -1,22 +1,17 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_22.5.0_Fabric_1.17.1.jar"
+filename = "Xaeros_Minimap_22.6.1_Fabric_1.17.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3738/196/Xaeros_Minimap_22.5.0_Fabric_1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3761/735/Xaeros_Minimap_22.6.1_Fabric_1.17.1.jar"
 hash-format = "sha1"
-hash = "5305f558d4c3a6600eb56952f84cde8fe1ad67af"
+hash = "18c72b11a384a270b3a7df801f721edec83a4ffc"
 
 [update]
 [update.curseforge]
-file-id = 3738196
+file-id = 3761735
 project-id = 263420
 
 [option]
 optional = true
-description = """
--[Recommended]-
-Minimap
-\u3010\u63a8\u85a6\u3011
-\u5c0f\u5730\u5716
-"""
+description = "-[Recommended]-\nMinimap\n【推薦】\n小地圖\n"
