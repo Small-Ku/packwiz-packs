@@ -13,11 +13,9 @@ mod-id = "H8CaAYZC"
 version = "4ew9whL8"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Optimize light calculation
-\u3010\u63a8\u85a6\u3011
 \u512a\u5316\u5149\u7167\u8a08\u7b97
 """

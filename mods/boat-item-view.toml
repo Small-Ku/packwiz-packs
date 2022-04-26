@@ -16,8 +16,6 @@ version = "n8Cenodv"
 default = true
 optional = true
 description = """
--[Recommended]-
 A mod that shows map when on boat
-\u3010\u63a8\u85a6\u3011
 \u8239\u4e0a\u822a\u884c\u9014\u4e2d\u4e5f\u80fd\u512a\u96c5\u770b\u5730\u5716
 """

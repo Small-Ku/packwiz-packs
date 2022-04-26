@@ -13,11 +13,9 @@ mod-id = "Bh37bMuy"
 version = "IUZ9L8mF"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Better UI of Sodium when there is more options
-\u3010\u63a8\u85a6\u3011
 Sodium \u66f4\u591a\u9078\u9805\u6642\u66f4\u4f73\u754c\u9762
 """

@@ -1,6 +1,6 @@
 name = "Unlimited Dragon Eggs"
 filename = "unlimiteddragoneggs-1.2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://kuko.ooo/packwiz-packs/mods/unlimiteddragoneggs-1.2.1.jar"

@@ -11,3 +11,11 @@ hash = "305a2f59667ae14efbfd11eca21aa30220ee764b"
 [update.modrinth]
 mod-id = "Nz0RSWrF"
 version = "dlxs43xF"
+
+[option]
+optional = false
+default = true
+description = """
+Language loading optimization
+\u8a9e\u8a00\u8f09\u5165\u512a\u5316
+"""

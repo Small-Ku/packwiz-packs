@@ -14,4 +14,7 @@ project-id = 308892
 
 [option]
 optional = true
-description = "Blueprint mod that helps you building\n建築藍圖模組\n"
+description = """
+Blueprint mod that helps you building
+\u5efa\u7bc9\u85cd\u5716\u6a21\u7d44
+"""

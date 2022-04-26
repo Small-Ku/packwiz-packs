@@ -11,3 +11,11 @@ hash = "f1ead30e94acbc07915253adee4247019380e11a"
 [update.curseforge]
 file-id = 3487949
 project-id = 473492
+
+[option]
+optional = false
+default = true
+description = """
+Optimization of recipe
+\u5408\u6210\u8868\u512a\u5316
+"""

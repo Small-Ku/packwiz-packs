@@ -16,8 +16,6 @@ version = "7AcIEmmQ"
 default = true
 optional = true
 description = """
--[Recommended]-
 Able to add more features to your skin when others installed
-\u3010\u63a8\u85a6\u3011
 \u53ef\u4ee5\u5728 Skin (\u76ae\u819a) \u88cf\u589e\u52a0\u66f4\u591a\u7279\u5fb5\uff0c\u5176\u4ed6\u6709\u5b89\u88dd\u6a21\u7d44\u7684\u4eba\u90fd\u80fd\u770b\u5230
 """

@@ -13,6 +13,9 @@ mod-id = "uXXizFIs"
 version = "776Z5oW9"
 
 [option]
-optional = true
-description = "-[Recommended]-\nOptimize RAM usage\n【推薦】\n優化使用 RAM\n"
+optional = false
 default = true
+description = """
+Optimize RAM usage
+RAM \u512a\u5316
+"""

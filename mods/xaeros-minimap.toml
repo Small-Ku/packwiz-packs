@@ -14,4 +14,8 @@ project-id = 263420
 
 [option]
 optional = true
-description = "-[Recommended]-\nMinimap\n【推薦】\n小地圖\n"
+default = true
+description = """
+Minimap
+\u5c0f\u5730\u5716
+"""

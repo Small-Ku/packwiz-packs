@@ -13,11 +13,9 @@ file-id = 3743933
 project-id = 448233
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Entity culling when not visible.
-\u3010\u63a8\u85a6\u3011
 \u770b\u4e0d\u5230\u7684\u751f\u7269\u4e0d\u518d\u6e32\u67d3\uff0c\u53ef\u6539\u9032\u6027\u80fd
 """

@@ -13,6 +13,9 @@ mod-id = "QwxR6Gcd"
 version = "rKzPCLMb"
 
 [option]
-optional = true
-description = "-[Recommended]-\nFix bugs in Minecarft to make the game smoother\n【推薦】\n修復遊戲錯誤以獲得流暢體驗\n"
+optional = false
 default = true
+description = """
+Fix bugs in Minecarft to make the game smoother
+\u4fee\u5fa9\u904a\u6232\u932f\u8aa4\u4ee5\u7372\u5f97\u6d41\u66a2\u9ad4\u9a57
+"""

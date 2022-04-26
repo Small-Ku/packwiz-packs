@@ -13,11 +13,9 @@ mod-id = "AANobbMI"
 version = "74Y5Z8fo"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Rendering optimization, also recommended when installed Iris
-\u3010\u63a8\u85a6\u3011
 \u6e32\u67d3\u512a\u5316\uff0c\u5982\u4f7f\u7528 Iris \u4e5f\u63a8\u85a6\u5b89\u88dd
 """

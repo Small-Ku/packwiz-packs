@@ -14,4 +14,8 @@ version = "XU7Kt1A6"
 
 [option]
 optional = true
-description = "-[Recommended]-\nShader mod that compatible with some of the Optifine shaders\n【推薦】\n兼容 Optifine 光影包的模組\n"
+default = true
+description = """
+Shader mod that compatible with some of the Optifine shaders
+\u517c\u5bb Optifine \u5149\u5f71\u5305\u7684\u6a21\u7d44
+"""

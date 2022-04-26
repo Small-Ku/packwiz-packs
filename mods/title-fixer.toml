@@ -16,8 +16,6 @@ version = "hCbvrK2K"
 optional = true
 default = true
 description = """
--[Recommended]-
 Fix title display
-\u3010\u63a8\u85a6\u3011
 \u4fee\u5fa9\u6a19\u984c\u986f\u793a
 """

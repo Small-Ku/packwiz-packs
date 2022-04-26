@@ -13,11 +13,9 @@ mod-id = "nHLxbmEC"
 version = "LZeQHBFR"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Show hat in tab list
-\u3010\u63a8\u85a6\u3011
 \u73a9\u5bb6\u5217\u8868\u4e2d\u986f\u793a\u5e3d\u5b50
 """

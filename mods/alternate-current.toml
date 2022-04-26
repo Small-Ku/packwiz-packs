@@ -11,3 +11,11 @@ hash = "22f7394d92b00aa1b07e64f514019e0be22e3e00"
 [update.modrinth]
 mod-id = "r0v8vy1s"
 version = "N8AvvTfs"
+
+[option]
+optional = false
+default = true
+description = """
+Redstone optimization
+\u7d05\u8272\u512a\u5316
+"""

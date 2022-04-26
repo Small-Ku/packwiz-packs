@@ -13,11 +13,9 @@ mod-id = "VSNURh3q"
 version = "5P5gJ4ws"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Map loading optimization
-\u3010\u63a8\u85a6\u3011
 \u5730\u5716\u8f09\u5165\u512a\u5316
 """

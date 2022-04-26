@@ -1,6 +1,6 @@
 name = "bad packets"
 filename = "badpackets-fabric-0.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/fabric-0.1.1/badpackets-fabric-0.1.1.jar"

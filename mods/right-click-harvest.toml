@@ -16,10 +16,8 @@ version = "ELIB5QZ2"
 optional = true
 default = true
 description = """
--[Recommended]-
 Right click harvest and re-plant
 (required in our server for best experience)
-\u3010\u63a8\u85a6\u3011
 \u53f3\u9375\u6536\u5272\u91cd\u7a2e
 (\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
 """

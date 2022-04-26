@@ -16,8 +16,6 @@ version = "JX1vBTrB"
 default = true
 optional = true
 description = """
--[Recommended]-
 A mod that help when there is ghost block stucking you
-\u3010\u63a8\u85a6\u3011
 \u6309\u9375\u89e3\u9664\u8207\u4f3a\u670d\u5668\u4e0d\u540c\u6b65\u800c\u5361\u4f4f\u7684\u72c0\u614b
 """

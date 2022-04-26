@@ -13,6 +13,9 @@ mod-id = "4WWQxlQP"
 version = "1Axad5Jl"
 
 [option]
-optional = true
-description = "-[Recommended]-\nServer optimization\n【推薦】\n伺服器優化\n"
+optional = false
 default = true
+description = """
+Optimization
+\u512a\u5316
+"""

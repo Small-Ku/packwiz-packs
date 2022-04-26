@@ -14,7 +14,7 @@ version = "jfQfoNQx"
 
 [option]
 optional = true
-default = false
+default = true
 description = """
 Show statistics of rided horse in inventory
 \u5728\u80cc\u5305\u986f\u793a\u99ac\u5339\u7684\u6578\u64da

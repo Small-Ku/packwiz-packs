@@ -16,10 +16,8 @@ version = "waaek9RC"
 optional = true
 default = true
 description = """
--[Recommended]-
 Independently destroy slabs in a block
 (required in our server for best experience)
-\u3010\u63a8\u85a6\u3011
 \u5206\u5225\u7834\u58de\u534a\u78da
 (\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
 """

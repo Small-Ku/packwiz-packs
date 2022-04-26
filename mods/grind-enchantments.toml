@@ -14,5 +14,10 @@ project-id = 379680
 
 [option]
 optional = true
-description = "-[Recommended]-\nAble to use grinder to move enchantment between items\n(required in our server for best experience)\n【推薦】\n以砂輪移動物品中的附魔\n(必須安裝以在伺服器獲得最佳體驗)\n"
+description = """
+Able to use grinder to move enchantment between items
+(required in our server for best experience)
+\u4ee5\u7802\u8f2a\u79fb\u52d5\u7269\u54c1\u4e2d\u7684\u9644\u9b54
+(\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
+"""
 default = true

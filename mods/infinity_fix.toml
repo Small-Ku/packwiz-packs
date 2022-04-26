@@ -11,3 +11,13 @@ hash = "51df307eebf45e58cbf5a186b3d1402ee5e7d66a"
 [update.modrinth]
 mod-id = "zFWme3NP"
 version = "bU0ko84G"
+
+[option]
+default = true
+optional = true
+description = """
+Able to enchant bow with infinity and mending at the same time
+(required in our server for best experience)
+\u5141\u8a31\u5f13\u540c\u6642\u9644\u9b54\u7121\u9650\u548c\u7d93\u9a57\u4fee\u88dc
+(\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
+"""

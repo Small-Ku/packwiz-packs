@@ -13,13 +13,9 @@ mod-id = "jwslX1Al"
 version = "lL2yBvG6"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Remove the fire on screen in not intended situations
-(required in our server for best experience)
-\u3010\u63a8\u85a6\u3011
 \u79fb\u9664\u83ab\u540d\u5176\u5999\u7684\u71c3\u71d2\u756b\u9762
-(\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
 """

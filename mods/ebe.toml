@@ -13,11 +13,9 @@ mod-id = "OVuFYfre"
 version = "VOB3iJkd"
 
 [option]
-optional = true
+optional = false
 default = true
 description = """
--[Recommended]-
 Enhance rendering fo some blocks, like chest
-\u3010\u63a8\u85a6\u3011
 \u512a\u5316\u90e8\u4efd\u65b9\u584a\u7684\u6e32\u67d3\uff0c\u5982\u7bb1\u5b50\u7b49
 """
