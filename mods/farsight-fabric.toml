@@ -1,16 +1,16 @@
-name = "Bobby"
-filename = "bobby-3.1.1.jar"
-side = "client"
+name = "Farsight [Fabric]"
+filename = "farsight.fabric-1.18-1.8.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/3.1.1/bobby-3.1.1.jar"
+url = "https://edge.forgecdn.net/files/3686/937/farsight.fabric-1.18-1.8.jar"
 hash-format = "sha1"
-hash = "783d7ab7d34e87c0671a9426be0021caee58c1b8"
+hash = "75e3dc2d6373d36fd8127dce86fab9a2447073e4"
 
 [update]
-[update.modrinth]
-mod-id = "M08ruV16"
-version = "xfghgAG8"
+[update.curseforge]
+file-id = 3686937
+project-id = 579192
 
 [option]
 default = false

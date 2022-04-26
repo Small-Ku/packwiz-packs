@@ -136,11 +136,6 @@ hash = "fa66e1a55c299a1565b52785b93ad253347213e0c3c25f19103b6507ad988f53"
 metafile = true
 
 [[files]]
-file = "mods/bfapi.toml"
-hash = "3672bd7230a3944432a4d8e0786ecbc115bfdafc1eec21a962b3468e8256945b"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.toml"
 hash = "bc8270bba06430a4c9ec5910baad0d4ed3bf5c989a964b652c80ea3cd87e940c"
 metafile = true
@@ -148,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.toml"
 hash = "fbb4edde8a3306935bda8f062fd74f9289f62bde9c3bc7baab134ac2184b9ca9"
-metafile = true
-
-[[files]]
-file = "mods/bobby.toml"
-hash = "14d149ac071feae05ae7a950ff0d848bd14680e712e03d77d8d381dad8dcbca4"
 metafile = true
 
 [[files]]
@@ -288,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.toml"
 hash = "c2f6eca59188d243afda707c8edbdee230d788375dda059f31e6448ae6cf359a"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.toml"
+hash = "2967a30206f596fb13153d79c918576941111fa0300432ebf907120d2615f696"
 metafile = true
 
 [[files]]
@@ -431,6 +426,11 @@ hash = "6687dc5ab6afde85568429d64b5432ab26d8ef25e6f3131ef684d57a35acebfd"
 metafile = true
 
 [[files]]
+file = "mods/plusls-carpet-addition.toml"
+hash = "62fcb4ed8aca5961d1d811aa408c60f957853ea8cdf38173af4c5d233eccd13f"
+metafile = true
+
+[[files]]
 file = "mods/recipe-cache.toml"
 hash = "11c018122cc7f66bbcd2e929655e2764a83a0172504a3e2d3a3847236645cea3"
 metafile = true
@@ -453,11 +453,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.toml"
 hash = "5de63c3b14132edf2509c652248e6265448f4ea989f13c175ddb2a2a4ffc03f0"
-metafile = true
-
-[[files]]
-file = "mods/sit.toml"
-hash = "f7176df647ee9246a5f18481bf3ccaf4405978a1f585dcb0fc71cbcd7644c9e6"
 metafile = true
 
 [[files]]
