@@ -421,16 +421,6 @@ hash = "50ce3c69f89086e0ad4da46cd45f11256eb71585061d370dfab87dd97d00ab38"
 metafile = true
 
 [[files]]
-file = "mods/optifabric.toml"
-hash = "127ee98692a40d30bc96377dfea89d034ebd6e057c6bd0fbdb9695c586d02629"
-metafile = true
-
-[[files]]
-file = "mods/optifine.toml"
-hash = "7ddb05898c955766fb9e9e2ddd0a9370a72b1f4348818b492a447a4a88a62c64"
-metafile = true
-
-[[files]]
 file = "mods/overpoweredmending.toml"
 hash = "68f7ca5cb2ae57bc3010184a99c6b925756f8296afade05bac85f870b6323f96"
 metafile = true
