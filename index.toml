@@ -431,11 +431,6 @@ hash = "e471fd703aefab9c88476c57b045755a614f5c2386ca1ca4fd4acc56cf985839"
 metafile = true
 
 [[files]]
-file = "mods/polymer-ports-waystones.toml"
-hash = "c9e3af02bd9be9bf2d3a7ff23c6433eac314d052993bd998a4659ed5cde65684"
-metafile = true
-
-[[files]]
 file = "mods/recipe-cache.toml"
 hash = "85c32f965a5d59d4ce80d80f7a3e418e3f7453045342d06bfa22ed8094b311de"
 metafile = true
