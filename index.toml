@@ -131,6 +131,11 @@ hash = "d62694074e605a8dc50896d4380103ba751dadb651175193ea80f92ebd851691"
 metafile = true
 
 [[files]]
+file = "mods/beenfo.toml"
+hash = "994533b8b486d686ba8b6de2932f5d61099ac88cabf98cbe8b8312bc6d833e0d"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "cc518783ed453b909026f57912fe144491523bdabadb4fc8dba0a30854d97092"
 metafile = true
@@ -378,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/infinity_fix.toml"
 hash = "f2c0c21c69dd0cb29b1d2f0d8b30344bee0854c4058aaa34999cb100a8182f88"
-metafile = true
-
-[[files]]
-file = "mods/inspecio.toml"
-hash = "7cf8d5628ad112d79542e2286b445586479d6ce78dac1dda504f0fb1bc64ffd9"
 metafile = true
 
 [[files]]
