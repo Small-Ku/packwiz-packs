@@ -311,6 +311,11 @@ hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.toml"
+hash = "8ec3c7a96734aa3eede972b13c372d3190fb631faf74e11f114efbcef59acf34"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.toml"
 hash = "5db3d34910c73a5aafb80bf46bc1b4ca5524e98dfa04c6edaa5ffe0c21d981ed"
 metafile = true
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.toml"
-hash = "6f6e02671aceb916327786226f4ee05c1e55371adfafbc378b1a6979a5548a58"
+hash = "4c82542a3fbbe30372f186a727780b3bbe76c2b8494f4e1c17f5463a80012b19"
 metafile = true
 
 [[files]]
@@ -488,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "54c8c79a9eb106f2737724491314106dbb0e78143373c455babcf17c2eaea304"
-metafile = true
-
-[[files]]
-file = "mods/resolutioncontrol.toml"
-hash = "d4c713e14379187ea69bb1b15f80c8c627df85f5956bde420b4006ec38bd7796"
 metafile = true
 
 [[files]]
