@@ -1,4 +1,4 @@
-name = "plusls carpet addition"
+name = "plusls-carpet-addition"
 filename = "plusls-carpet-addition-1.18.2-0.2.5.jar"
 side = "server"
 
@@ -6,5 +6,3 @@ side = "server"
 url = "https://github.com/plusls/plusls-carpet-addition/releases/download/0.2.5-1.18.x/plusls-carpet-addition-1.18.2-0.2.5.jar"
 hash-format = "sha1"
 hash = "a06968aee21dcd9a9e99ad84268bd7822f43d4d7"
-
-[update]
