@@ -81,8 +81,18 @@ hash = "e096ef44fba2e0ddf596f3db387a8c33fc60a55d362713676e62b40b38c06715"
 metafile = true
 
 [[files]]
+file = "mods/advancementinfo.toml"
+hash = "215ed3ac2c21acac333a0896ee32554ae926d5400436acd44c1ec278e6492d3c"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.toml"
 hash = "4d669a04508c28e6008771129f5fba9aedf1b624c359aa000de8164a0023a10b"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "8ad1c0fb5b62d80ff2c0eeb8445ab327ebf752da381b412605a6ced768a02873"
 metafile = true
 
 [[files]]
@@ -116,6 +126,16 @@ hash = "893c68376d94e2385584cc798e205eecf8de15d79e352bdebc5bc487a2200c19"
 metafile = true
 
 [[files]]
+file = "mods/bedrodium.toml"
+hash = "d62694074e605a8dc50896d4380103ba751dadb651175193ea80f92ebd851691"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.toml"
+hash = "cc518783ed453b909026f57912fe144491523bdabadb4fc8dba0a30854d97092"
+metafile = true
+
+[[files]]
 file = "mods/better-safe-bed.toml"
 hash = "a0c60739c3b93c39e17b2deb17132465c9c72ebf3e807ff08827e0f2fa5dc2c7"
 metafile = true
@@ -146,6 +166,11 @@ hash = "fbb4edde8a3306935bda8f062fd74f9289f62bde9c3bc7baab134ac2184b9ca9"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.toml"
+hash = "2ffe68fdd50bbf7c06dd5b40893f9389b71c1d09c6320040278713ae825f5dfc"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.toml"
 hash = "41afa2fe79e8ba32157628a7efc65829e871b780bc82bc60a8495c7eceb362c6"
 metafile = true
@@ -172,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "78c06925c61fdff673de2a76575c04c88470a298120cd2b2fd1f6988c8038765"
+hash = "7f0e5d19b4298ea29e6065340f996054ec980243e7a82121de9bc698b0c29705"
 metafile = true
 
 [[files]]
@@ -188,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "2254c5f47a86031d76ba84b9a5d63c015b7ca5165610baf3bac29aab1700c2ba"
 metafile = true
 
 [[files]]
@@ -212,17 +242,22 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "543781e947e1d34806480380f82cfa70eba05ef6fde7ebabc3b192798f6ff8b9"
+hash = "d42283ff0e61c6de64aa9788614b490bd0447ecb1f62106acdd4271113d0e33a"
 metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.toml"
-hash = "2215a12b11107201bd47eae0bf41d93ff8a30265058a215e7384e3061f648a19"
+hash = "b508f897caa2a2bf19dd9fadd6e579e946161cb36f3bdadcf9c58258a8bd5a9f"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.toml"
 hash = "353a99f6ff0f1012899e0692158893f4a8d8ee17179229ec225ad7900d5e3397"
+metafile = true
+
+[[files]]
+file = "mods/dcch.toml"
+hash = "4806d3b4a6f758392769f16123b285c8bde204ec41cc93ccca0a2a3f2ebe28a7"
 metafile = true
 
 [[files]]
@@ -261,6 +296,11 @@ hash = "d416bd63f0941410ca969a94a081a2d421a8639072bf42d45fb9d2c3f5c80ebc"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.toml"
+hash = "df63099d7b6bc63638d180478e8872301ecc07fafb387628053e92bea8500a29"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
@@ -268,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.toml"
-hash = "0be801f245c75af752fdb0ea0c4f5a3d8db09e84f77085a01f12d7f9faba7447"
 metafile = true
 
 [[files]]
@@ -312,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/grind-enchantments.toml"
-hash = "c310770793e31750599996eed3da2b279bba173e03339322121bed1a579bf1b9"
+hash = "0c6b38cafa12ec08b918bf2b51d87964cfdd1a3af8743f80cbbed079b9801444"
 metafile = true
 
 [[files]]
@@ -421,6 +456,11 @@ hash = "50ce3c69f89086e0ad4da46cd45f11256eb71585061d370dfab87dd97d00ab38"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "5e5ecd725508e768038183b2b6995d9bc27599df7038d4ee8e932ad87ce4fee7"
+metafile = true
+
+[[files]]
 file = "mods/overpoweredmending.toml"
 hash = "68f7ca5cb2ae57bc3010184a99c6b925756f8296afade05bac85f870b6323f96"
 metafile = true
@@ -436,6 +476,11 @@ hash = "24cf18906505c1aee2269c4a0ecaf9f710c189974405efb1b3666a4394d4b74f"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.toml"
+hash = "85509fa1c1431cfa18607e1c493ad4d10c6265f874254ac6dd6b0009e644ce43"
+metafile = true
+
+[[files]]
 file = "mods/recipe-cache.toml"
 hash = "11c018122cc7f66bbcd2e929655e2764a83a0172504a3e2d3a3847236645cea3"
 metafile = true
@@ -443,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "54c8c79a9eb106f2737724491314106dbb0e78143373c455babcf17c2eaea304"
+metafile = true
+
+[[files]]
+file = "mods/resolutioncontrol.toml"
+hash = "d4c713e14379187ea69bb1b15f80c8c627df85f5956bde420b4006ec38bd7796"
 metafile = true
 
 [[files]]

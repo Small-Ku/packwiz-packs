@@ -1,0 +1,21 @@
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-4.1.6+1.18.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.18.2-fabric/notenoughcrashes-4.1.6%2B1.18.2-fabric.jar"
+hash-format = "sha1"
+hash = "ef051ab6a831f7ffd03162e54b2e997b604efaca"
+
+[update]
+[update.modrinth]
+mod-id = "yM94ont6"
+version = "3jOKpa3T"
+
+[option]
+default = true
+optional = true
+description = """
+Back to title screen when crash instead of exit game
+\u5d29\u6f70\u6642\u56de\u5230\u6a19\u984c\uff0c\u800c\u4e0d\u96e2\u958b\u904a\u6232
+"""

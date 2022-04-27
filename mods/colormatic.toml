@@ -1,0 +1,21 @@
+name = "Colormatic"
+filename = "colormatic-3.1.1+mc.1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V4IQxkZC/versions/3.1.1/colormatic-3.1.1%2Bmc.1.18.2.jar"
+hash-format = "sha1"
+hash = "d3af2a138c40336bd9a62a27499d7ca4e80e8dc4"
+
+[update]
+[update.modrinth]
+mod-id = "V4IQxkZC"
+version = "WgTudbwD"
+
+[option]
+default = true
+optional = true
+description = """
+Enables resource packs to add and change block and biome colors
+\u8cc7\u6e90\u5305\u53ef\u65b0\u589e\u548c\u8b8a\u66f4\u65b9\u584a\u8207\u751f\u614b\u57df\u984f\u8272
+"""

@@ -1,0 +1,21 @@
+name = "Don't Clear Chat History"
+filename = "DCCH-2.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.jar"
+hash-format = "sha1"
+hash = "e1fb1682e8d25b024490fc5593db27590b226e29"
+
+[update]
+[update.modrinth]
+mod-id = "sUbMm93i"
+version = "O4vDf8eh"
+
+[option]
+default = true
+optional = true
+description = """
+Not clear the messages on disconnect
+\u65b7\u958b\u9023\u63a5\u4e0d\u6e05\u9664\u8a0a\u606f
+"""

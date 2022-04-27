@@ -13,7 +13,7 @@ mod-id = "otVJckYQ"
 version = "UpVioyBK"
 
 [option]
-default = false
+default = true
 optional = true
 description = """
 Custom Item Texture with resource packs in Optifine format

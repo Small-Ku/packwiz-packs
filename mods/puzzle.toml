@@ -1,0 +1,21 @@
+name = "Puzzle"
+filename = "puzzle-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/1.2.1/puzzle-1.2.1.jar"
+hash-format = "sha1"
+hash = "be946b8c5a8b5499b18b89fdf3c14c8c708b056f"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "J4sloxua"
+
+[option]
+default = true
+optional = true
+description = """
+Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives
+\u65b0\u589e\u8cc7\u6e90\u5305\u529f\u80fd\u548c\u65b9\u4fbf\u63a7\u5236\u90e8\u4efd\u7f8e\u5316\u6a21\u7d44\u7684\u754c\u9762
+"""

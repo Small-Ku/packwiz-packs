@@ -13,8 +13,8 @@ file-id = 3470993
 project-id = 365727
 
 [option]
-default = true
-optional = false
+default = false
+optional = true
 description = """
 A dark loading screen
 \u9ed1\u5591\u6a21\u5f0f\u958b\u555f\u756b\u9762\uff0c\u591c\u665a\u4e0d\u518d\u523a\u773c
