@@ -246,6 +246,11 @@ hash = "890ee7199d02f11b53d9a367f250f96ce33fad7b7677bc03ceb88749e9a9cda1"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation-fabric.toml"
+hash = "7ec0af7347a6bbb4ba9791556f0635661767b5326baa7aa11dc98f5ab1eceaae"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "e2f219b93b7baa34c488b5312dfd10c42ebafe6a0c6714877c492d2e4522aa34"
 metafile = true
