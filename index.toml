@@ -476,6 +476,11 @@ hash = "6687dc5ab6afde85568429d64b5432ab26d8ef25e6f3131ef684d57a35acebfd"
 metafile = true
 
 [[files]]
+file = "mods/pinglist.toml"
+hash = "34627cf4cae0403943d07c90033e24fc44489b18e4ced2a6f083f542a0885de4"
+metafile = true
+
+[[files]]
 file = "mods/plusls-carpet-addition.toml"
 hash = "24cf18906505c1aee2269c4a0ecaf9f710c189974405efb1b3666a4394d4b74f"
 metafile = true
@@ -558,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.toml"
 hash = "a528ef946037184bf235a21bc5124379b21d5d3d9478378d8768c1c93ed089b5"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.toml"
+hash = "28d4a3e0984e06e28d6a11440fb49b9a2ddf5f524911517b547a98c650c17457"
 metafile = true
 
 [[files]]

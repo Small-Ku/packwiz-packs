@@ -1,0 +1,21 @@
+name = "PingList"
+filename = "pinglist-1.3.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GzmTgzUV/versions/1.3.3/pinglist-1.3.3.jar"
+hash-format = "sha1"
+hash = "49b36879fa3aca3121e6ff058c6f80f4a0866e04"
+
+[update]
+[update.modrinth]
+mod-id = "GzmTgzUV"
+version = "h7s8KmK7"
+
+[option]
+default = false
+optional = true
+description = """
+Show ping value instead of icon
+\u986f\u793a Ping \u503c\u800c\u975e\u5716\u793a
+"""
