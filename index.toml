@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.toml"
-hash = "2967a30206f596fb13153d79c918576941111fa0300432ebf907120d2615f696"
+hash = "6f6e02671aceb916327786226f4ee05c1e55371adfafbc378b1a6979a5548a58"
 metafile = true
 
 [[files]]
