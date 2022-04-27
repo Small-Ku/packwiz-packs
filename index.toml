@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/beenfo.toml"
-hash = "994533b8b486d686ba8b6de2932f5d61099ac88cabf98cbe8b8312bc6d833e0d"
+hash = "d222d518ab39d47158d4a8bf5490fd36f2bbbbd76191dc4c4c1a7d227e2de7d2"
 metafile = true
 
 [[files]]
