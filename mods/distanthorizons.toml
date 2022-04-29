@@ -14,4 +14,9 @@ version = "qLXa9pDD"
 
 [option]
 optional = true
-description = "Extremely great performance with larger render distance\n(Ignored by Iris shaders now)\n增大渲染距離同時保留良好性能\n(目前 Iris 光影無視此 Mod)\n"
+description = """
+Extremely great performance with larger render distance
+(Ignored by Iris shaders now)
+\u589e\u5927\u6e32\u67d3\u8ddd\u96e2\u540c\u6642\u4fdd\u7559\u826f\u597d\u6027\u80fd
+(\u76ee\u524d Iris \u5149\u5f71\u7121\u8996\u6b64 Mod)
+"""
