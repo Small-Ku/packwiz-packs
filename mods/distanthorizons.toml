@@ -1,0 +1,17 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-1.6.3a-1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.2/DistantHorizons-1.6.3a-1.18.2.jar"
+hash-format = "sha1"
+hash = "b3da024bf73951522b287ea41ce9763589275703"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "qLXa9pDD"
+
+[option]
+optional = true
+description = "Extremely great performance with larger render distance\n(Ignored by Iris shaders now)\n增大渲染距離同時保留良好性能\n(目前 Iris 光影無視此 Mod)\n"

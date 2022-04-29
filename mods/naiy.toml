@@ -1,0 +1,21 @@
+name = "No Arrows In You!"
+filename = "naiy-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZaqy8Ry/versions/1.1.1/naiy-1.1.1.jar"
+hash-format = "sha1"
+hash = "fe95804d90c35f66d893d63c665fc78d500be77b"
+
+[update]
+[update.modrinth]
+mod-id = "DZaqy8Ry"
+version = "RJtF3hYF"
+
+[option]
+default = false
+optional = true
+description = """
+Hide unwanted items locally, like arrows and armour on the player body
+\u672c\u5730\u96b1\u85cf\u4e0d\u60f3\u986f\u793a\u7684\u7269\u54c1\uff0c\u5982\u8eab\u4e0a\u7684\u7bad\u77e2\u548c\u76d4\u7532
+"""

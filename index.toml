@@ -101,6 +101,11 @@ hash = "a4002c9354f1ee84f1e7c773e45669542899558f16cd569894198d522bd488e7"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "3131a4791da4d5ab609764f24863ae93276258d492932763a0a24c41dc5747b5"
+metafile = true
+
+[[files]]
 file = "mods/audaki-cart-engine.toml"
 hash = "f3068c9101870ac45da38e89b3698c74c3f68ad90790b28e169b8c76780ed328"
 metafile = true
@@ -206,8 +211,8 @@ hash = "7f0e5d19b4298ea29e6065340f996054ec980243e7a82121de9bc698b0c29705"
 metafile = true
 
 [[files]]
-file = "mods/clickopener.toml"
-hash = "117072888a6b22b08747c232b4c23dadf73bbbbe7665982ade399515af701193"
+file = "mods/cleardespawn.toml"
+hash = "ebbc17f99dab451420f9b8602dc9c6117572613856089bb0e00c580cb05c4b67"
 metafile = true
 
 [[files]]
@@ -276,8 +281,18 @@ hash = "8d6681b4197f138b8233b8703a312ba4e3c94e71e132c9258ba7a0469c9f3bcd"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.toml"
+hash = "edf1b4cc1a40c932e6470e958a4e902383259d12f0274ee1f223ee1cad638ecc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "afc427ce4a5cc714c6f038ddeafa1f6db9eb4989c96f8af1bfafe802fddfc0f4"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.toml"
+hash = "c3690fb57dba74290ba510148134eb2641966644e94ed6bef4ac3ad816b61bc5"
 metafile = true
 
 [[files]]
@@ -337,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastdecay.toml"
-hash = "0a0384cf54c6a40215d1b05448fad731c4d3cda7a6fc4af745527e22a9d9b21c"
+hash = "565363a3caec1ee0e323412efd231904ad24d202004c2deee68127c63f1e447c"
 metafile = true
 
 [[files]]
@@ -392,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "3591affca83418810ab8e7dd65b552365b30cad2afb8989e54d4e3dda772be3a"
+hash = "1d6109395404d9f01e782eae6d480947f70aaec067e6a906b58aefa1380219e4"
 metafile = true
 
 [[files]]
@@ -426,6 +441,11 @@ hash = "20672032d1209c41002248b9826043d3520448a227c39203fd49e85f496e0926"
 metafile = true
 
 [[files]]
+file = "mods/limited-chunkloading.toml"
+hash = "4abdae0efcdb71a3b897d101179f25171725ae3cff54e6241395beb5cf4f7ea1"
+metafile = true
+
+[[files]]
 file = "mods/litematica.toml"
 hash = "cb493682000d8a57050bfbd806d215ef1d06763cca3126400e9741513bec23c5"
 metafile = true
@@ -453,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.toml"
 hash = "97fe66dd1a62971e0e8a5c57ea9ab28390940cf8aad23c5d8bda07fd32e6aaa8"
+metafile = true
+
+[[files]]
+file = "mods/naiy.toml"
+hash = "42a5fe95a00b3cf6c9d3e445967caa3901a5a7bf809415f39eaad9289850d6e0"
 metafile = true
 
 [[files]]
@@ -491,6 +516,11 @@ hash = "85509fa1c1431cfa18607e1c493ad4d10c6265f874254ac6dd6b0009e644ce43"
 metafile = true
 
 [[files]]
+file = "mods/quick-shulker.toml"
+hash = "b62173d918610f00daedabda3a1d397cf5483f47e1413253b27ccbad9f2e3173"
+metafile = true
+
+[[files]]
 file = "mods/recipe-cache.toml"
 hash = "11c018122cc7f66bbcd2e929655e2764a83a0172504a3e2d3a3847236645cea3"
 metafile = true
@@ -516,8 +546,18 @@ hash = "5de63c3b14132edf2509c652248e6265448f4ea989f13c175ddb2a2a4ffc03f0"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "3cff95b3d3dc558e3e90f73a80da451616e8269a9f03764c5f7fd6da55365215"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp.toml"
 hash = "2d4a09c5c6eac97ce89605964d76ec10aadfeb4a93328160b485ca64903b8cef"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.toml"
+hash = "9ec212534dfcf3dbabebd454ee14759926832153dae5fa5264babafc34bc2c23"
 metafile = true
 
 [[files]]
@@ -566,11 +606,6 @@ hash = "a528ef946037184bf235a21bc5124379b21d5d3d9478378d8768c1c93ed089b5"
 metafile = true
 
 [[files]]
-file = "mods/vtdownloader.toml"
-hash = "28d4a3e0984e06e28d6a11440fb49b9a2ddf5f524911517b547a98c650c17457"
-metafile = true
-
-[[files]]
 file = "mods/why-am-i-on-fire.toml"
 hash = "cef4b53fec24ecc766709d7308e77dd862f0ff417668e4bb71a8d96e8cf31a19"
 metafile = true
@@ -592,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "c11498eacc26fba039f26a68f8c18719ef98c36678362797bd8060ab31a2d26e"
+hash = "75699fb2a370f5e80746230deb23fc17246050ef4275f448ff8f7aed841603f3"
 metafile = true
 
 [[files]]

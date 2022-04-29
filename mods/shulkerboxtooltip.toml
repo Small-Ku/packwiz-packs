@@ -1,0 +1,21 @@
+name = "ShulkerBoxTooltip"
+filename = "shulkerboxtooltip-3.0.7+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3709/224/shulkerboxtooltip-3.0.7+1.18.2.jar"
+hash-format = "sha1"
+hash = "f95516b16b83a204ea5f5c21856d1d982a773765"
+
+[update]
+[update.curseforge]
+file-id = 3709224
+project-id = 315811
+
+[option]
+default = true
+optional = true
+description = """
+Preview shulker boxes in inventory
+\u80cc\u5305\u4e2d\u9810\u89bd\u754c\u4f0f\u76d2
+"""
