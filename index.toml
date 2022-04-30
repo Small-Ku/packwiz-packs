@@ -226,6 +226,11 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
+file = "mods/clumps.toml"
+hash = "c0184e2c3b291e5cbf6b08ef131757f0b2a73ca154fcc8e3ed440f41f0901ef5"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.toml"
 hash = "2254c5f47a86031d76ba84b9a5d63c015b7ca5165610baf3bac29aab1700c2ba"
 metafile = true
@@ -308,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.toml"
 hash = "e2f219b93b7baa34c488b5312dfd10c42ebafe6a0c6714877c492d2e4522aa34"
+metafile = true
+
+[[files]]
+file = "mods/editsign.toml"
+hash = "ccd6e0069b612cc8f79a5d157ebc938601a5864f95fb2b44e2e50146a4f27655"
 metafile = true
 
 [[files]]
@@ -556,6 +566,11 @@ hash = "2d4a09c5c6eac97ce89605964d76ec10aadfeb4a93328160b485ca64903b8cef"
 metafile = true
 
 [[files]]
+file = "mods/smoke-suppression.toml"
+hash = "7c4466418808ca24ac858d19724fd0e30e46c2decb81a82d26d1408bbfe3aa84"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.toml"
 hash = "9ec212534dfcf3dbabebd454ee14759926832153dae5fa5264babafc34bc2c23"
 metafile = true
@@ -573,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "69b156f1f1fe4fc3e2ab0a116c7b6914b151c9fdfbd18ea858712a38e41b1ae3"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.toml"
+hash = "29f08d21628ccffa19e1e88b9830609878bca4766b92410b6e1f12aa49c3fb9d"
 metafile = true
 
 [[files]]
@@ -638,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "105afc59db4f8c2a3b52f3f43c7c0ff4d6696d2ec1e2883085d3dd13d976aa02"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets-fabric.toml"
+hash = "3fec17db4a60e25b280c64de121401cdcdb5db08ca41d366b0d5a7794dc9bbe4"
 metafile = true
 
 [[files]]

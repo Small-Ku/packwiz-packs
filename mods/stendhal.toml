@@ -1,0 +1,21 @@
+name = "Stendhal"
+filename = "stendhal-1.2.0-1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BWloQ9jK/versions/1.2.0-1.18/stendhal-1.2.0-1.18.jar"
+hash-format = "sha1"
+hash = "310cd9a8210875969a4370476eae9c7a1d91ea4c"
+
+[update]
+[update.modrinth]
+mod-id = "BWloQ9jK"
+version = "ZBI5qTep"
+
+[option]
+optional = true
+default = false
+description = """
+Advance writing interfaces for signs, books and others
+\u9032\u968e\u66f8\u5beb\u754c\u9762\uff0c\u5982\u544a\u793a\u724c\u3001\u66f8\u672c\u7b49
+"""
