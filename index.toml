@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.toml"
-hash = "5e901f3cf6ef65e7db22c305898d95a9581038ba10e6e590366150a6bed95c23"
+hash = "3ea8e7d806f55c76067ef75d8623b355eca75973fc460ec399ea3532be59e280"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.toml"
-hash = "4c82542a3fbbe30372f186a727780b3bbe76c2b8494f4e1c17f5463a80012b19"
+hash = "3e8b84778868faef14fdac0e032c85f7960f60c192254584ccba7f21bc54071f"
 metafile = true
 
 [[files]]
@@ -652,12 +652,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "86ddb39a6473dc17292c3b13c8bbf1824a6a2001bdabb47fd1eaa1f880af86a7"
+hash = "80b38b1ea8055b66a075992b8dd98beeb2b39ab823e353edbf127c0f4cd76773"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "105afc59db4f8c2a3b52f3f43c7c0ff4d6696d2ec1e2883085d3dd13d976aa02"
+hash = "5f9096c13c0630f335d4bf8cad7aa3eef43e3af2b489476bc9b63738e5d3fb22"
 metafile = true
 
 [[files]]
