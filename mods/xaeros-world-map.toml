@@ -14,5 +14,5 @@ project-id = 317780
 
 [option]
 optional = true
-description = "World Map\n世界地圖\n"
+description = "World Map\n\u4e16\u754c\u5730\u5716\n"
 default = true

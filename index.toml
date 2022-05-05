@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "298dc96244702b439e68203405b02f56dcb9662e31911d4c536eb8290a9ad04b"
+hash = "f51210528b086bde156b5b7d2924501b3b234bf46df7f96ccc7b59feda072220"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "b56cd0f691bc321e9068deb670707476ee05ff209bc0b765b0fea1485f273a32"
+hash = "520f839322403e601d88ad7dc8a7e0eb8e2bc8e19415960b97900d3b6b873a6d"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "1fdec5c128fa330b7e36ee7aa9edd802f2229a03b0c56fcaf273cc4808955c6b"
+hash = "babac873227c776a7a131690d6aceedc4e2470fb4af0887cf020af05584539a0"
 metafile = true
 
 [[files]]
