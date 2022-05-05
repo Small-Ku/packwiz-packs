@@ -601,11 +601,6 @@ hash = "3dccf7def05fd2adf79f016dfe28086734a4279258e6710c002d30ffa8c5904e"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.toml"
-hash = "a528ef946037184bf235a21bc5124379b21d5d3d9478378d8768c1c93ed089b5"
-metafile = true
-
-[[files]]
 file = "mods/why-am-i-on-fire.toml"
 hash = "cef4b53fec24ecc766709d7308e77dd862f0ff417668e4bb71a8d96e8cf31a19"
 metafile = true
