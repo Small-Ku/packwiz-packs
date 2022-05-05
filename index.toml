@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.toml"
-hash = "898139f1ffe536741a2d9fb04b299294339b435dd4d622ed34fbdc01b4acc072"
+hash = "6e3c07ef813dc79f45b9a468b844b8e650c1c25d7a51394bc9e08a7ee329ee58"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "5db3d34910c73a5aafb80bf46bc1b4ca5524e98dfa04c6edaa5ffe0c21d981ed"
+hash = "298dc96244702b439e68203405b02f56dcb9662e31911d4c536eb8290a9ad04b"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "75699fb2a370f5e80746230deb23fc17246050ef4275f448ff8f7aed841603f3"
+hash = "b56cd0f691bc321e9068deb670707476ee05ff209bc0b765b0fea1485f273a32"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "5f9096c13c0630f335d4bf8cad7aa3eef43e3af2b489476bc9b63738e5d3fb22"
+hash = "1fdec5c128fa330b7e36ee7aa9edd802f2229a03b0c56fcaf273cc4808955c6b"
 metafile = true
 
 [[files]]
