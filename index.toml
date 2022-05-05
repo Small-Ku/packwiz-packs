@@ -226,11 +226,6 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
-file = "mods/clumps.toml"
-hash = "c0184e2c3b291e5cbf6b08ef131757f0b2a73ca154fcc8e3ed440f41f0901ef5"
-metafile = true
-
-[[files]]
 file = "mods/colormatic.toml"
 hash = "2254c5f47a86031d76ba84b9a5d63c015b7ca5165610baf3bac29aab1700c2ba"
 metafile = true
@@ -296,11 +291,6 @@ hash = "afc427ce4a5cc714c6f038ddeafa1f6db9eb4989c96f8af1bfafe802fddfc0f4"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.toml"
-hash = "c3690fb57dba74290ba510148134eb2641966644e94ed6bef4ac3ad816b61bc5"
-metafile = true
-
-[[files]]
 file = "mods/ears.toml"
 hash = "890ee7199d02f11b53d9a367f250f96ce33fad7b7677bc03ceb88749e9a9cda1"
 metafile = true
@@ -358,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/farsight-fabric.toml"
 hash = "3e8b84778868faef14fdac0e032c85f7960f60c192254584ccba7f21bc54071f"
-metafile = true
-
-[[files]]
-file = "mods/fastdecay.toml"
-hash = "565363a3caec1ee0e323412efd231904ad24d202004c2deee68127c63f1e447c"
 metafile = true
 
 [[files]]
@@ -571,11 +556,6 @@ hash = "7c4466418808ca24ac858d19724fd0e30e46c2decb81a82d26d1408bbfe3aa84"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.toml"
-hash = "9ec212534dfcf3dbabebd454ee14759926832153dae5fa5264babafc34bc2c23"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.toml"
 hash = "89ddc2132a4bf4a73a2dfc2aaff5cfe5f8ce59f07e5a0ad1b6d6f307cb43e0f5"
 metafile = true
@@ -638,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.toml"
 hash = "af42e72548527eda3a269c2ffd9a09e3b162a50b3bc52e72c6eb9b9c75731105"
-metafile = true
-
-[[files]]
-file = "mods/worldspecificviewdistance.toml"
-hash = "2e8a18a73e91e8369f5787394c3d32792f52691c63df7768d513c7baad6d93e6"
 metafile = true
 
 [[files]]
