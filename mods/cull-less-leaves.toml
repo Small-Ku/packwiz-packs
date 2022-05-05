@@ -1,0 +1,21 @@
+name = "Cull Less Leaves"
+filename = "CullLessLeaves-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.0/CullLessLeaves-1.0.0.jar"
+hash-format = "sha1"
+hash = "19559b8892f43cfd938a3900d9bec47baf51b767"
+
+[update]
+[update.modrinth]
+mod-id = "iG6ZHsUV"
+version = "ml8Zv0AV"
+
+[option]
+default = true
+optional = false
+description = """
+Leaves culling when too far from you
+\u592a\u9060\u7684\u6a39\u8449\u4e0d\u518d\u900f\u660e\uff0c\u53ef\u6539\u9032\u6027\u80fd
+"""

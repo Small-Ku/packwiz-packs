@@ -251,8 +251,8 @@ hash = "ea862a8928392085136546508d1fdb2c435e18612d81b3e742205edb8822e50b"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.toml"
-hash = "7a5098d349e368ede19ad86e5be4a22656c630f9f9d2beae110afaf97053c883"
+file = "mods/cull-less-leaves.toml"
+hash = "ba04616d4757f0ca1c1ebb0698ee4e124285d565dd1ee178047e9efcf7c3070d"
 metafile = true
 
 [[files]]
