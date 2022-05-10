@@ -1,20 +1,17 @@
 name = "Litematica"
-filename = "litematica-fabric-1.18.2-0.11.2.jar"
+filename = "litematica-fabric-1.18.2-0.11.3.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3751/645/litematica-fabric-1.18.2-0.11.2.jar"
+url = "https://edge.forgecdn.net/files/3783/909/litematica-fabric-1.18.2-0.11.3.jar"
 hash-format = "sha1"
-hash = "8d3faf150dd06a5955a9f81637871716a983d4b3"
+hash = "df3374fad636a66cda1f1e2d351aa3e50b8ea2ba"
 
 [update]
 [update.curseforge]
-file-id = 3751645
+file-id = 3783909
 project-id = 308892
 
 [option]
 optional = true
-description = """
-Blueprint mod that helps you building
-\u5efa\u7bc9\u85cd\u5716\u6a21\u7d44
-"""
+description = "Blueprint mod that helps you building\n建築藍圖模組\n"

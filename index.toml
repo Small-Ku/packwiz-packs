@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "4d669a04508c28e6008771129f5fba9aedf1b624c359aa000de8164a0023a10b"
+hash = "941809947ff907085417313e239355fda58bd143ddf5d455a5ac996f618101fd"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.toml"
-hash = "6e3c07ef813dc79f45b9a468b844b8e650c1c25d7a51394bc9e08a7ee329ee58"
+hash = "4d890a775be408f7122fe188bb44f1b22d599d4e84bd0fcc8228e27acafcb7e9"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "d5d51f09918916de122f3010ffcb5de856205b99d054323589ecf380a9048e11"
+hash = "5c0c04644840c5f8554e8efd4f0ed77536cccc97ffe08beabb8a14f043c48624"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "f51210528b086bde156b5b7d2924501b3b234bf46df7f96ccc7b59feda072220"
+hash = "29bcfba810546264daf1636489ea9c82a7c5ab213f2280c77e2a1767ad764771"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "30586be0f9dcb48ce0d11db01df1907d125419181093c4c4f3725db2d20caad4"
+hash = "15bd35a1a93a3ba029b773539243d1d52f340ced7fa33b2cd47d7c5c1a8319cd"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "cb493682000d8a57050bfbd806d215ef1d06763cca3126400e9741513bec23c5"
+hash = "07b5c31cf0068e787c2ce96fca723fbc44beb8a7e21d45e56282c773f27640fe"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "520f839322403e601d88ad7dc8a7e0eb8e2bc8e19415960b97900d3b6b873a6d"
+hash = "99bff32192e309c737f4ca01be32dcccbd37186749302a8acc99f1c21c63c476"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "babac873227c776a7a131690d6aceedc4e2470fb4af0887cf020af05584539a0"
+hash = "4cd153bc2e36d8af25721532d9c7ab991430577c96e588e9874d893c05b44bd2"
 metafile = true
 
 [[files]]
