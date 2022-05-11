@@ -1,4 +1,4 @@
-# Vanilla compatible 1.17
+# Vanilla compatible 1.18
 
 This is a packwiz pack that for me to play with friends. This is a vanilla compatible pack that able to let your map can be upgraded along with Minecraft version.
 
@@ -7,7 +7,7 @@ This is a packwiz pack that for me to play with friends. This is a vanilla compa
 Use [MultiMC](https://multimc.org/) and put the link below when importing zip.
 
 ```plain
-https://github.com/Small-Ku/packwiz-packs/releases/download/v0.1.0/1.17.1-optimized.zip
+https://github.com/Small-Ku/packwiz-packs/releases/download/v0.2.0/1.18.2.zip
 ```
 
 ## Usage
