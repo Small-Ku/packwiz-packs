@@ -14,5 +14,5 @@ version = "sYu2D6ez"
 
 [option]
 optional = false
-description = "Redstone optimization\n紅色優化\n"
+description = "Redstone optimization\n\u7d05\u77f3\u512a\u5316\n"
 default = true

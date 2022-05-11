@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "941809947ff907085417313e239355fda58bd143ddf5d455a5ac996f618101fd"
+hash = "2ce6dc4d49b378a819a013b8b42298588e31babdc2bc1d268a67e2de0d9058df"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5c0c04644840c5f8554e8efd4f0ed77536cccc97ffe08beabb8a14f043c48624"
+hash = "e803962d69e36eec1a5b0cfd8cfbb9d4f162877aabe9064df08f183e188e9e17"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "29bcfba810546264daf1636489ea9c82a7c5ab213f2280c77e2a1767ad764771"
+hash = "f4c504433b2f2ff6ac87ecddebb1ebf44cbf9b2e1f6dd85fec22ca256ca8605d"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "15bd35a1a93a3ba029b773539243d1d52f340ced7fa33b2cd47d7c5c1a8319cd"
+hash = "a2daf1d82ea32b0b5202a748d2956da52b7b088c28079bff4980028df53c1381"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "07b5c31cf0068e787c2ce96fca723fbc44beb8a7e21d45e56282c773f27640fe"
+hash = "66d58b1c7173b9d9b32b1b5e7c66abdccb6ebdd4b97ebfa943d5936b927f97ac"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "99bff32192e309c737f4ca01be32dcccbd37186749302a8acc99f1c21c63c476"
+hash = "b345a9f4e6e0558f3713595e32aa51bec16f423f95d6003d3f4de46a9c06fd1a"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "4cd153bc2e36d8af25721532d9c7ab991430577c96e588e9874d893c05b44bd2"
+hash = "f5b6f07c99060c7a2523670b658dacd3efcbc07f20694111163b00d19c81d702"
 metafile = true
 
 [[files]]

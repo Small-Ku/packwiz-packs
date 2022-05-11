@@ -14,5 +14,5 @@ version = "G5BBMNPg"
 
 [option]
 optional = true
-description = "Tidy up your inventory\n整理背包\n"
+description = "Tidy up your inventory\n\u6574\u7406\u80cc\u5305\n"
 default = true
