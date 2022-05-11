@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/_shaders-prismarine.toml"
-hash = "2a3bc21c9ebfbea40b1db4f896d0300b11d05f8eb3adcf055505c08052076b5c"
+hash = "7eb88290ffbe58ced67c8cfad5d27ce11d6b5b3242b5a8cefce08bb927a2c8ea"
 metafile = true
 
 [[files]]
