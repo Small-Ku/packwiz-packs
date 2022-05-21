@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "01b767aa4e557336de5fbdfb088575496717026994eaa89678015749988771d6"
+hash = "a28f294719a0ad9f4ad8e1c65524d44ce7f40e3ae5350d9243ae61ad7869e8fd"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.toml"
-hash = "ba04616d4757f0ca1c1ebb0698ee4e124285d565dd1ee178047e9efcf7c3070d"
+hash = "8d7d2615d22da5d18b61b57cd04d4fcd6454b959f9a7dd013c4d102cabe1a437"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
+hash = "05f054965d0aab61ddf3569fad49fd3ffb8d922c82fb0ec5d4f5cfb72679309f"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "a2daf1d82ea32b0b5202a748d2956da52b7b088c28079bff4980028df53c1381"
+hash = "28a8e4b3e2dbe142ee4e864d2ae7ed5724002e050c460d39e22a5e381131cf90"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
+hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "89ddc2132a4bf4a73a2dfc2aaff5cfe5f8ce59f07e5a0ad1b6d6f307cb43e0f5"
+hash = "0ceb27361fb9fd66ca6c29e8594d42ffb1d795da111b73b30d8cf6511ae81f67"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/stendhal.toml"
-hash = "29f08d21628ccffa19e1e88b9830609878bca4766b92410b6e1f12aa49c3fb9d"
+hash = "3f3029b716b22b481f02916b07f79bb5d25b58189e90017654b6a704e02daeec"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.toml"
-hash = "10da538c97b37f65d45b5ea3c3cb363ecf806872143ec9f1304adbdc94fe2822"
+hash = "64057661e74ae9ecd6b5ce8b2bb297a2fe718de694b8ce3ccdc6bf245553d316"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "b345a9f4e6e0558f3713595e32aa51bec16f423f95d6003d3f4de46a9c06fd1a"
+hash = "f7da2e27ef17e76f88dab288bda668f2745ddb3a8ca5fb8f8bc123467a684285"
 metafile = true
 
 [[files]]

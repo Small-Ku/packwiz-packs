@@ -1,18 +1,18 @@
 name = "WTHIT"
-filename = "wthit-fabric-4.10.1.jar"
+filename = "wthit-fabric-4.10.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.10.1/wthit-fabric-4.10.1.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.10.3/wthit-fabric-4.10.3.jar"
 hash-format = "sha1"
-hash = "73e1fc50286a55c05cee837a8b93ef28a05fd04f"
+hash = "014f61ffa930eaf41dd48156e97dde63abe08327"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "f18HhgGL"
+version = "IPNj6sXo"
 
 [option]
 optional = true
-description = "Showing info of blocks or entities the cursor pointing\n\u986f\u793a\u756b\u9762\u6307\u5411\u7684\u65b9\u584a\u6216\u751f\u7269\u8cc7\u8a0a\n"
+description = "Showing info of blocks or entities the cursor pointing\n顯示畫面指向的方塊或生物資訊\n"
 default = true
