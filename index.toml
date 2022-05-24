@@ -317,17 +317,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "df63099d7b6bc63638d180478e8872301ecc07fafb387628053e92bea8500a29"
+hash = "43572f74ccc991a0d47eb0525bdc5d4c90a56cf9cb58f9a20399697512f414ee"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "05f054965d0aab61ddf3569fad49fd3ffb8d922c82fb0ec5d4f5cfb72679309f"
+hash = "fc8ad8849c8f8aadf3b9d4a571ca7ff5c69567e34cac8c9f53327a6a07077aac"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
+hash = "30da0ced2d98c34bbcb44a49b7ee4bbcebe0fc33e6306e3f9db9140edee77256"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "28a8e4b3e2dbe142ee4e864d2ae7ed5724002e050c460d39e22a5e381131cf90"
+hash = "6232378275456fdf4c5407cc2475d4f5dbe188e4be7f82c797006a8bad24915f"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "4424a7f3b5a83fd7e13a2f92e81a9af498c66454758426b7059f973724b9cd5d"
+hash = "3c83c26e6fb2c82e712801d40ff88e89cf705fec2790ddfd488ad3bf6a28c324"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.toml"
-hash = "62c1b58a414e23d5aa6da2e09cd90c91394f56e5624ae456b7b6d35799057ae8"
+hash = "b6c1781cae6ee364f5df404f71a9a7731058d68e02df4074550bed1d44cf00ff"
 metafile = true
 
 [[files]]
