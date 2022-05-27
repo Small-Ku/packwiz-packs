@@ -317,12 +317,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "43572f74ccc991a0d47eb0525bdc5d4c90a56cf9cb58f9a20399697512f414ee"
+hash = "f8c44ad5b280b0d66867726222cb76e7f118804e7a02b056d9446edae8805a1a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fc8ad8849c8f8aadf3b9d4a571ca7ff5c69567e34cac8c9f53327a6a07077aac"
+hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "3cff95b3d3dc558e3e90f73a80da451616e8269a9f03764c5f7fd6da55365215"
+hash = "e401ed8a0913f9cf2076fdce831736e4a4ea1f5ad32105214cffd5b6c23bfaf9"
 metafile = true
 
 [[files]]
@@ -622,12 +622,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "80b38b1ea8055b66a075992b8dd98beeb2b39ab823e353edbf127c0f4cd76773"
+hash = "51e2740fb2d9432159ad2cf810918155bbfd9fa33b20e0aeb0332a54c54ba074"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f5b6f07c99060c7a2523670b658dacd3efcbc07f20694111163b00d19c81d702"
+hash = "884f4323c4f47913d94e6bedb7f1b12b864a33f50ea8d336c63a9f1ca7c3e7ea"
 metafile = true
 
 [[files]]
