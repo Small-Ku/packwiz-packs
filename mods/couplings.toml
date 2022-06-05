@@ -1,23 +1,18 @@
 name = "Couplings"
-filename = "Couplings-1.8.0+1.18.2.jar"
+filename = "Couplings-1.8.1+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3684/132/Couplings-1.8.0+1.18.2.jar"
 hash-format = "sha1"
-hash = "b37c77adb183848be3a876ed5f04b26256beb42c"
+hash = "c7d13c7308c8b6f3dcf8f38048bff45ca0f70b1f"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3684132
+file-id = 3816074
 project-id = 311120
 
 [option]
-default = true
 optional = true
-description = """
-Open doors in pair
-(required in our server for best experience)
-\u540c\u6b65\u958b\u555f\u96d9\u9580
-(\u5fc5\u9808\u5b89\u88dd\u4ee5\u5728\u4f3a\u670d\u5668\u7372\u5f97\u6700\u4f73\u9ad4\u9a57)
-"""
+description = "Open doors in pair\n(required in our server for best experience)\n同步開啟雙門\n(必須安裝以在伺服器獲得最佳體驗)\n"
+default = true

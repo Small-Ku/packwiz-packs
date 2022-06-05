@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.toml"
-hash = "4d890a775be408f7122fe188bb44f1b22d599d4e84bd0fcc8228e27acafcb7e9"
+hash = "8afa18eb45a3a0c2b2352cd531555e4f20118a83c1fbe29cbd96c6c0876df4d0"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/couplings.toml"
-hash = "004f7270409ca5daad047274468801373c439b43d091b63911efec5ec0567a4d"
+hash = "14af97f9ee1489f260bc43a0007823ce5a8d9123f1073e21278c0a503f18c69f"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "e803962d69e36eec1a5b0cfd8cfbb9d4f162877aabe9064df08f183e188e9e17"
+hash = "a40f19ebf79855b324b16665554d7780aa2314cf758f5cb193acd25640f4156d"
 metafile = true
 
 [[files]]
 file = "mods/discerning-furnace.toml"
-hash = "8d6681b4197f138b8233b8703a312ba4e3c94e71e132c9258ba7a0469c9f3bcd"
+hash = "50979d3f62ad3bf7d2d4104acdcb462e5542a8475b1803b6a4513fa78a23367b"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.toml"
-hash = "7ec0af7347a6bbb4ba9791556f0635661767b5326baa7aa11dc98f5ab1eceaae"
+hash = "64cd02e7794b87c99e288c3464de4da46c729f7e974e27e9b81873d4bd8005c3"
 metafile = true
 
 [[files]]
@@ -317,12 +317,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "f8c44ad5b280b0d66867726222cb76e7f118804e7a02b056d9446edae8805a1a"
+hash = "8fd1828ac5f1edbbe07eb2ec5ecefb9310520608a2f0b337f18b42d6ac1ce58e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
+hash = "bb9125b211bd88a79b263a0576aabb58446ebdabfa57f920866a56f2c8ff87ec"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "6232378275456fdf4c5407cc2475d4f5dbe188e4be7f82c797006a8bad24915f"
+hash = "10301cc2ca29c7175b84b43062ada93665d995466db10a5963f846ef6cfbe33e"
 metafile = true
 
 [[files]]
@@ -433,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "20672032d1209c41002248b9826043d3520448a227c39203fd49e85f496e0926"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "7d3d7c20eea36650337a0bc217cd7350ce49a322e4028e8597767558c99d9397"
 metafile = true
 
 [[files]]
@@ -572,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/stendhal.toml"
-hash = "3f3029b716b22b481f02916b07f79bb5d25b58189e90017654b6a704e02daeec"
+hash = "e2874f37795f2fdb18098f4e902cb4321a2cb251c1daaf6b743284c9b5ba0c5c"
 metafile = true
 
 [[files]]
@@ -592,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.toml"
-hash = "64057661e74ae9ecd6b5ce8b2bb297a2fe718de694b8ce3ccdc6bf245553d316"
+hash = "6dc7acc1f05fd1ce152994f3676c684938bdd6a567782f895d74805008aa080c"
 metafile = true
 
 [[files]]
@@ -622,12 +627,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "51e2740fb2d9432159ad2cf810918155bbfd9fa33b20e0aeb0332a54c54ba074"
+hash = "e78b34a2defd432846268ddcc79e7059932370da43aebbce274537659f456314"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "884f4323c4f47913d94e6bedb7f1b12b864a33f50ea8d336c63a9f1ca7c3e7ea"
+hash = "5f8eedef08ee93dc56d1b367be78782b13cbe8615b55dd5dcfb5c64f43923030"
 metafile = true
 
 [[files]]

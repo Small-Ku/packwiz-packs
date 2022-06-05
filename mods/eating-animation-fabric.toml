@@ -1,21 +1,17 @@
 name = "Eating Animation [Fabric]"
-filename = "eating-animation-1.6.jar"
+filename = "eating-animation-1.8.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3748/909/eating-animation-1.6.jar"
 hash-format = "sha1"
-hash = "bda6f2dbb141e6240fed1855d61a2d5e70d5ba4f"
+hash = "19b912d22bfd47d293fcff3bd615999b665136e8"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3748909
+file-id = 3808987
 project-id = 527023
 
 [option]
-default = false
 optional = true
-description = """
-Add sprite animation for eating or drinking
-\u65b0\u589e\u9032\u98df\u8cbc\u5716\u52d5\u756b
-"""
+description = "Add sprite animation for eating or drinking\n新增進食貼圖動畫\n"

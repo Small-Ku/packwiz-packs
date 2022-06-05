@@ -1,13 +1,14 @@
 name = "Discerning Furnace"
-filename = "discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
+filename = "discerning-furnace-1.0.6+MC1.18-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://kuko.ooo/packwiz-packs/mods/discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
+url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/1.0.6+MC1.18-1.18.2/discerning-furnace-1.0.6%2BMC1.18-1.18.2.jar"
 hash-format = "sha1"
-hash = "39ec95c8e212277b5ee826a8ecb94bc707faab61"
+hash = "35e93cc9e9800aeef427256c12593f4fac1827bf"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "G3Nz6HN4"
-version = "gHuD3XrQ"
+version = "ioEkTiNz"
