@@ -1,21 +1,18 @@
 name = "Enhanced Block Entities"
-filename = "enhancedblockentities-0.6+1.18.2.jar"
+filename = "enhancedblockentities-0.7+1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.6+1.18.2/enhancedblockentities-0.6%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7+1.18.2/enhancedblockentities-0.7%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "d4a4ce2f0249cd636eb3f820225082645885bd74"
+hash = "bd318830b4aa5767a0fe1acc246ef3c07fd53282"
 
 [update]
 [update.modrinth]
 mod-id = "OVuFYfre"
-version = "VOB3iJkd"
+version = "5FTTHyNq"
 
 [option]
 optional = false
+description = "Enhance rendering fo some blocks, like chest\n優化部份方塊的渲染，如箱子等\n"
 default = true
-description = """
-Enhance rendering fo some blocks, like chest
-\u512a\u5316\u90e8\u4efd\u65b9\u584a\u7684\u6e32\u67d3\uff0c\u5982\u7bb1\u5b50\u7b49
-"""

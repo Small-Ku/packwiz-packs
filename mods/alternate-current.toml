@@ -1,18 +1,18 @@
 name = "Alternate Current"
-filename = "alternate-current-mc1.18-1.2.1.jar"
+filename = "alternate-current-mc1.18-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.2.1/alternate-current-mc1.18-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.3.0/alternate-current-mc1.18-1.3.0.jar"
 hash-format = "sha1"
-hash = "91335742891d772b4e9c281f088a879fb7492db4"
+hash = "908ede4f1c5572b354427f6e020f82f58c059feb"
 
 [update]
 [update.modrinth]
 mod-id = "r0v8vy1s"
-version = "sYu2D6ez"
+version = "XQit89EZ"
 
 [option]
 optional = false
-description = "Redstone optimization\n\u7d05\u77f3\u512a\u5316\n"
+description = "Redstone optimization\n紅石優化\n"
 default = true

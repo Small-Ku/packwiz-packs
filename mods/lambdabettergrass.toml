@@ -1,21 +1,17 @@
 name = "LambdaBetterGrass"
-filename = "lambdabettergrass-1.2.3+1.18.jar"
+filename = "lambdabettergrass-1.2.4+1.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.3+1.18/lambdabettergrass-1.2.3%2B1.18.jar"
+url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4+1.18/lambdabettergrass-1.2.4%2B1.18.jar"
 hash-format = "sha1"
-hash = "f5bdcf5dde183ca6c5b8ee28ab6193c1a9ef390d"
+hash = "941e27f095bd4a355ebf6f71212f378d4d7d5dca"
 
 [update]
 [update.modrinth]
 mod-id = "2Uev7LdA"
-version = "CXzPYiJu"
+version = "LpLEGUBZ"
 
 [option]
 optional = true
-default = false
-description = """
-Better looking grass
-\u66f4\u597d\u770b\u7684\u8349\u5730\u65b9\u584a
-"""
+description = "Better looking grass\n更好看的草地方塊\n"
