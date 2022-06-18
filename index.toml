@@ -166,8 +166,8 @@ hash = "fa66e1a55c299a1565b52785b93ad253347213e0c3c25f19103b6507ad988f53"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.toml"
-hash = "518b07f7f6e25742d89f123d533e308532ab49933891f26616c39766d3d549db"
+file = "mods/blanket.pw.toml"
+hash = "71a682490a6e11c388cd3f1a033586ea677fb2ed9e6a386aa65cd56a41de063e"
 metafile = true
 
 [[files]]
@@ -246,11 +246,6 @@ hash = "ea862a8928392085136546508d1fdb2c435e18612d81b3e742205edb8822e50b"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.toml"
-hash = "8d7d2615d22da5d18b61b57cd04d4fcd6454b959f9a7dd013c4d102cabe1a437"
-metafile = true
-
-[[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "d42283ff0e61c6de64aa9788614b490bd0447ecb1f62106acdd4271113d0e33a"
 metafile = true
@@ -261,8 +256,8 @@ hash = "b508f897caa2a2bf19dd9fadd6e579e946161cb36f3bdadcf9c58258a8bd5a9f"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.toml"
-hash = "059551dce99d3e954b0cf67a4fa78305a9aa06875467751c6ae676cd7f806964"
+file = "mods/dashloader.pw.toml"
+hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
 metafile = true
 
 [[files]]
@@ -406,13 +401,13 @@ hash = "908f672f8ebd3d88980b93835a426d8c615025493f0b24a88643b5e487b053a7"
 metafile = true
 
 [[files]]
-file = "mods/krypton.toml"
-hash = "e0c3be4687b8bcba89a393654ccf36aae871201ae27c7621741cde54b80b75a1"
+file = "mods/know-my-name.pw.toml"
+hash = "7d87b38be442787ba5ced6fa1a38ca3b42dbda1784283983b6084229c08c53a7"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.toml"
-hash = "d40e53091504eaa7154d0b350a0298b1b3a3ff161e61be625c0e8ead2cca4cf0"
+file = "mods/krypton.toml"
+hash = "e0c3be4687b8bcba89a393654ccf36aae871201ae27c7621741cde54b80b75a1"
 metafile = true
 
 [[files]]
@@ -436,11 +431,6 @@ hash = "20672032d1209c41002248b9826043d3520448a227c39203fd49e85f496e0926"
 metafile = true
 
 [[files]]
-file = "mods/ledger.pw.toml"
-hash = "7d3d7c20eea36650337a0bc217cd7350ce49a322e4028e8597767558c99d9397"
-metafile = true
-
-[[files]]
 file = "mods/limited-chunkloading.toml"
 hash = "4abdae0efcdb71a3b897d101179f25171725ae3cff54e6241395beb5cf4f7ea1"
 metafile = true
@@ -461,6 +451,11 @@ hash = "f1b99514e9f06909cfe235a9ae5ba943076b7283508b7bb40794e7c47b9fc92d"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
+metafile = true
+
+[[files]]
 file = "mods/minihud.toml"
 hash = "ea0b836e99dc826e7dc32d96fd81456498723d65f4b7ebc5a1dab0d0c1dcbccf"
 metafile = true
@@ -473,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.toml"
 hash = "97fe66dd1a62971e0e8a5c57ea9ab28390940cf8aad23c5d8bda07fd32e6aaa8"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "e2238e1b1b1d4d91d8d2d4015d622cbb52f3dee41cc3716c5472c0a597f1b974"
 metafile = true
 
 [[files]]
@@ -608,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/why-am-i-on-fire.toml"
 hash = "cef4b53fec24ecc766709d7308e77dd862f0ff417668e4bb71a8d96e8cf31a19"
-metafile = true
-
-[[files]]
-file = "mods/wither-cage-fix.toml"
-hash = "d33f2ce2c99c52a25255c3e472ed61a9eb1a90e5afdb7b457a2b21513f4f8050"
 metafile = true
 
 [[files]]

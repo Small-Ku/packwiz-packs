@@ -11,8 +11,3 @@ hash = "3c1878393470e694bf36b7af03d7b538448da38b"
 [update.modrinth]
 mod-id = "ZfQ3kTvR"
 version = "Av1aoyKG"
-
-[option]
-optional = true
-description = "Boost launching speed\n加快遊戲載入速度\n"
-default = true
