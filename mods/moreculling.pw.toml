@@ -1,22 +1,18 @@
 name = "More Culling"
-filename = "moreculling-1.18.2-0.1.4-alpha.jar"
+filename = "moreculling-1.18.2-0.8.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.4/moreculling-1.18.2-0.1.4-alpha.jar"
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2-1.18/moreculling-1.18.2-0.8.2.jar"
 hash-format = "sha1"
-hash = "e9d5f12b33c446372f0291e87af7bafdfb10ce66"
+hash = "dea034de00f8faefe9a57b74e733f1210c99e333"
 
 [update]
 [update.modrinth]
 mod-id = "51shyZVL"
-version = "uEub6pxk"
-
+version = "d2OS47y6"
 
 [option]
 optional = false
+description = "A mod that changes how blockstate culling is handled in order to improve performance\n不再渲染方塊不可見的一面\n"
 default = true
-description = """
-A mod that changes how blockstate culling is handled in order to improve performance
-不再渲染方塊不可見的一面
-"""

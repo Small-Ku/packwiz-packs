@@ -1,13 +1,13 @@
 name = "Know My Name!"
-filename = "knowmyname-1.0.0.jar"
+filename = "knowmyname-1.0.1-dev.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/PswX9vWM/versions/1.0.0/knowmyname-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/PswX9vWM/versions/1.0.1/knowmyname-1.0.1-dev.jar"
 hash-format = "sha1"
-hash = "6459fa48eaa86453f74498713abf53a8d048ae55"
+hash = "8fc9bead8febb6964b77713777a074bceda1bce9"
 
 [update]
 [update.modrinth]
 mod-id = "PswX9vWM"
-version = "Petr5FxN"
+version = "rWbTy9OC"

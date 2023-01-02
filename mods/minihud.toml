@@ -1,21 +1,17 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.18.2-0.22.0.jar"
+filename = "minihud-fabric-1.18.2-0.22.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3671/392/minihud-fabric-1.18.2-0.22.0.jar"
 hash-format = "sha1"
-hash = "dc85e2befc102c9260f6eebeb72317043ce6530a"
+hash = "b8101d801f8625b03d61707997b3a27197375785"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3671392
+file-id = 3909308
 project-id = 244260
 
 [option]
 optional = true
-default = false
-description = """
-More HUD in-game, like lighting values of each blocks
-\u66f4\u591a\u904a\u6232\u8cc7\u8a0a\u986f\u793a\uff0c\u5982\u65b9\u584a\u4eae\u5ea6
-"""
+description = "More HUD in-game, like lighting values of each blocks\n更多遊戲資訊顯示，如方塊亮度\n"

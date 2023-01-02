@@ -1,13 +1,13 @@
-name = "Audaki Cart Engine (faster better Minecarts)"
-filename = "audaki-cart-engine-mc1.18.x-fabric-v1.0.2.jar"
+name = "Audaki Cart Engine: Faster Minecarts / Balanced for Survival / Vanilla Carts Improved"
+filename = "audaki_cart_engine--fabric-mc1.18.2--v2.0.0.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3595/911/audaki-cart-engine-mc1.18.x-fabric-v1.0.2.jar"
 hash-format = "sha1"
-hash = "40338f860376c69d359f672cc599ec404d661f59"
+hash = "2634396f999d637397b2b294d3cbdd419a7307c6"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3595911
+file-id = 4006082
 project-id = 520576

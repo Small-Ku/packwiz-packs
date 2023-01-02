@@ -3,20 +3,15 @@ filename = "../shaderpacks/BSL.zip"
 side = "client"
 
 [download]
-url = "https://media.forgecdn.net/files/3726/264/BSL_v8.1.02.2.zip"
 hash-format = "sha1"
-hash = "6fe6b8c743ed3b29642e1c712bd47954466a13d5"
+hash = "ddd94583683e3095ddc1db37f00752d9d92ec173"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3726264
+file-id = 4119558
 project-id = 322506
 
 [option]
-default = false
 optional = true
-description = """
-A shaderpack with high customization and optimization.
-\u53ef\u6309\u9700\u8abf\u6574\u7684\u9ad8\u6548\u5149\u5f71\u5305
-See more at https://bitslablab.com/bslshaders/
-"""
+description = "A shaderpack with high customization and optimization.\n可按需調整的高效光影包\nSee more at https://bitslablab.com/bslshaders/\n"

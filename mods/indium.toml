@@ -1,21 +1,18 @@
 name = "Indium"
-filename = "indium-1.0.3+mc1.18.2.jar"
+filename = "indium-1.0.7+mc1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.3+mc1.18.2/indium-1.0.3%2Bmc1.18.2.jar"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7%2Bmc1.18.2/indium-1.0.7%2Bmc1.18.2.jar"
 hash-format = "sha1"
-hash = "a20793e65789fb9ef248d07dfd2fcd79e8afb53d"
+hash = "5f5e0910181572f844171ed4f2f11e23f3c68af6"
 
 [update]
 [update.modrinth]
 mod-id = "Orvt0mRa"
-version = "ZxoJeTLg"
+version = "H45YVREb"
 
 [option]
 optional = false
-description = """
-Compatibility layer for Sodium when using other decorating mods
-Sodium \u7684\u76f8\u5bb9\u5c64\uff0c\u7528\u4ee5\u76f8\u5bb9\u5176\u4ed6\u88dd\u98fe\u6a21\u7d44
-"""
+description = "Compatibility layer for Sodium when using other decorating mods\nSodium 的相容層，用以相容其他裝飾模組\n"
 default = true

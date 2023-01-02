@@ -3,20 +3,15 @@ filename = "../shaderpacks/Complementary.zip"
 side = "client"
 
 [download]
-url = "https://media.forgecdn.net/files/3685/89/ComplementaryShaders_v4.4.zip"
 hash-format = "sha1"
-hash = "00e28c19ac1ee7ac886d9930d4a73e674e564d82"
+hash = "f308b1fb3eea3557b4bab61ec4afec47d905f285"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3685089
+file-id = 4279382
 project-id = 385587
 
 [option]
-default = false
 optional = true
-description = """
-A shaderpack try to provide you with the most issueless experience possible.
-\u5617\u8a66\u63d0\u4f9b\u7121\u7455\u9ad4\u9a57\u7684\u5149\u5f71\u5305
-See more at https://www.curseforge.com/minecraft/customization/complementary-shaders
-"""
+description = "A shaderpack try to provide you with the most issueless experience possible.\n嘗試提供無瑕體驗的光影包\nSee more at https://www.curseforge.com/minecraft/customization/complementary-shaders\n"

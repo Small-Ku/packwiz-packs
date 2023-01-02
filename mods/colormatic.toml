@@ -1,21 +1,18 @@
 name = "Colormatic"
-filename = "colormatic-3.1.1+mc.1.18.2.jar"
+filename = "colormatic-3.1.2-pre.fix+mc.1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/V4IQxkZC/versions/3.1.1/colormatic-3.1.1%2Bmc.1.18.2.jar"
+url = "https://cdn.modrinth.com/data/V4IQxkZC/versions/xI7F43eN/colormatic-3.1.2-pre.fix%2Bmc.1.18.2.jar"
 hash-format = "sha1"
-hash = "d3af2a138c40336bd9a62a27499d7ca4e80e8dc4"
+hash = "84fe9aea2b9451123fffbb74813c9f507513b3bc"
 
 [update]
 [update.modrinth]
 mod-id = "V4IQxkZC"
-version = "WgTudbwD"
+version = "xI7F43eN"
 
 [option]
-default = true
 optional = true
-description = """
-Enables resource packs to add and change block and biome colors
-\u8cc7\u6e90\u5305\u53ef\u65b0\u589e\u548c\u8b8a\u66f4\u65b9\u584a\u8207\u751f\u614b\u57df\u984f\u8272
-"""
+description = "Enables resource packs to add and change block and biome colors\n資源包可新增和變更方塊與生態域顏色\n"
+default = true

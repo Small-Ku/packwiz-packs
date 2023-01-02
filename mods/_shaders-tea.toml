@@ -3,20 +3,15 @@ filename = "../shaderpacks/Tea.zip"
 side = "client"
 
 [download]
-url = "https://media.forgecdn.net/files/3592/929/Tea_V1.5.6.1.zip"
 hash-format = "sha1"
-hash = "ebcf4420950f5a2e9a81c5dde9ddba32994248b0"
+hash = "c4a45a898f1fbebd46f1b007a91939c31bdf7865"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3592929
+file-id = 4262597
 project-id = 331780
 
 [option]
-default = false
 optional = true
-description = """
-A shaderpack add a little bit extra to vanilla Minecraft in a fully customizable way.
-\u4ee5\u53ef\u8a2d\u5b9a\u7684\u65b9\u5f0f\u70ba\u539f\u7248\u589e\u6dfb\u8996\u89ba\u6548\u679c\u7684\u5149\u5f71\u5305
-See more at https://www.curseforge.com/minecraft/customization/beyondbelief-vanilla-reborn
-"""
+description = "A shaderpack add a little bit extra to vanilla Minecraft in a fully customizable way.\n以可設定的方式為原版增添視覺效果的光影包\nSee more at https://www.curseforge.com/minecraft/customization/beyondbelief-vanilla-reborn\n"
