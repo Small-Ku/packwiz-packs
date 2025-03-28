@@ -1,21 +1,18 @@
 name = "Fabrishot"
-filename = "fabrishot-1.7.0.jar"
+filename = "fabrishot-1.14.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.7.0/fabrishot-1.7.0.jar"
-hash-format = "sha1"
-hash = "343f31455c666b3979026d8a983abfa9c8ca0c9e"
+url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/4eAaapNR/fabrishot-1.14.3.jar"
+hash-format = "sha512"
+hash = "a6d0816c66a8a36126751d7aa1e9a0355c451e9ed9ccb34cb0542991349bdb9eff19e767d4a4727adcaa2089fd37179846642ff25a463b1ac39b2cdded4f5f82"
 
 [update]
 [update.modrinth]
 mod-id = "3qsfQtE9"
-version = "MydLWyXb"
+version = "4eAaapNR"
 
 [option]
-default = true
 optional = true
-description = """
-Screenshot in other resolution
-\u4ee5\u5176\u4ed6\u89e3\u6790\u5ea6\u622a\u5716
-"""
+description = "Screenshot in other resolution\n以其他解析度截圖\n"
+default = true

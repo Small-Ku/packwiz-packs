@@ -1,17 +1,17 @@
 name = "Falling Leaves"
-filename = "fallingleaves-1.11.1+1.18.2.jar"
+filename = "fallingleaves-1.17.0+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/1.11.1/fallingleaves-1.11.1%2B1.18.2.jar"
-hash-format = "sha1"
-hash = "eaedf924b6774ef266ca0382d38c6325aa37f331"
+url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/TfbakxnW/fallingleaves-1.17.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "be673c9813100962d352752a5877599022dff9923c94fb21cd5dc5118ffded7f5e2b10ca45287cf904c6a08072f3a49e0d16699ee99a9ea5c0c21ce154909ff6"
 
 [update]
 [update.modrinth]
 mod-id = "WhbRG4iK"
-version = "FaCaUOFs"
+version = "TfbakxnW"
 
 [option]
 optional = true
-description = "Particle of falling leaves\n\u6a39\u8449\u98c4\u843d\u6548\u679c\n"
+description = "Particle of falling leaves\n樹葉飄落效果\n"

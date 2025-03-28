@@ -1,0 +1,18 @@
+name = "Just Zoom"
+filename = "justzoom_fabric_2.1.0_MC_1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAiqcykM/versions/XuLKI2zZ/justzoom_fabric_2.1.0_MC_1.21.4.jar"
+hash-format = "sha512"
+hash = "4a042ca93bbd740be00489bab92d0b1e354fd7afa3ed1567673aa172e6b9f3672324591a1f4edc1b88c201452a3d71ad3bd4ffc1398215c5b2fca8c7eec0b760"
+
+[update]
+[update.modrinth]
+mod-id = "iAiqcykM"
+version = "XuLKI2zZ"
+
+[option]
+optional = true
+description = "Zoom in-game\n放大鏡\n"
+default = true

@@ -1,21 +1,18 @@
 name = "Krypton"
-filename = "krypton-0.1.9.jar"
+filename = "krypton-0.2.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar"
-hash-format = "sha1"
-hash = "466a8a26949497a3b11886a788e6e156a8b03d24"
+url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+hash-format = "sha512"
+hash = "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784"
 
 [update]
 [update.modrinth]
 mod-id = "fQEb0iXm"
-version = "vJQ7plH2"
+version = "Acz3ttTp"
 
 [option]
 optional = true
+description = "Improve network performance on installed servers (cannot login Hypixel)\n改進網絡性能（無法進入 Hypixel）\n"
 default = true
-description = """
-Improve network performance on installed servers (cannot login Hypixel)
-\u6539\u9032\u7db2\u7d61\u6027\u80fd\uff08\u7121\u6cd5\u9032\u5165 Hypixel\uff09
-"""

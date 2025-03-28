@@ -1,21 +1,18 @@
 name = "ServerCore"
-filename = "servercore-1.2.9-1.18.2.jar"
+filename = "servercore-fabric-1.5.8+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.9/servercore-1.2.9-1.18.2.jar"
-hash-format = "sha1"
-hash = "34aa64703ee1269b6ff3e460b5c0ea75e3a46938"
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/uJYh4tBK/servercore-fabric-1.5.8%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "5fe7feb62487d54b3779d4418a675b82be817b3e35a808f320582e4efec2422454c8a129793f0c11c9eb8a0f406c0f7e2003d46c936416a2bfea6a5f85a4ead2"
 
 [update]
 [update.modrinth]
 mod-id = "4WWQxlQP"
-version = "1Axad5Jl"
+version = "uJYh4tBK"
 
 [option]
 optional = false
+description = "Optimization\n優化\n"
 default = true
-description = """
-Optimization
-\u512a\u5316
-"""

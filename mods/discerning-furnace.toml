@@ -1,14 +1,13 @@
 name = "Discerning Furnace"
-filename = "discerning-furnace-1.0.6+MC1.18-1.18.2.jar"
+filename = "discerning-furnace-1.2.1+MC1.21.2-1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/1.0.6+MC1.18-1.18.2/discerning-furnace-1.0.6%2BMC1.18-1.18.2.jar"
-hash-format = "sha1"
-hash = "35e93cc9e9800aeef427256c12593f4fac1827bf"
-mode = ""
+url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/OjasvHUK/discerning-furnace-1.2.1%2BMC1.21.2-1.21.4.jar"
+hash-format = "sha512"
+hash = "cf2fbb35368f00158c6faa2d8d2f9600b6d380d0323625608b884c36b5be7835bd00c1039efa3b5ce1e5008a91161e56bbd0f9dce6c4c78871af387f923c79e5"
 
 [update]
 [update.modrinth]
 mod-id = "G3Nz6HN4"
-version = "ioEkTiNz"
+version = "OjasvHUK"

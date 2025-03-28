@@ -1,21 +1,18 @@
 name = "Boat Item View"
-filename = "Boat-Item-View-Fabric-1.18-0.0.3.jar"
+filename = "boatiview-fabric-0.0.6-1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/1.18-0.0.3-fabric/Boat-Item-View-Fabric-1.18-0.0.3.jar"
-hash-format = "sha1"
-hash = "dc48a1b617ea555013aec9f4ceb02b84c68994fe"
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/s2YYGiGA/boatiview-fabric-0.0.6-1.21.4.jar"
+hash-format = "sha512"
+hash = "c387b90fb1e44d96959c0ad8deb694d12e1117e74f08b731fcc047be4d8877d9594611ef3e432a780f5cd550afaeb339e64233c775d4c959aa88fe5dda9cba0f"
 
 [update]
 [update.modrinth]
 mod-id = "BdKIyOLe"
-version = "n8Cenodv"
+version = "s2YYGiGA"
 
 [option]
-default = true
 optional = true
-description = """
-A mod that shows map when on boat
-\u8239\u4e0a\u822a\u884c\u9014\u4e2d\u4e5f\u80fd\u512a\u96c5\u770b\u5730\u5716
-"""
+description = "A mod that shows map when on boat\n船上航行途中也能優雅看地圖\n"
+default = true
