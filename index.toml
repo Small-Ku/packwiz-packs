@@ -57,17 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "aa9cb3625d8f374506e23a28f2974c9db1255a91a731f71c94e9c84474942745"
+hash = "fa9083707ab87b052eeaf452b8377bbf45ea6e9879f77b8e574d8718b48fb9f0"
 metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
 hash = "8cfff5424b30f56bc975ca0ff53e3c51a32223bbaf2e2a4114120d230b79ac74"
-metafile = true
-
-[[files]]
-file = "mods/crops-love-rain.toml"
-hash = "446a273b3868578eb7f511b585a2648519a3487de209557b222910e53872b72c"
 metafile = true
 
 [[files]]
@@ -106,7 +101,7 @@ hash = "c7d862e2ea5ebf24b08592890def184b7eb62c0b5322aa067d6570a5b8ac6eca"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
+file = "mods/fabric-api.pw.toml"
 hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
@@ -207,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "1dca34b6b590dc04f6d1ba6c625dbcc4bd746d8c079ee9db921cb0b98a9c6fbd"
+hash = "0f9b7128bdc73bb4d1eb6464d1a35ea5b636bf2045e5935d78cf0ce2938fb0f5"
 metafile = true
 
 [[files]]
@@ -226,8 +221,13 @@ hash = "1bc80b4a0e3090aa9db46f93a07d979e9d1e21f452c4e62aeb42e879a63bd84d"
 metafile = true
 
 [[files]]
+file = "mods/simple-auto-fishing.pw.toml"
+hash = "cceaabda077bce6a3e87d61e28bda3bd3a31f0226fe80e54ec2526a8462ed5dc"
+metafile = true
+
+[[files]]
 file = "mods/smoke-suppression.toml"
-hash = "58be4c8277ce771975f08cdc2e8c9dc8a6cfcd97c2d4fc82dba53ddaba2ccc3d"
+hash = "a7c67fe4bf6f196d78b3db6e4516314f4267af9120a182286a2f3e087a802ec1"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+hash = "9d637c645307f234835b126c7d0483102f5415c43dcc511dcc9a2f94205052bf"
 metafile = true
 
 [[files]]
 file = "resourcepacks/nautilus3d.pw.toml"
-hash = "5593f9a47971b7c3e96f806509da9f10b84fa30916efbc10126145c137e4bd28"
+hash = "924686e0258db47e11ea426ab6d0346887ce0975146d003cb59c7c8796ff8cf1"
 metafile = true
 
 [[files]]

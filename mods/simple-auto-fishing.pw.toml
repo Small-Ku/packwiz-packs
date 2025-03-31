@@ -1,0 +1,21 @@
+name = "Simple Auto Fishing"
+filename = "simpleautofishing-1.6.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1QiuaW2I/versions/EwUEEJGR/simpleautofishing-1.6.5.jar"
+hash-format = "sha512"
+hash = "46236c5fd467d7290331a9608ae42d3f007988642943c9bf9dc12e76fd0d071861992dd46ef0aa6f27108885d0753cc65af3a6074537a837eabf75c88984dbf8"
+
+[update]
+[update.modrinth]
+mod-id = "1QiuaW2I"
+version = "EwUEEJGR"
+
+[option]
+default = false
+optional = true
+description = """
+Auto-fishing
+\u81ea\u52d5\u91e3\u9b5a
+"""
