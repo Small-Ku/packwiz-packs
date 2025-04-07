@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.toml"
-hash = "bec14a140b54bfc92e6f04d435a7fc904fdd4c1f3bdb89ec5f6450f145b820e3"
+hash = "3b92991455992f75f103b40439baf791a400309bdce3faa6226cc0ef4a3d609c"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "1ecb5dea0d6ce62b0bd99914bccfa2c2accdb4665e6c3032cabe8e492018ea52"
+hash = "23b0cc85a8b9782e929a6f22bfa390e5b098cb2b4c60309b1f16ba897477ce72"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "6622883db50e83791c536a455b973cd9157ed5567faf24241af0af9fc1b37b91"
+hash = "1ebbd65170c2954f106006dd671d1d6c6bd735a9353ec3ca5bb9bbe1b3418407"
 metafile = true
 
 [[files]]
