@@ -1,0 +1,17 @@
+name = "Fabrishot"
+filename = "fabrishot-1.14.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/4eAaapNR/fabrishot-1.14.3.jar"
+hash-format = "sha256"
+hash = "e08b16bd1e3b95503b044dfed29a435b8a8381b1be8741e55958e37e6cd9244e"
+
+[update]
+[update.modrinth]
+mod-id = "3qsfQtE9"
+version = "4eAaapNR"
+
+[option]
+optional = true
+description = "Screenshot in other resolution\n以其他解析度截圖"

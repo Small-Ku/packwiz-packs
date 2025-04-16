@@ -1,0 +1,18 @@
+name = "Bedrodium"
+filename = "Bedrodium-0.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5roWs6VO/versions/cIEzF9HL/Bedrodium-0.3.0.jar"
+hash-format = "sha256"
+hash = "a761e1f7983a89d18098c28acb68d9ade07993f3fdd7544f429f4bcbafb80b52"
+
+[update]
+[update.modrinth]
+mod-id = "5roWs6VO"
+version = "cIEzF9HL"
+
+[option]
+optional = false
+description = "Small optimization by removing the invisible sides of the bedrock\n少許優化，移除基岩下不可見的部分"
+default = true

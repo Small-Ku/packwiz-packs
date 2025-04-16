@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UDDa70lE/versions/rfCVvTvJ/UShader_v2.2.zip"
-hash-format = "sha512"
-hash = "09ab80742840d0dbb43259cdff1df9aa30c38c24f0aa99f825edb36a1b6f696735a760d3348885008215e1abd41de7b9ecdc48bc888aff69a1458e187337055f"
+hash-format = "sha256"
+hash = "89afb9c0a7ad56810b01c4113a24443f312fd614647031c5ab01c6e6dc975419"
 
 [update]
 [update.modrinth]
@@ -13,5 +13,4 @@ mod-id = "UDDa70lE"
 version = "rfCVvTvJ"
 
 [option]
-default = false
 optional = true

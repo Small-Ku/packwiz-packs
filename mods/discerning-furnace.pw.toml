@@ -1,0 +1,13 @@
+name = "Discerning Furnace"
+filename = "discerning-furnace-1.2.2+MC1.21.2-1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/kR705dSG/discerning-furnace-1.2.2%2BMC1.21.2-1.21.5.jar"
+hash-format = "sha256"
+hash = "ebd419f4b33b058f3e7f300918e82e61e1d181624e9154d9000b1a30ddad4244"
+
+[update]
+[update.modrinth]
+mod-id = "G3Nz6HN4"
+version = "kR705dSG"

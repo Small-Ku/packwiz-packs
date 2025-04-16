@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UMxybHE8/versions/ICpV7cCW/minihud-fabric-1.21.4-0.34.4.jar"
-hash-format = "sha512"
-hash = "6b172894d8f64bfeee0209c585fa13833c4dab1f0a75673a85d9b0798bc278588268e5776f200b1b25ce35529c8e6cf9c572ebe18eabba29da8a3f03f66ea46a"
+hash-format = "sha256"
+hash = "940c7d9338b44887305e0b0adc79e25519715ca4d83ecd13fc432826613a5d94"
 
 [update]
 [update.modrinth]
@@ -14,4 +14,4 @@ version = "ICpV7cCW"
 
 [option]
 optional = true
-description = "More HUD in-game, like lighting values of each blocks\n更多遊戲資訊顯示，如方塊亮度\n"
+description = "More HUD in-game, like lighting values of each blocks\n更多遊戲資訊顯示，如方塊亮度"

@@ -1,0 +1,18 @@
+name = "FerriteCore"
+filename = "ferritecore-7.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar"
+hash-format = "sha256"
+hash = "0dd5e9203552024e38e73a0f5b46a82eb66f0318b23289c6842b268663274a79"
+
+[update]
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "IPM0JlHd"
+
+[option]
+optional = false
+description = "Optimize RAM usage\nRAM 優化"
+default = true

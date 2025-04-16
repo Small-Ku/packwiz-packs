@@ -1,0 +1,18 @@
+name = "caramelChat"
+filename = "caramelChat-mc1.20.4-fabric-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M4vJe1FJ/versions/VrxEDJuH/caramelChat-mc1.20.4-fabric-1.2.0.jar"
+hash-format = "sha256"
+hash = "e0e3ca2050317742c3bbecd42afa37ddf9ec1283a930ba548e2611cf4981b0ac"
+
+[update]
+[update.modrinth]
+mod-id = "M4vJe1FJ"
+version = "VrxEDJuH"
+
+[option]
+optional = true
+description = "Avoid problems with CJK IME\n(Incompatible with Input Tooltip of macOS)\n兼容中日韓輸入法\n（不相容 macOS 新的文字游標）"
+default = true

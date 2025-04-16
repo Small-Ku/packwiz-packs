@@ -1,0 +1,17 @@
+name = "Auto Switch Elytra"
+filename = "auto_switch_elytra-fabric-1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBScOeIk/versions/jLAxMDLR/auto_switch_elytra-fabric-1.21.3.jar"
+hash-format = "sha256"
+hash = "0e27193abd515350a52c1c8a1f1577ccfb2d2d7494ebe3bdf263117c0f423728"
+
+[update]
+[update.modrinth]
+mod-id = "vBScOeIk"
+version = "jLAxMDLR"
+
+[option]
+optional = true
+description = "Auto switch elytra\n自動切換鞘翅"

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
-hash-format = "sha512"
-hash = "5296c4b0c0be6d5259b985577154c02e6534818465205e6995b5229b26414b423d333199152693118a897f31312e4de051abe28df7d0dd0950c8b649e54a50a0"
+hash-format = "sha256"
+hash = "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9"
 
 [update]
 [update.modrinth]

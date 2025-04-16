@@ -1,0 +1,17 @@
+name = "AutoSwitch"
+filename = "autoswitch-10.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/rhoz92qn/autoswitch-10.0.0.jar"
+hash-format = "sha256"
+hash = "ce0920af808914bc5f7b2baa08d8b685543450cde3586ad44a1c3e805b238031"
+
+[update]
+[update.modrinth]
+mod-id = "uSdcnlts"
+version = "rhoz92qn"
+
+[option]
+optional = true
+description = "Auto switch tool\n自動切換工具"

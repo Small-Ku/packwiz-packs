@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/J2bSvjmc/ModernUI-Fabric-1.21.4-3.11.1.11-universal.jar"
-hash-format = "sha512"
-hash = "4241b99a0b7ae40ccf94bc8c28d37ca62d9e60816faeddfeac90a1229f143ce094144cdb7a17360b6fe368f9ba3444b3b54dc0c166c22e358546c554d16ba676"
+hash-format = "sha256"
+hash = "ac419f5a9dd9f5690b6c2c4ff506af643ce6ecd8fa4df0e701dce63a6dd2596a"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "J2bSvjmc"
 
 [option]
 optional = true
-description = "Replaced UI Engine\n替換界面引擎\n"
-default = false
+description = "Replaced UI Engine\n替換界面引擎"

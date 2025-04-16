@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/vtqj7sxY/Solas%20Shader%20V2.7b.zip"
-hash-format = "sha512"
-hash = "d3bd2f1fe6872b82fa06e69068c46cf318202eb103eba83eaee9d865b46c85226520d181344874b27278cb57555aa0618880fbd340146214001250ff4e7dcd63"
+hash-format = "sha256"
+hash = "3ea6f52daa6c5e50131459cdbdfde5fc00943ec523c9ce6f58790cc516f1b9bc"
 
 [update]
 [update.modrinth]
@@ -13,5 +13,4 @@ mod-id = "EpQFjzrQ"
 version = "vtqj7sxY"
 
 [option]
-default = false
 optional = true

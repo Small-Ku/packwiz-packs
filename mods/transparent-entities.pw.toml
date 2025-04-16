@@ -1,0 +1,18 @@
+name = "Transparent Entities"
+filename = "TransparentEntities-1.2.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoTHHqk4/versions/H3KCmalD/TransparentEntities-1.2.1%2B1.21.4.jar"
+hash-format = "sha256"
+hash = "3348510d91c88ef6a4b4a796a0b146e61b7011337d8ded077ad24cc1fb035bfc"
+
+[update]
+[update.modrinth]
+mod-id = "DoTHHqk4"
+version = "H3KCmalD"
+
+[option]
+optional = true
+description = "Improve view in crowd entities\n改善生物擁擠時的視野"
+default = true

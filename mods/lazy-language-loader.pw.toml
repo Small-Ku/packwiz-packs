@@ -1,0 +1,18 @@
+name = "lazy-language-loader"
+filename = "lazy-language-loader-0.3.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nz0RSWrF/versions/dSqw5J7H/lazy-language-loader-0.3.8.jar"
+hash-format = "sha256"
+hash = "608bc9d992d7d1d08e3cc603310203274212ae5bbb3926e1e4b2a8fea468ab1f"
+
+[update]
+[update.modrinth]
+mod-id = "Nz0RSWrF"
+version = "dSqw5J7H"
+
+[option]
+optional = false
+description = "Language loading optimization\n語言載入優化"
+default = true

@@ -1,0 +1,18 @@
+name = "Palladium"
+filename = "Palladium-1.21.4-1.1.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JNRr4jji/versions/GCfUgm6z/Palladium-1.21.4-1.1.7.jar"
+hash-format = "sha256"
+hash = "39f95259b1fcd1af7647e05bca3180802512f5dce1c8193a4f2e4e05d88963fc"
+
+[update]
+[update.modrinth]
+mod-id = "JNRr4jji"
+version = "GCfUgm6z"
+
+[option]
+optional = false
+description = "Optimization\n優化"
+default = true

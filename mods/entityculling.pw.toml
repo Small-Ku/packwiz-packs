@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/W4olzuUc/entityculling-fabric-1.7.4-mc1.21.4.jar"
-hash-format = "sha512"
-hash = "cac5c5ecc0f00b24479d3a6c97d0f60f96edeef0ed7f69f6a8bbe7f8cd24d448e4c49b3197cb3c88ff478563d132b9855bbeabaf0357f890f84c1ccf37996ea5"
+hash-format = "sha256"
+hash = "2c0a03dca35337a607f71f55a2714ec890f5e650e19e9be1d7ea076e8df419a8"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "W4olzuUc"
 
 [option]
 optional = false
-description = "Entity culling when not visible.\n看不到的生物不再渲染，可改進性能\n"
+description = "Entity culling when not visible.\n看不到的生物不再渲染，可改進性能"
 default = true

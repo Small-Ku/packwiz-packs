@@ -1,0 +1,17 @@
+name = "BetterGrassify"
+filename = "BetterGrassify-1.6.0+fabric.1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/DM8Lc9b3/BetterGrassify-1.6.0%2Bfabric.1.21.4.jar"
+hash-format = "sha256"
+hash = "acd098fc1dff533de3028d1ed64f5eebaed39de4617c4b370befdb2fe0c95336"
+
+[update]
+[update.modrinth]
+mod-id = "m5T5xmUy"
+version = "DM8Lc9b3"
+
+[option]
+optional = true
+description = "Fancy grass block\n好看的草地方塊"

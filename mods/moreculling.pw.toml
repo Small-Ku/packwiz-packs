@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/51shyZVL/versions/gWgOJqk8/moreculling-fabric-1.21.4-1.2.10.jar"
-hash-format = "sha512"
-hash = "b1e14bd0dd03cb05057a0a28f91da31b504f350659dbcd4128c449579c277a0e2d56eb25f99e36f860f3a580247f15fd8ff7a1d40b50bc96bdda050e207e808a"
+hash-format = "sha256"
+hash = "51236490094b7e018a2d29f7626f882253ba208af957b526b57c58656fb912d1"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "gWgOJqk8"
 
 [option]
 optional = false
-description = "A mod that changes how blockstate culling is handled in order to improve performance\n不再渲染方塊不可見的一面\n"
+description = "A mod that changes how blockstate culling is handled in order to improve performance\n不再渲染方塊不可見的一面"
 default = true

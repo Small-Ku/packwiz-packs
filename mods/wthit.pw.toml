@@ -1,0 +1,18 @@
+name = "WTHIT"
+filename = "wthit-fabric-14.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/PvcqmNpV/wthit-fabric-14.1.6.jar"
+hash-format = "sha256"
+hash = "a8cabc16c998a1586da43c618fa581b237de90171ce194c854316bb4a656a504"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "PvcqmNpV"
+
+[option]
+optional = true
+description = "Showing info of blocks or entities the cursor pointing\n顯示畫面指向的方塊或生物資訊"
+default = true

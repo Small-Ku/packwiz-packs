@@ -1,0 +1,18 @@
+name = "Enhanced Block Entities"
+filename = "enhancedblockentities-0.11.3+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar"
+hash-format = "sha256"
+hash = "fdb311a6ba3280578e717d5efe4961e82f153cfe80c2ff3fd68e81cf5bc7607a"
+
+[update]
+[update.modrinth]
+mod-id = "OVuFYfre"
+version = "YokFoILZ"
+
+[option]
+optional = false
+description = "Enhance rendering fo some blocks, like chest\n優化部份方塊的渲染，如箱子等"
+default = true

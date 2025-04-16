@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/FISMnZG8/litematica-fabric-1.21.4-0.21.2.jar"
-hash-format = "sha512"
-hash = "53b54f50df729c64e2a28df5fcf06b7f25df44732faa321f2f21fc7c7e21de43b8b56c1be0d41d07d90fc85c263e5195f13ae46ddf8872568dea331197db63dd"
+hash-format = "sha256"
+hash = "99d74d8c6c37fd2f79879c30eae641e7953a079b5c51aae6a64a81dc04d1d3c1"
 
 [update]
 [update.modrinth]
@@ -14,4 +14,4 @@ version = "FISMnZG8"
 
 [option]
 optional = true
-description = "Blueprint mod that helps you building\n建築藍圖模組\n"
+description = "Blueprint mod that helps you building\n建築藍圖模組"

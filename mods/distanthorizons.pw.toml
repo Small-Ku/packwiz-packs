@@ -1,0 +1,17 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/94McsAoL/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar"
+hash-format = "sha256"
+hash = "b9fffc1cd99e63da112c7caa4645581a2d586a917e5b167285788c9eac520b32"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "94McsAoL"
+
+[option]
+optional = true
+description = "Extremely great performance with larger render distance\n增大渲染距離同時保留良好性能"

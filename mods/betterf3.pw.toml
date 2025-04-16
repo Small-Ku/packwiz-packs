@@ -1,0 +1,17 @@
+name = "BetterF3"
+filename = "BetterF3-13.0.0-Fabric-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/729ec3Jf/BetterF3-13.0.0-Fabric-1.21.4.jar"
+hash-format = "sha256"
+hash = "a49a66f0e6947e4c2810ca161e622ee64ad4f3356245133f27b8f57ce922e798"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "729ec3Jf"
+
+[option]
+optional = true
+description = "Configurable F3 screen\n可設定的 F3 資訊"

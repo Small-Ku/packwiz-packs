@@ -1,6 +1,6 @@
 # Vanilla compatible 1.18
 
-This is a packwiz pack that for me to play with friends. This is a vanilla compatible pack that able to let your map can be upgraded along with Minecraft version.
+This is a packwiz pack that for me to play with friends. This is a vanilla compatible pack that able to let your map can be upgraded along with Minecraft version. Currently focus on client-side cause I'm not hosting the server this time/
 
 ## Installation
 

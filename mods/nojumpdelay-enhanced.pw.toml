@@ -1,0 +1,18 @@
+name = "No Jump Delay Enhanced"
+filename = "nojumpdelay-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XFSzxty/versions/BuXA7tjB/nojumpdelay-1.2.1.jar"
+hash-format = "sha256"
+hash = "ecc371b12a5a3d41ad981b00769f355e3ad05935b892c16aacfd1ffc25430706"
+
+[update]
+[update.modrinth]
+mod-id = "4XFSzxty"
+version = "BuXA7tjB"
+
+[option]
+optional = true
+description = "Remove jumping delay (may trigger anti-cheat on some server)\n移除跳躍延遲（可能觸發某些伺服器的防作弊機制）"
+default = true

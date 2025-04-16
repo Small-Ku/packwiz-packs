@@ -1,0 +1,17 @@
+name = "Entity Texture Features [Fabric]"
+filename = "entity_texture_features_fabric_1.21.4-6.2.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/441qELLe/entity_texture_features_fabric_1.21.4-6.2.10.jar"
+hash-format = "sha256"
+hash = "30875192e8fdcdc2e5add10cfb3e8a97e7096095e7783868bb91c989598114b1"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "441qELLe"
+
+[option]
+optional = true
+description = "Support emissive, random & custom texture support for entities in resourcepacks in Optifine format\n支持 Optifine 式發光、隨機、自定義生物材質"
