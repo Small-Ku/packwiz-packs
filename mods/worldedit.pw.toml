@@ -1,13 +1,18 @@
 name = "WorldEdit"
 filename = "worldedit-mod-7.3.11.jar"
-side = "server"
+side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "57ef1e2a3989f4dd68e00193615a6f455d661d41b6703f06871a373fb4bd1665"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/bxlboAan/worldedit-mod-7.3.11.jar"
+hash-format = "sha512"
+hash = "5a131e0059ae4b923ff6066c2be04fa5fbcbf6a52335a10363165344bd72e576f29e22a56805c28c3a061c7fbffe96db9ff6610ad414092742daa4e1e2805385"
 
 [update]
-[update.curseforge]
-file-id = 6338613
-project-id = 225608
+[update.modrinth]
+mod-id = "1u6JkXh5"
+version = "bxlboAan"
+
+[option]
+optional = true
+description = "Creative tool for fast building\n快速建築創意工具"
+default = false

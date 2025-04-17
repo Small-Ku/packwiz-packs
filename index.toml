@@ -251,6 +251,11 @@ hash = "a6842d7809b574ebc48f901965fde29dc23c79ffa0b8ea57605ee128b6b7a46f"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d0bcfafa3abd615ebc412e8046cd069815f558c06ef57b2219faa062f6987ea3"
+metafile = true
+
+[[files]]
 file = "mods/nojumpdelay-enhanced.pw.toml"
 hash = "4b1b910e8a96fc4b51df4673c53b36346886105d582078151b4e5ea77fe736f7"
 metafile = true
@@ -258,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "60848863d55f9960f846867d2ab69b0e863e085e8754e74514e8c971f5f1036b"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "870ed9bb59703d50c68bb1f7d34e08a228e77cf5186df8b4f6437eb7d1c5c0ee"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "17be2d5e73fbf05582f8796a96557e735534549900261d5067448d9964884020"
+hash = "2ad78437fe6f18520afbb66adf0fc836ad56c5ffa33554f67af8027bc880b351"
 metafile = true
 
 [[files]]
