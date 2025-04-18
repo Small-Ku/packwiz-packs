@@ -306,6 +306,11 @@ hash = "ba10b0b6fdd3c69c8fd940938f9b97ccd23058549a0a1496e64958a54c91d588"
 metafile = true
 
 [[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "832ad47c6f972c7c9d6d23fd7f9d246b3e5e8987219ca2e0f5578e0bdde31bcb"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "d88da96fed60911294a46f53970844c26b011111595f2e5afd13f4561da33aa8"
 metafile = true
