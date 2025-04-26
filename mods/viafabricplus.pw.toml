@@ -1,0 +1,17 @@
+name = "ViaFabricPlus"
+filename = "ViaFabricPlus-4.0.4-BACKPORT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/vgxMabP5/ViaFabricPlus-4.0.4-BACKPORT.jar"
+hash-format = "sha512"
+hash = "01957cb71e5bc66900329eeb5c194fa5c1678c9a7c1515417d97981301c1169c9a006bada614207d0227fc1c2b03e559ffb4bed224b1468e45ee0a6e323f2ba6"
+
+[update]
+[update.modrinth]
+mod-id = "rIC2XJV4"
+version = "vgxMabP5"
+
+[option]
+optional = true
+description = "Cross-version server connecting\n加入舊版本遊戲伺服器"

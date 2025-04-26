@@ -1,0 +1,17 @@
+name = "Client Tweaks"
+filename = "clienttweaks-fabric-1.21.4-21.4.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/4FYmuxT9/clienttweaks-fabric-1.21.4-21.4.5.jar"
+hash-format = "sha512"
+hash = "4d586054bdad59eca3addca220b48b2038d5a9ad36a70b8214483922527809711bb300d7e3d7e73210a0d710df44daa5777f530eab8ad0f6d3103cff327f573d"
+
+[update]
+[update.modrinth]
+mod-id = "vPNqo58Q"
+version = "4FYmuxT9"
+
+[option]
+optional = true
+description = "Optional Gameplay QoL fixes\n便利遊玩可選項"

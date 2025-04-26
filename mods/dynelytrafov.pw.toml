@@ -1,0 +1,17 @@
+name = "Dynamic Elytra FOV"
+filename = "dynelytrafov-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yIcjTJQp/versions/EtKuGIU6/dynelytrafov-1.0.2.jar"
+hash-format = "sha512"
+hash = "8739f920883e46ef14493435591db1a2c5cf42b3733034d6cf4b8c499f83364cff76da94466e796d47bc9f2de0c673fe8e92ffea7e6a1bb373ca5e7c8730d06e"
+
+[update]
+[update.modrinth]
+mod-id = "yIcjTJQp"
+version = "EtKuGIU6"
+
+[option]
+optional = true
+description = "Dynamic Elytra FOV\n鞘翅動態視野"

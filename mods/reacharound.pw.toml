@@ -1,0 +1,17 @@
+name = "Reacharound"
+filename = "reacharound+1.21.2-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r3VgI4QN/versions/h2SpAUPP/reacharound%2B1.21.2-1.3.1.jar"
+hash-format = "sha512"
+hash = "7ce4588e5187a9fad1bcd09fc0c855cfe3d6a7dcf33ca5baf74b77710c43db2651ad7e151d02fb11bd69766d024078a4f02f97405e786c7cc334847dc8b72229"
+
+[update]
+[update.modrinth]
+mod-id = "r3VgI4QN"
+version = "h2SpAUPP"
+
+[option]
+optional = true
+description = "Bedrock-like reacharound block placement\n類基岩版延伸方塊放置"

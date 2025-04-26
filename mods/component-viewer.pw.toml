@@ -1,0 +1,17 @@
+name = "Component Viewer"
+filename = "componentviewer-fabric-1.2.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P9vIqP8R/versions/aXEY3t8o/componentviewer-fabric-1.2.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "c6b1bb0ec61de8ed0281497ab40a27036b1f7f15bd5544262dcf2b1140e426d1aa5b4fde6ff2cf018bc0bd730531adbd62ec54c25a1801f24715dada0ba0c660"
+
+[update]
+[update.modrinth]
+mod-id = "P9vIqP8R"
+version = "aXEY3t8o"
+
+[option]
+optional = true
+description = "View Item NBT\n查看物品 NBT"
