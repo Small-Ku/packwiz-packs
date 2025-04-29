@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "884461920c11c2c2c4aaa8a78081acac9843ec911121cf6515097d2affa0dad3"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -216,6 +216,11 @@ hash = "e0a4d3040bf0a97fb6978e58e6f2ab2926c00862c2be138925576c013e2b0850"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "682dfe339eb9dff7492d71abf56b6d306682ba4be1d1128551f57c9cb06045fa"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a5a518ea0e70edcffa3373abfe91bde0475087b99ce0628e850fb19e09e09788"
 metafile = true
@@ -327,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/nojumpdelay-enhanced.pw.toml"
-hash = "4b1b910e8a96fc4b51df4673c53b36346886105d582078151b4e5ea77fe736f7"
+hash = "63a57c8a3c2541a3c86247599c0ac1be4f0ce08bef1fb3133d3167fdec454a58"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "68ac38d886a36362ca7e9fb1ebd6175190a929c670589462484b5c4b6abbbb9d"
+hash = "6439c9a97997feed715a689f8d0a3f7905d9312faa0cd1a184923bcf69ede238"
 metafile = true
 
 [[files]]

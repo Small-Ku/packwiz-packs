@@ -1,16 +1,16 @@
 name = "No Jump Delay Enhanced"
-filename = "nojumpdelay-1.2.1.jar"
+filename = "nojumpdelay-1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4XFSzxty/versions/BuXA7tjB/nojumpdelay-1.2.1.jar"
-hash-format = "sha256"
-hash = "ecc371b12a5a3d41ad981b00769f355e3ad05935b892c16aacfd1ffc25430706"
+url = "https://cdn.modrinth.com/data/4XFSzxty/versions/Xiq7n1bX/nojumpdelay-1.3.0.jar"
+hash-format = "sha512"
+hash = "da98eb6b5c67fe45dd0841e9fbb4c4dea0c884c76da4c6283100fa2665fa23bd9ed0e2fac9134f3a3a7364737fc26c8cb9f9fbb6698fee48bb33c5804f6bbf96"
 
 [update]
 [update.modrinth]
 mod-id = "4XFSzxty"
-version = "BuXA7tjB"
+version = "Xiq7n1bX"
 
 [option]
 optional = true
