@@ -1,0 +1,18 @@
+name = "Async"
+filename = "async-fabric-0.1.8+alpha.1-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/q1VgmI8O/async-fabric-0.1.8%2Balpha.1-1.21.4.jar"
+hash-format = "sha512"
+hash = "7e90a2bb625515131821452c4c4e4b14dd674a488270ff79e8236e5904a67c45b5289961da5ef25bd85d46c3e8b588ebb8fe7234de9f14da618f3744603e6796"
+
+[update]
+[update.modrinth]
+mod-id = "vEC2jm6I"
+version = "q1VgmI8O"
+
+[option]
+optional = false
+description = "Optimization\n優化"
+default = true

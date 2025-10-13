@@ -1,16 +1,16 @@
 name = "Component Viewer"
-filename = "componentviewer-fabric-1.2.1+1.21.4.jar"
+filename = "componentviewer-fabric-1.3.0+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/P9vIqP8R/versions/aXEY3t8o/componentviewer-fabric-1.2.1%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/P9vIqP8R/versions/mxTbYDl3/componentviewer-fabric-1.3.0%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "c6b1bb0ec61de8ed0281497ab40a27036b1f7f15bd5544262dcf2b1140e426d1aa5b4fde6ff2cf018bc0bd730531adbd62ec54c25a1801f24715dada0ba0c660"
+hash = "2dc0ade575f2f04c4bccf78b52fb867f75f77acd6b7b9c15c890d216fa38b7763424966ca8e88b6a0eae2205eb0f8c9b67f8cdd5e9bb1b4b3d0a11ca0d4f0d56"
 
 [update]
 [update.modrinth]
 mod-id = "P9vIqP8R"
-version = "aXEY3t8o"
+version = "mxTbYDl3"
 
 [option]
 optional = true

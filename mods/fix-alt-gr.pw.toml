@@ -1,16 +1,16 @@
 name = "Fix Alt Gr"
-filename = "fix-alt-gr-3.0.1+1.21.jar"
+filename = "fix-alt-gr-3.0.2+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/36kLTHWB/versions/bCGswzqw/fix-alt-gr-3.0.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/36kLTHWB/versions/JjhadZLk/fix-alt-gr-3.0.2%2B1.21.jar"
 hash-format = "sha512"
-hash = "1056682633877fde1ece97916b0d78e1f0f3d34dfa4a1147d7dd6c47748187393271e41e75427eed65f43aa59fd14d0406fd7498578f2297f1ed441e6f27188f"
+hash = "9f3f383a2cac23087098cb8abbc376c559cf1e073ab14db4d25c3fd0277786b5c23579c2031ad9caaf0e5207b32a23917fde4a5302f97cdfee0bb4293b88e6e9"
 
 [update]
 [update.modrinth]
 mod-id = "36kLTHWB"
-version = "bCGswzqw"
+version = "JjhadZLk"
 
 [option]
 optional = false

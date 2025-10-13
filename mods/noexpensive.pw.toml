@@ -1,0 +1,13 @@
+name = "NoExpensive"
+filename = "NE-1.21.4-1.10.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2nz0kJ1N/versions/hW4N5sLP/NE-1.21.4-1.10.1.jar"
+hash-format = "sha512"
+hash = "776c370b289a2b9e1e74cbaa6cc63b803119e9d3f8ea4e69dcb0dbb1526c9cfc440d85639779af7fc30bbba77d99e7a1a4a7474838569b72b688426d45b2c1b6"
+
+[update]
+[update.modrinth]
+mod-id = "2nz0kJ1N"
+version = "hW4N5sLP"

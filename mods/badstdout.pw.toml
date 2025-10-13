@@ -11,3 +11,7 @@ hash = "a2d0fe1f01748c6937450743335603f18cdf64d5e351c0377f10596acb1d8827"
 [update.modrinth]
 mod-id = "9Y8sMRVG"
 version = "XuKODRjo"
+
+[option]
+optional = true
+description = "Better debug for StdOut"

@@ -1,13 +1,18 @@
 name = "Discerning Furnace"
-filename = "discerning-furnace-1.2.2+MC1.21.2-1.21.5.jar"
+filename = "discerning-furnace-1.2.5+MC1.21.2-1.21.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/kR705dSG/discerning-furnace-1.2.2%2BMC1.21.2-1.21.5.jar"
-hash-format = "sha256"
-hash = "ebd419f4b33b058f3e7f300918e82e61e1d181624e9154d9000b1a30ddad4244"
+url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/Bj7s17ze/discerning-furnace-1.2.5%2BMC1.21.2-1.21.8.jar"
+hash-format = "sha512"
+hash = "6e74213205a8b642914423d29271a258735c32831497cfe905da11045e3ba982a41c8f8ae968f299b0f8c44203a6c47927c39d6f5a25f6f84ed9d7242637cd77"
 
 [update]
 [update.modrinth]
 mod-id = "G3Nz6HN4"
-version = "kR705dSG"
+version = "Bj7s17ze"
+
+[option]
+optional = true
+description = "Only smeltables in furnaces\n只能把可燒煉物品放進熔爐"
+default = true

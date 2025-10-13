@@ -11,3 +11,8 @@ hash = "87e046a7699b3bbf61af858cc69d3c6df808e4b153d89549d696797b84b6f136"
 [update.modrinth]
 mod-id = "QdG47OkI"
 version = "h47zwBfZ"
+
+[option]
+optional = false
+description = "Optimization\n優化"
+default = true

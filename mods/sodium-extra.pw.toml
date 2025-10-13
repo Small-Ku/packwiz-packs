@@ -13,6 +13,6 @@ mod-id = "PtjYWJkn"
 version = "f4TfteNb"
 
 [option]
-optional = false
-description = "More option in Sodium\nSodium 更多選項"
+optional = true
+description = "More options in Sodium\nSodium 更多選項"
 default = true

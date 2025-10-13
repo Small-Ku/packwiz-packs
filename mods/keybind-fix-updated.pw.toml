@@ -1,0 +1,18 @@
+name = "Keybind Fix Updated"
+filename = "keybind_fix-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1hgptta/versions/jDPZLqkE/keybind_fix-1.0.2.jar"
+hash-format = "sha512"
+hash = "136f7f61b6264dd0afbf6c96b81e647048de2b07b9269d5d88f888ff0368c31ee194dacbbad14049cbb867ad38ea483981222d3f5903477ed7c4ddb2ba8c2786"
+
+[update]
+[update.modrinth]
+mod-id = "U1hgptta"
+version = "jDPZLqkE"
+
+[option]
+optional = true
+description = "Multifunctional keybinds\n允許按鍵綁定的多項功能同時作用"
+default = true

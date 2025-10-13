@@ -1,0 +1,13 @@
+name = "Crop Harvester Server"
+filename = "cropharvestserver-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xs5dOuFJ/versions/QzBfy4is/cropharvestserver-1.1.0.jar"
+hash-format = "sha512"
+hash = "bf75e72fb5b41f74a8610e095ffc5d8ff71ed00445c8dcf06571877c9f836d30a857d60984da91687e7d6dec8c19aa0ffefefd1ba32ebc00d961806dd9257f97"
+
+[update]
+[update.modrinth]
+mod-id = "Xs5dOuFJ"
+version = "QzBfy4is"

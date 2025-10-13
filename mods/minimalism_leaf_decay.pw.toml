@@ -1,0 +1,13 @@
+name = "Minimalism Leaf Decay"
+filename = "MinimalismLeafDecay+1.21.1+0.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eM6lDmSn/versions/H8zVcxLF/MinimalismLeafDecay%2B1.21.1%2B0.2.0.jar"
+hash-format = "sha512"
+hash = "d281efc3ab629dfa35bd990bc78d374eec341bc0ae15881eea7b126daba97c42bde5782994cb09f991c72fc4c40fba824138d7f27c2e45be7dcd0ff6f6dcd7ef"
+
+[update]
+[update.modrinth]
+mod-id = "eM6lDmSn"
+version = "H8zVcxLF"

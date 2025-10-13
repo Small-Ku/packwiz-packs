@@ -1,0 +1,2 @@
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Nautilus3D-V2.3.zip","file/Fancy Crops v1.1.zip"]
+key_key.advancements:key.keyboard.unknown

@@ -11,3 +11,8 @@ hash = "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "Ca054sTe"
+
+[option]
+optional = true
+description = "Shaderpack loader, compatible with Optifine packs\n載入 Optifine 式光影包"
+default = true

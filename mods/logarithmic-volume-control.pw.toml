@@ -1,0 +1,18 @@
+name = "Logarithmic Volume Control"
+filename = "logarithmic-volume-control-1.0.0-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPJLcvRR/versions/kTp2N4EM/logarithmic-volume-control-1.0.0-1.21.jar"
+hash-format = "sha512"
+hash = "d39a71965de7604737bd1aa981e12ada8b1bf67d1639a866c319214dffdaa14d930af16236745adde2f56993a9fca4d4129a9a634af5c4edc08eec07a3fd8a3f"
+
+[update]
+[update.modrinth]
+mod-id = "fPJLcvRR"
+version = "kTp2N4EM"
+
+[option]
+optional = true
+description = "Stright-forward volume slider\n更合人類聽覺的音量設定"
+default = true
