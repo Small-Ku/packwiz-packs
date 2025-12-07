@@ -15,3 +15,8 @@ version = "ZJEBZjg6"
 [option]
 optional = true
 default = true
+description = """
+(Bee's) Fancy Crops
+
+A resource pack that beautifies farms with varied crop textures and redesigned seeds/hay bales.
+美化農場的資源包：作物紋理變化豐富，種子與乾草捆外觀精緻升級。"""

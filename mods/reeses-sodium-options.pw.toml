@@ -1,18 +1,18 @@
 name = "Reese's Sodium Options"
-filename = "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+filename = "reeses-sodium-options-fabric-1.8.6+mc1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar"
-hash-format = "sha256"
-hash = "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/nUGhyPwZ/reeses-sodium-options-fabric-1.8.6%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "3cbf1e48c0e6beb743695c5cc922dde95f4fe1b3080ba97bcd9a10c6666491b853d3f0cd071ed519a02c7a9a4d79c5d2be393ebafe25db80b48bf3ad1ca8cdb6"
 
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"
-version = "KoUrx3jJ"
+version = "nUGhyPwZ"
 
 [option]
-optional = false
-description = "Better UI of Sodium when there is more options\nSodium 更多選項時更佳界面"
+optional = true
+description = "Reese's Sodium Options\n\nA mod overhauling Sodium's UI with search bar, scrollable tabs/pages, precise SHIFT-scroll slider control, and Iris shader access.\n全面改造Sodium介面，加入搜尋列、可捲動分頁/頁面、按住SHIFT滾動精細調整滑桿，以及Iris光影快速按鈕。"
 default = true

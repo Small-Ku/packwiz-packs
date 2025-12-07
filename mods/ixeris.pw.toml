@@ -1,0 +1,18 @@
+name = "Ixeris"
+filename = "Ixeris-3.8.0+1.21.10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/CZPlsF4V/Ixeris-3.8.0%2B1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "e9132630e613c9af0ae9fac1ef82e90a9f922b73ca96c4ab7c9139468813441c24d2aff8ac24fd059c87b39f20bdcfb2f6787b836327bc7507a55dd3b35394b2"
+
+[update]
+[update.modrinth]
+mod-id = "p8RJPJIC"
+version = "CZPlsF4V"
+
+[option]
+optional = true
+description = "Ixeris\n\nA client-side mod that eliminates FPS drops during camera movement by offloading mouse event polling from the render thread—most effective on Windows with high-polling-rate mice.\n客戶端模組，將滑鼠事件輪詢移出渲染執行緒，消除轉動視角時的幀率下降，高回報率滑鼠的Windows系統效果最顯著。"
+default = true

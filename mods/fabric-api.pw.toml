@@ -1,13 +1,18 @@
 name = "Fabric API"
-filename = "fabric-api-0.119.4+1.21.4.jar"
+filename = "fabric-api-0.138.3+1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/dQ3p80zK/fabric-api-0.138.3%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7"
+hash = "dc73a3653c299476d1f70cb692c4e35ac3f694b3b0873e3d0b729e952e992b878d1a8e0b1d1049a442a0d483d3068073194f15af52ea9938544616e20433cc38"
 
 [update]
 [update.modrinth]
 mod-id = "P7dR8mSH"
-version = "p96k10UR"
+version = "dQ3p80zK"
+
+[option]
+optional = false
+description = "Fabric API\n\nA library mod providing essential hooks and APIs for Fabric mod development—including particle/biome access, registry sync, crash report enhancements, and rendering compatibility.\nFabric模組開發必備函式庫，提供粒子/生態域存取、註冊表同步、當機報告增強及渲染相容性等核心功能。"
+default = true

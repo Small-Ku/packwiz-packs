@@ -1,0 +1,18 @@
+name = "Revelation"
+filename = "Revelation.zip"
+side = "client"
+
+[download]
+url = "https://github.com/HaringPro/Revelation/archive/4202bbfd49d5fed9175f4e88ef325422253a10f7.zip"
+hash-format = "sha256"
+hash = "8b244cc61adecfd45b2341a105e3957eb873a202cfca626ffb7fa11914646189"
+
+[option]
+optional = true
+description = """
+Revelation
+
+A physically based shaderpack built from scratch with heuristic optimizations—delivers impressive visuals while maintaining low system requirements.
+基於物理渲染的原創光影包，採用啟發式優化技術，在低階設備上也能呈現出色畫質與流暢體驗。
+
+See more at https://github.com/HaringPro/Revelation/"""

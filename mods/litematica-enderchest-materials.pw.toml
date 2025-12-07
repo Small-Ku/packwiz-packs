@@ -1,0 +1,22 @@
+name = "Litematica Enderchest Materials"
+filename = "litematica-enderchest-materials-1.0.0+1.21.5+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oBzw5QUs/versions/Wa6x6dbx/litematica-enderchest-materials-1.0.0%2B1.21.5%2B.jar"
+hash-format = "sha512"
+hash = "c98fb1cda024d5279676e0a91792879ca7c77fff4fed809bd9cac3dec475265d65bb8f5baee9d0a148f2c5976ef1db624d9eae5232a8fd86d358cfa71b60c79f"
+
+[update]
+[update.modrinth]
+mod-id = "oBzw5QUs"
+version = "Wa6x6dbx"
+
+[option]
+optional = true
+default = false
+description = """
+Litematica Enderchest Materials
+
+A Litematica addon that includes ender chest contents in material lists—open your ender chest once per session to sync items automatically.
+Litematica 附加模組，將末影箱物品納入材料清單。每次進入世界開啟末影箱一次，即可自動同步內容。"""

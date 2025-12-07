@@ -1,13 +1,22 @@
 name = "BlueMap"
-filename = "bluemap-5.7-fabric.jar"
+filename = "bluemap-5.13-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar"
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/ovtipQy0/bluemap-5.13-fabric.jar"
 hash-format = "sha512"
-hash = "b7483d6ff90f09258f994a6f487846c1dfe814f1d0af931bd50426fd0afc98ccad033c5f440705edc08a8ced03cf216171ba1571db2221aca4ec620d676443a4"
+hash = "bd866d7d96f863a9b66ae94721fb9f50e14aa37d78d2f5daeb3c0c9b41b690af74d50d13f044e0cab5534474ca074516cb9f48e3fcef54de3379f3f1d26c7c1e"
 
 [update]
 [update.modrinth]
 mod-id = "swbUV1cr"
-version = "Dr2hvJBc"
+version = "ovtipQy0"
+
+[option]
+optional = true
+default = false
+description = """
+BlueMap
+
+A Minecraft mod that generates interactive 3D web maps of your worlds with asynchronous rendering—zero server lag during map updates.
+Minecraft 模組，生成可互動的 3D 網頁地圖，採用非同步渲染技術確保地圖更新時伺服器運行不受影響。"""

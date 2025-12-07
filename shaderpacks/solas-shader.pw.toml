@@ -1,16 +1,17 @@
 name = "Solas Shader"
-filename = "Solas Shader V3.0.zip"
+filename = "Solas Shader.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/idWbCGE2/Solas%20Shader%20V3.0.zip"
+url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/BZgUtn8r/Solas%20Shader%20V3.1c.zip"
 hash-format = "sha512"
-hash = "e2d79b03a599dacbbd1a81e189e390bcd2ffda2b1cdad3da5db46ce9d1306fce2652fcd857f065c536ad472d8445c0bbf32f147d91e1df2c0fc8bb12d1e44f86"
+hash = "ab0473b5f303dbc52b0b5cb4999b015c2c7bdb16f3051300a75eb66fde72526e6a85319fe17737bf388d1cdd5084bfa89133959a59ed9e7218de82da0c0b66f5"
 
 [update]
 [update.modrinth]
 mod-id = "EpQFjzrQ"
-version = "idWbCGE2"
+version = "BZgUtn8r"
 
 [option]
 optional = true
+description = "Solas Shader\n\nA fantasy-style shaderpack delivering clear bright visuals, glowing ores in caves, and breathtaking End dimensions—all with smooth performance on mid-tier PCs. Supports Iris/OptiFine and PBR resource packs.\n奇幻風格光影包，畫面清晰明亮，礦洞內礦石自然發光，末地星雲效果震撼。中階電腦流暢運行，完整支援Iris/OptiFine及PBR材質包。\n\nSee more at https://github.com/Septonious/Solas-Shader/"

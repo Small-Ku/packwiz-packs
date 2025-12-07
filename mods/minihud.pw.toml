@@ -1,17 +1,17 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.21.4-0.34.6.jar"
+filename = "minihud-fabric-1.21.10-0.37.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UMxybHE8/versions/axsaXVxl/minihud-fabric-1.21.4-0.34.6.jar"
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/lRYtM6ZP/minihud-fabric-1.21.10-0.37.4.jar"
 hash-format = "sha512"
-hash = "d65c0f9971bfc65ef0797121a4c8d611bc2224efe8bfc35fdace91619d73c54fe32e5fe33ccb14d9a6446a3d84659e1ba94ae149b512f33d64b8b19b4a10c90a"
+hash = "36f833587fa8ee1d20757291c530d27018a22b804865670672792cccc2d01ea59af48a1654cb8f47c5f2b70885a0f9d43a4ffa5c9c4c5382bd028f8726d0c530"
 
 [update]
 [update.modrinth]
 mod-id = "UMxybHE8"
-version = "axsaXVxl"
+version = "lRYtM6ZP"
 
 [option]
 optional = true
-description = "More HUD in-game, like lighting values of each blocks\n更多遊戲資訊顯示，如方塊亮度"
+description = "MiniHUD\n\nA client-side mod providing customizable mini F3 info lines and overlay renderers—including light levels, slime chunks, world spawn regions, structure boundaries, and shape tools.\n客戶端模組，提供可自訂的迷你F3資訊列及疊加渲染功能：光照等級、黏液方塊生成區、世界重生點區域、建築結構邊界與幾何形狀工具。"

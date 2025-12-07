@@ -1,18 +1,22 @@
 name = "Boat Item View"
-filename = "boatiview-fabric-0.0.6-1.21.4.jar"
+filename = "boatiview-fabric-0.0.7-1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/s2YYGiGA/boatiview-fabric-0.0.6-1.21.4.jar"
-hash-format = "sha256"
-hash = "b8ce9cb44a4eabf0a8cda372459ebd0d65b2f8a2e6516780bfb2486345ec10b6"
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/wRxhoGia/boatiview-fabric-0.0.7-1.21.10.jar"
+hash-format = "sha512"
+hash = "b2fcd49c01b2ccfaa55336d5fbdaa7ba663e1c3813c4364fee1660d833cce14cd1479e61a715f35ae1f8d61ae9a4d903075baa3e20a348384090d8523dbc17ab"
 
 [update]
 [update.modrinth]
 mod-id = "BdKIyOLe"
-version = "s2YYGiGA"
+version = "wRxhoGia"
 
 [option]
 optional = true
-description = "A mod that shows map when on boat\n船上航行途中也能優雅看地圖"
 default = true
+description = """
+Boat Item View
+
+A client-side mod that displays your held item while riding a boat—purely visual, doesn't enable item usage during movement.
+客戶端模組，乘船時可見手持物品。純視覺效果，移動中仍無法使用物品。"""

@@ -1,18 +1,22 @@
 name = "ScalableLux"
-filename = "ScalableLux-0.1.2+fabric.87468e8-all.jar"
+filename = "ScalableLux-0.1.6+fabric.c25518a-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/brerLvPf/ScalableLux-0.1.2%2Bfabric.87468e8-all.jar"
+url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar"
 hash-format = "sha512"
-hash = "ba4223be1e5f983f9ab0a186f2e63f07034e0d39ab009d6b4e59cb1f37e18d6139c669f0ea043b892c4211f79a68f61ebf6d500c0c8742babfa7a49b551cd68a"
+hash = "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
 
 [update]
 [update.modrinth]
 mod-id = "Ps1zyz6x"
-version = "brerLvPf"
+version = "PV9KcrYQ"
 
 [option]
-optional = false
-description = "Lighting Optimization\n亮度計算優化"
+optional = true
 default = true
+description = """
+ScalableLux
+
+A Fabric mod inheriting Starlight's legacy to accelerate light updates—maintains 100% faster performance than vanilla with parallel processing for busy servers.
+繼承Starlight的Fabric模組，加速光照更新速度。維持比原版快100%的效能，透過平行處理技術優化多人伺服器負載。"""

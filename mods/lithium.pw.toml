@@ -1,18 +1,18 @@
 name = "Lithium"
-filename = "lithium-fabric-0.15.3+mc1.21.4.jar"
+filename = "lithium-fabric-0.20.1+mc1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/u8pHPXJl/lithium-fabric-0.15.3%2Bmc1.21.4.jar"
-hash-format = "sha256"
-hash = "153891e8d6988fedffa5098851a725a137c3e5ca04a89a8df409feb313623eb4"
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb"
 
 [update]
 [update.modrinth]
 mod-id = "gvQqBUqZ"
-version = "u8pHPXJl"
+version = "NsswKiwi"
 
 [option]
-optional = false
-description = "Optimization\n優化"
+optional = true
+description = "Lithium\n\nA general-purpose optimization mod that improves physics, AI, and block ticking without altering vanilla mechanics. Works client/server independently; boosts TPS on servers and FPS in singleplayer.\n通用優化模組，強化物理/AI/方塊更新系統，完全保留原版機制。客戶端與伺服器可獨立安裝，多人遊戲提升每秒遊戲刻，單人模式增加畫面幀率。"
 default = true

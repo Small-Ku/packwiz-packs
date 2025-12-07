@@ -1,18 +1,18 @@
 name = "Sodium"
-filename = "sodium-fabric-0.6.13+mc1.21.4.jar"
+filename = "sodium-fabric-0.7.3+mc1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
-hash-format = "sha256"
-hash = "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/sFfidWgd/sodium-fabric-0.7.3%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "1cccdc75d972f5c176a488dcc84cce7320b608a2d105412f2847245affbf5aa22b1995eda392132453fa6e1a9154ac99a87acaf8d7989b9f1a23ac1059a93daf"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "c3YkZvne"
+version = "sFfidWgd"
 
 [option]
-optional = false
-description = "Rendering optimization, also recommended when installed Iris\n渲染優化，如使用 Iris 也推薦安裝"
+optional = true
+description = "Sodium\n\nA rendering optimization mod that boosts FPS and fixes visual glitches—maintains authentic blocky visuals with wide mod compatibility on Fabric/NeoForge.\n渲染優化模組，大幅提升幀率並修復畫面錯誤，完整保留方塊風格原貌。支援Fabric/NeoForge平台，相容絕大多數模組。"
 default = true

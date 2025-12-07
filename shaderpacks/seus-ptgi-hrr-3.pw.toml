@@ -1,0 +1,18 @@
+name = "SEUS PTGI HRR 3"
+filename = "SEUS PTGI HRR 3.zip"
+side = "client"
+
+[download]
+url = "https://www.patreon.com/file?h=60268558&m=134651486"
+hash-format = "sha256"
+hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
+
+[option]
+optional = true
+description = """
+SEUS PTGI HRR 3
+
+A next-generation path-traced shader delivering cinematic lighting and realistic material interactions without requiring RTX hardware—evolved from SEUS PTGI's custom software ray tracing foundation. 
+次世代路徑追蹤光影包，提供電影級光照與真實材質互動效果，無需RTX顯示卡即可運作—基於SEUS PTGI自研軟體級光追架構全面進化。
+
+See more at https://www.patreon.com/posts/download-seus-3-60268558"""

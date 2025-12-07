@@ -1,18 +1,22 @@
 name = "No Jump Delay Enhanced"
-filename = "nojumpdelay-1.3.0.jar"
+filename = "nojumpdelay-1.4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4XFSzxty/versions/Xiq7n1bX/nojumpdelay-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/4XFSzxty/versions/5kf9whqF/nojumpdelay-1.4.0.jar"
 hash-format = "sha512"
-hash = "da98eb6b5c67fe45dd0841e9fbb4c4dea0c884c76da4c6283100fa2665fa23bd9ed0e2fac9134f3a3a7364737fc26c8cb9f9fbb6698fee48bb33c5804f6bbf96"
+hash = "25f64141b64c9ee5e11e7beefe3c3cac03e107b1ce97126fb122459b8e9f1de70e70020f0dfa5cc4d92fb943c5d81a133b2f0a2676af5aa1f4b6ade6b23b8e84"
 
 [update]
 [update.modrinth]
 mod-id = "4XFSzxty"
-version = "Xiq7n1bX"
+version = "5kf9whqF"
 
 [option]
 optional = true
-description = "Remove jumping delay (may trigger anti-cheat on some server)\n移除跳躍延遲（可能觸發某些伺服器的防作弊機制）"
 default = true
+description = """
+No Jump Delay: Enhanced
+
+A client-side Fabric mod that removes jump cooldown for continuous jumping—configurable toggle and server rule warning included.
+客戶端Fabric模組，移除跳躍冷卻時間實現連續跳躍。提供開關設定並提醒伺服器規則限制。"""

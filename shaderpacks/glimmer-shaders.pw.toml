@@ -1,0 +1,17 @@
+name = "Glimmer"
+filename = "Glimmer.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PgdT4v4a/versions/2JnLwLsz/Glimmer-v1.5.zip"
+hash-format = "sha512"
+hash = "706ee2fe03877dcb88083140190a4bf0b5757d11752333bf17ca552f11fa854c69a2d3d90a736128c89bd30f64a0c8c44be462d2013c28a06c6a1c592ccd74c9"
+
+[update]
+[update.modrinth]
+mod-id = "PgdT4v4a"
+version = "2JnLwLsz"
+
+[option]
+optional = true
+description = "Glimmer\n\nA shaderpack that runs smoothly on any PC while adding vibrant colored torchlight, endless oceans, and realistic water reflections—no complex settings needed.\n為任何電腦量身打造的流暢光影包，火把散發彩色光芒，海洋延伸至視野盡頭，水面倒影清晰真實。一鍵啟用，無需繁瑣設定。\n\nSee more at https://github.com/jbritain/glimmer-shaders/"

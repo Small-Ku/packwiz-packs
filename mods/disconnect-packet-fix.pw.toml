@@ -11,3 +11,12 @@ hash = "1fd6f09a41ce36284e1a8e9def53f3f6834d7201e69e54e24933be56445ba569fbc26278
 [update.modrinth]
 mod-id = "rd9rKuJT"
 version = "Gv74xveQ"
+
+[option]
+optional = true
+default = true
+description = """
+Disconnect Packet Fix
+
+A minimal Fabric/NeoForge mod that silences MC-271325 console spam caused by disconnect packet errors—temporary fix until Mojang resolves the bug.
+極簡Fabric/NeoForge模組，消除MC-271325漏洞導致的斷線封包錯誤主控台刷屏。Mojang修復前的臨時解決方案。"""

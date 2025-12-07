@@ -1,18 +1,22 @@
 name = "Language Reload"
-filename = "language-reload-1.7.4+1.21.4.jar"
+filename = "language-reload-1.7.5+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/Y5DoDIMK/language-reload-1.7.4%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/A4AkBYE3/language-reload-1.7.5%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "f62b281b2cc5fa1c1031a6cfd6d426902786c644543c5087492409d628d630174fa248257ce7aac7fb3b0a6135c71c474c3780185f2a1cf00a246cc94037602c"
+hash = "51cbb4fb4c23604259cd7c2f7ad78db1514dfdd8a74a0a49a33889b151a4bdf34c75f17315418899840c5a2c88f63721c05dcf07cc6028c4736a1ccf6374f74a"
 
 [update]
 [update.modrinth]
 mod-id = "uLbm7CG6"
-version = "Y5DoDIMK"
+version = "A4AkBYE3"
 
 [option]
 optional = true
-description = "Language fallbacks\n便利語言選項"
 default = true
+description = """
+Language Reload
+
+A Fabric mod enabling instant language switching without reloading resources—adds multilingual search, fallback systems, and keyboard shortcuts (F3+J).
+Fabric模組，實現無需重載資源包的即時語言切換，支援多語言搜尋、自動備援機制及快捷鍵操作(F3+J)，大幅減少加載延遲。"""

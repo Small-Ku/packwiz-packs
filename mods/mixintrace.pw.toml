@@ -14,4 +14,9 @@ version = "LGYOH4RN"
 
 [option]
 optional = true
-description = "Better debug for mixin"
+default = true
+description = """
+MixinTrace
+
+A mod that appends mixin lists to crash report stack traces for precise debugging.
+將 mixin 清單附加至當機報告堆疊追蹤的模組，精準定位錯誤根源。"""

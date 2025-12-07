@@ -1,0 +1,24 @@
+name = "Rethinking Voxels"
+filename = "rethinking-voxels.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/cpD4esk9/rethinking-voxels_r0.1-beta9.zip"
+hash-format = "sha512"
+hash = "1e32f41e67e527c3c60149677a05b61c6d305e440812e29abba745b8ed304954780ca48d58b834c49835790bc3c4d38f37c893c5cbdfea9edc07b72e1dabd296"
+
+[update]
+[update.modrinth]
+mod-id = "kmwfVOoi"
+version = "cpD4esk9"
+
+[option]
+optional = true
+description = """
+Rethinking Voxels
+
+A shaderpack where torchlight dances as colored shadows on cave walls, stained-glass windows paint rainbows on stone floors, and every mob blocks light like real matter. Still in development—but for strong PCs, it already turns Minecraft into a breathing diorama.
+讓火把在岩壁躍動彩影、彩繪玻璃為石地灑落虹光的光影包。每隻生物都如實物阻擋光線，晨霧中透出的陽光如金縷般真實。雖處開發階段且需高階硬體，已能將方塊世界化作會呼吸的立體劇場。  
+
+See more at https://github.com/gri573/rethinking-voxels/"""
+

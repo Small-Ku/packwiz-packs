@@ -13,6 +13,10 @@ mod-id = "TkeWvQw9"
 version = "xXrJMi20"
 
 [option]
-optional = false
-description = "Fixes\n修復"
+optional = true
 default = true
+description = """
+No Double Sneak
+
+A Fabric mod that fixes camera bounce when rapidly toggling sneak—minimal design ensures easy updates.
+Fabric 模組，修復快速切換潛行時相機彈跳問題。極簡設計確保版本更新無縫銜接。"""

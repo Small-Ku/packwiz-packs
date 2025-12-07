@@ -1,0 +1,22 @@
+name = "No Crop Trample"
+filename = "no-crop-trample-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TEL2rIgj/versions/QuAVTg8j/no-crop-trample-1.0.3.jar"
+hash-format = "sha512"
+hash = "9c47dee1daa59980b1c7466551efd03338763aa42c355e51d9544ec7da159cbef63ac6b49ad8565ec65099c29ea23e315fa760bb5d053c0ddb6979874e27b8ea"
+
+[update]
+[update.modrinth]
+mod-id = "TEL2rIgj"
+version = "QuAVTg8j"
+
+[option]
+optional = true
+default = true
+description = """
+No Crop Trample
+
+A simple mod that prevents crops from being destroyed when walked over by players or mobs.
+簡單模組，防止玩家或生物走過時摧毀農作物。"""

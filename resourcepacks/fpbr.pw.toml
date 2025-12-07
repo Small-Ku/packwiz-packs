@@ -1,0 +1,17 @@
+name = "FPBR"
+filename = "FPBR-Main-1.21.9-R1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvEpbd8t/versions/dynf82xk/FPBR-Main-1.21.9-R1.3.zip"
+hash-format = "sha512"
+hash = "64f1bbd036e205118f1d9c49a79558db2c1356ee988fb939c0023db1967d78e1bd05047f341ce6d65355717ba7ddb1330af57edbb4d5b8713c96ae62987274c5"
+
+[update]
+[update.modrinth]
+mod-id = "nvEpbd8t"
+version = "dynf82xk"
+
+[option]
+optional = true
+description = "GN FPBR\n\nA free 128x vanilla enhancement texture pack by G2FISH (GNwork team member) that enables PBR, parallax, and subsurface scattering with Chinese shaders like itt/itrp—low system requirements with modular installation.\n由GNwork成員G2FISH打造的128x免費原版增強材質包，搭配itt/itrp等國產光影實現PBR、視差與次表面散射效果。模組化安裝設計，低配電腦流暢運行，中配可開光影絲滑體驗。\n\nSee more at https://fishbai.cloud/wiki.html/"

@@ -1,5 +1,5 @@
 name = "UShader"
-filename = "UShader_v2.2.zip"
+filename = "UShader.zip"
 side = "client"
 
 [download]
@@ -14,3 +14,10 @@ version = "rfCVvTvJ"
 
 [option]
 optional = true
+description = """
+UShader
+
+A shaderpack reviving the iconic SEUS v10.1 lighting style with added volumetric fog and smoother performance—nostalgic visuals without original's lag.
+重現 SEUS v10.1 標誌性光影風格的懷舊光影包，新增體積霧效果，效能超越原版且流暢運行。
+
+See more at https://rre36.com/ushader/"""

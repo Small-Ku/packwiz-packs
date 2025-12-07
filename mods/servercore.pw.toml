@@ -1,18 +1,22 @@
 name = "ServerCore"
-filename = "servercore-fabric-1.5.8+1.21.4.jar"
-side = "both"
+filename = "servercore-fabric-1.5.14+1.21.9.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/uJYh4tBK/servercore-fabric-1.5.8%2B1.21.4.jar"
-hash-format = "sha256"
-hash = "7c2e9f4eab7cf16906ae953c71a5a7a3d4daa546079e1f03d3a03a7734b68551"
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/TTQGy6U8/servercore-fabric-1.5.14%2B1.21.9.jar"
+hash-format = "sha512"
+hash = "d6113cedae8d0852c7341d8bb016732b03cea2d3729cb9140549bde6004aee1dd48634e16b3727b8cd4e8d101675672e43e6cc205958b4b41d4658ab3eb69b12"
 
 [update]
 [update.modrinth]
 mod-id = "4WWQxlQP"
-version = "uJYh4tBK"
+version = "TTQGy6U8"
 
 [option]
-optional = false
-description = "Optimization\n優化"
+optional = true
 default = true
+description = """
+ServerCore
+
+A server optimization mod that reduces lag spikes and improves tick performance while preserving vanilla behavior by default. Features configurable entity activation ranges, dynamic resource adjustments, and villager processing optimizations. Works on dedicated servers and singleplayer worlds.
+伺服器優化模組，大幅減少延遲尖峰並提升遊戲刻效能，預設維持原版行為。提供可調整的實體激活範圍、動態資源分配與村民處理優化。適用於專用伺服器及單人世界。"""

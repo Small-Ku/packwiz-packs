@@ -1,17 +1,22 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.3.5-b-1.21.4-fabric-neoforge.jar"
+filename = "DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/rU64fz59/DistantHorizons-2.3.5-b-1.21.4-fabric-neoforge.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/9Y10ZuWP/DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar"
 hash-format = "sha512"
-hash = "92edf64a71125d6e6c8694619091d93b2c1dc686ea86f681251268176dc739fb460d29886ea727394d7bc47390bcb26014d38fe0bde94d49b01a5d7ca5cba899"
+hash = "1b1b70b7ec6290d152a5f9fa3f2e68ea7895f407c561b56e91aba3fdadef277cd259879676198d6481dcc76a226ff1aa857c01ae9c41be3e963b59546074a1fc"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "rU64fz59"
+version = "9Y10ZuWP"
 
 [option]
 optional = true
-description = "Extremely great performance with larger render distance\n增大渲染距離同時保留良好性能"
+default = false
+description = """
+Distant Horizons
+
+A mod extending view distance with simplified terrain beyond default limits—maintains performance while revealing landscapes from mountaintops. Compatible with specific shaders (OptiFine/Iris 1.7+). Strict version requirements.
+延伸視距的模組，在預設範圍外生成簡化地形，登上高山可俯瞰遼闊地景而不影響流暢度。相容特定光影（OptiFine/Iris 1.7+），需嚴格對應Minecraft版本。"""

@@ -13,6 +13,10 @@ mod-id = "kwS02byl"
 version = "eawKqmwN"
 
 [option]
-optional = false
-description = "Fixes\n修復"
+optional = true
 default = true
+description = """
+Riding Mouse Fix
+
+A mod fixing sluggish mouse control when riding minecarts/entities—alpha version may cause cursor jumps on high-ping servers. Boats unaffected.
+修復乘坐礦車/生物時滑鼠操作遲鈍的模組，Alpha版本在高延遲伺服器可能導致游標跳動，不影響船隻操作。"""

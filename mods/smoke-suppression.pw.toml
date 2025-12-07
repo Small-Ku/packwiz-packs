@@ -14,5 +14,9 @@ version = "ULPiyfBu"
 
 [option]
 optional = true
-description = "Suppress smoke of campfires in farms, improving performance\n刷怪塔的營火不再冒煙，改進性能"
 default = true
+description = """
+Smoke Suppression
+
+A client-side mod that suppresses campfire smoke when specific blocks are placed underneath—prevents lag and visual clutter in large farms. Works for both regular and soul campfires.
+客戶端模組，當特定方塊置於營火下方時抑制煙霧，避免大型營火農場造成的延遲與視覺干擾。適用於普通及靈魂營火。"""

@@ -1,5 +1,5 @@
 name = "Complementary Shaders - Reimagined"
-filename = "ComplementaryReimagined_r5.6.1.zip"
+filename = "ComplementaryReimagined.zip"
 side = "client"
 
 [download]
@@ -14,4 +14,10 @@ version = "OfRF7dTR"
 
 [option]
 optional = true
-description = "A shaderpack try to provide you with the most issueless experience possible.\n嘗試提供無瑕體驗的光影包"
+description = """
+Complementary Shaders - Reimagined
+
+A shaderpack where Minecraft's soul shines brighter: torches dance with playful sparks, cobblestone paths whisper nostalgia, and sunsets paint the sky in pixel-perfect watercolors. Smooth performance on entry-level systems.
+讓Minecraft靈魂綻放的光影包：火把躍動俏皮星火，鵝卵石小徑喚起童年回憶，夕陽以像素水彩浸染天際。低階設備也能享受的流暢光影體驗。
+
+See more at https://www.complementary.dev/"""

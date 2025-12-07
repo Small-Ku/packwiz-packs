@@ -1,0 +1,18 @@
+name = "Servux"
+filename = "servux-fabric-1.21.10-0.8.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/4NqOw9an/servux-fabric-1.21.10-0.8.3.jar"
+hash-format = "sha512"
+hash = "c9af5c2fcee3c7a4877d1cc75bddb5667fa22cf122320906102937ef0638a19acd73926863aa5477809c171b2654c969b358773fa31ab9770b48a50a649778e5"
+
+[update]
+[update.modrinth]
+mod-id = "zQhsx8KF"
+version = "4NqOw9an"
+
+[option]
+optional = true
+description = "Servux\n\nA server-side mod enabling MiniHUD's structure boundary rendering in multiplayer—no client install needed except for LAN hosts.\n伺服器端模組，使MiniHUD在多人遊戲中顯示建築結構邊界框，客戶端無需安裝（區域網路主機除外）。"
+default = true

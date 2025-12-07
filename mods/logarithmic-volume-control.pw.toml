@@ -1,18 +1,22 @@
 name = "Logarithmic Volume Control"
-filename = "logarithmic-volume-control-1.0.0-1.21.jar"
+filename = "logarithmic-volume-control-1.0.0-1.21.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fPJLcvRR/versions/kTp2N4EM/logarithmic-volume-control-1.0.0-1.21.jar"
+url = "https://cdn.modrinth.com/data/fPJLcvRR/versions/x1xTpcdd/logarithmic-volume-control-1.0.0-1.21.9.jar"
 hash-format = "sha512"
-hash = "d39a71965de7604737bd1aa981e12ada8b1bf67d1639a866c319214dffdaa14d930af16236745adde2f56993a9fca4d4129a9a634af5c4edc08eec07a3fd8a3f"
+hash = "73b5cf89134669a1f5663cd8466cd1a3b18aa6954304a0e70b9d051d99dfb46a0631b25fb15a7ba9a6b74983a069538489a8a6d0724884496dac48c8f85334c7"
 
 [update]
 [update.modrinth]
 mod-id = "fPJLcvRR"
-version = "kTp2N4EM"
+version = "x1xTpcdd"
 
 [option]
 optional = true
-description = "Stright-forward volume slider\n更合人類聽覺的音量設定"
 default = true
+description = """
+Logarithmic Volume Control
+
+Fixes Minecraft's linear volume sliders to follow human logarithmic perception—makes low-volume adjustments precise. Minimal mod with high cross-version compatibility.
+修正 Minecraft 線性音量滑桿，改用符合人耳感知的對數刻度——低音量調節更精準。極簡設計，跨版本相容性高。"""

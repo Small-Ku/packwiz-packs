@@ -1,0 +1,18 @@
+name = "Octray Rewrite"
+filename = "Octray-Rewrite.zip"
+side = "client"
+
+[download]
+url = "https://github.com/BruceKnowsHow/OctrayRewrite/archive/3952957460aaf075831979eaf7e3a9332bce52d0.zip"
+hash-format = "sha256"
+hash = "b0efce8b5884b4557578856ed01d553b380dd3fa573861077b6aac8554448647"
+
+[option]
+optional = true
+description = """
+Octray Rewrite
+
+An experimental raytraced shader optimized with sparse octree allocation and branchless path-tracing—extends lighting range across vast landscapes.
+實驗性光追光影，透過稀疏八叉樹配置與無分支路徑追蹤技術，實現超遠距離照明效果，為廣闊地景帶來真實光影。
+
+See more at https://github.com/BruceKnowsHow/OctrayRewrite/"""

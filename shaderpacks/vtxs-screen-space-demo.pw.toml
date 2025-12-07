@@ -1,0 +1,21 @@
+name = "VTXS Screen Space Demo"
+filename = "VTXS_Screen_Space_Demo.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DIAdpUOD/versions/F4h26kxY/VTXS_Screen_Space_Demo_0.15.4.zip"
+hash-format = "sha512"
+hash = "79cbc5c2701a8497ed591d52f7422c372d106c35257b60533e2c11101dd2afef03a4921db856471c59aa27f2aba6ab97ca65044faae15fd670464ee01364ab1f"
+
+[update]
+[update.modrinth]
+mod-id = "DIAdpUOD"
+version = "F4h26kxY"
+
+[option]
+optional = true
+description = """
+VTXS Screen Space Demo
+
+An experimental shaderpack focused on screen-space ray tracing for playable visuals—adds water waves, glass/water reflections, colored shadows, and armor glow while keeping gameplay smooth.
+實驗性光影包，專注於屏幕空間光線追蹤技術：提供水波紋、玻璃/水面反射折射、彩色陰影、盔甲反光效果，確保遊戲流暢運行。"""

@@ -1,18 +1,22 @@
 name = "caramelChat"
-filename = "caramelChat-mc1.21.1-fabric-1.2.2.jar"
+filename = "caramelChat-mc1.21.9-fabric-1.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M4vJe1FJ/versions/DThCgWlO/caramelChat-mc1.21.1-fabric-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/M4vJe1FJ/versions/Ule7YwhC/caramelChat-mc1.21.9-fabric-1.2.2.jar"
 hash-format = "sha512"
-hash = "796a5fb6dace2458f72495ceb9f22c7d7fcdffb294cd5058b0f5623e8dbb0ec27f4f14d72e62443d0aefeb93c19e2f35e239559cc36212f0db3eb14550c0449d"
+hash = "a70bca801e626398c2f1c7ba1e53f0b5ab58c237e8f72db1a76419f6997ba78cf2bbb50a6c77d39c7aa5244736cab358cb51a077a7f5bf90d0c09971de017fd4"
 
 [update]
 [update.modrinth]
 mod-id = "M4vJe1FJ"
-version = "DThCgWlO"
+version = "Ule7YwhC"
 
 [option]
 optional = true
-description = "Avoid problems with CJK IME\n(Incompatible with Input Tooltip of macOS)\n兼容中日韓輸入法\n（不相容 macOS 新的文字游標）"
 default = true
+description = """
+caramelChat
+
+A mod enhancing CJK (Chinese/Japanese/Korean) IME support in Minecraft—fixes input field synchronization and provides seamless chat/naming experiences.
+強化 Minecraft 中文/日文/韓文輸入法支援的模組，修復輸入框同步問題，讓聊天與命名操作流暢無礙。"""

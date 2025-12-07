@@ -1,0 +1,23 @@
+name = "Shrimple"
+filename = "Shrimple.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Null-MC/Shrimple/archive/80c013fa0adefb876d2a98d2ef5c1d4931598160.zip"
+hash-format = "sha256"
+hash = "3ee437ea28445b2eb97457311e1e62ea5700994e40da4f46c0dda5efa7f12cd0"
+
+[update]
+[update.modrinth]
+mod-id = "BS9T99lD"
+version = "tAx0UOBX"
+
+[option]
+optional = true
+description = """
+Shrimple
+
+A shaderpack that keeps Minecraft's vanilla look intact while adding optional features like swaying plants, colored torchlight that reacts to handheld items, and glass-tinted lighting. Experimental ray-traced block-light shadows included; water reflections and global illumination remain basic.
+保留 Minecraft 原版視覺風格的光影包，提供植物搖曳、手持光源、玻璃染色光效等可選功能。含實驗性方塊光源光追陰影，水體反射與全局光照效果維持基礎水平。
+
+See more at https://github.com/Null-MC/Shrimple/"""

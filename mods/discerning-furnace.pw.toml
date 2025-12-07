@@ -1,18 +1,22 @@
 name = "Discerning Furnace"
-filename = "discerning-furnace-1.2.5+MC1.21.2-1.21.8.jar"
+filename = "discerning-furnace-1.2.6+MC1.21.2-1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/Bj7s17ze/discerning-furnace-1.2.5%2BMC1.21.2-1.21.8.jar"
+url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/QT4cPV46/discerning-furnace-1.2.6%2BMC1.21.2-1.21.10.jar"
 hash-format = "sha512"
-hash = "6e74213205a8b642914423d29271a258735c32831497cfe905da11045e3ba982a41c8f8ae968f299b0f8c44203a6c47927c39d6f5a25f6f84ed9d7242637cd77"
+hash = "f2325983547c185dd7573b298161dd13773d4cc246e613792872cef977b1d7daf62fce9a82adfa757246bf39816b8e4c30b52a3d039be3d7cb54aa88d65439fe"
 
 [update]
 [update.modrinth]
 mod-id = "G3Nz6HN4"
-version = "Bj7s17ze"
+version = "QT4cPV46"
 
 [option]
 optional = true
-description = "Only smeltables in furnaces\n只能把可燒煉物品放進熔爐"
 default = true
+description = """
+Discerning Furnace
+
+A minimal mod preventing non-smeltable items from entering furnace input slots—blocks invalid items from players (client) and hoppers (server). Works with vanilla and compatible modded furnaces.
+精簡模組，阻止不可熔煉物品進入熔爐輸入格。客戶端防止玩家放入無效物品，伺服器端阻擋漏斗輸入。適用於原版熔爐及相容的模組熔爐。"""

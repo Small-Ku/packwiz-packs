@@ -1,13 +1,22 @@
 name = "YetAnotherConfigLib (YACL)"
-filename = "yet_another_config_lib_v3-3.8.0+1.21.4-fabric.jar"
+filename = "yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/F67XvT8M/yet_another_config_lib_v3-3.8.0%2B1.21.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/UZmV6xf4/yet_another_config_lib_v3-3.8.0%2B1.21.9-fabric.jar"
 hash-format = "sha512"
-hash = "3fcd2ce12709a951f7ad4d2e4abf0b276aee0192bc93a91279ad6d6b2a0d7523f27f42e39fe21618542a1e5628cc937d83c4a75ba65bd64b44c062c481598c63"
+hash = "9ca9ccbbf025a795f1853feba3dc9755a377f744e3b075d581d987ae51d32e170d839e9069a9f2b05bd121cca78dfff3882dd5ea132768c7ce0ecae81ed472e3"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "F67XvT8M"
+version = "UZmV6xf4"
+
+[option]
+optional = false
+default = true
+description = """
+YetAnotherConfigLib
+
+A modern config library for Fabric mods with intuitive UI controls, rich descriptions, and keyboard-friendly tabs—designed to replace outdated alternatives.
+Fabric模組專用設定函式庫，提供直覺化介面控制項、多媒體描述文字與鍵盤友好分頁，取代過時的現有方案。"""

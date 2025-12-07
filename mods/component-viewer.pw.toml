@@ -1,17 +1,22 @@
 name = "Component Viewer"
-filename = "componentviewer-fabric-1.3.0+1.21.4.jar"
+filename = "componentviewer-fabric-1.3.1+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/P9vIqP8R/versions/mxTbYDl3/componentviewer-fabric-1.3.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/P9vIqP8R/versions/kb2mDIxP/componentviewer-fabric-1.3.1%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "2dc0ade575f2f04c4bccf78b52fb867f75f77acd6b7b9c15c890d216fa38b7763424966ca8e88b6a0eae2205eb0f8c9b67f8cdd5e9bb1b4b3d0a11ca0d4f0d56"
+hash = "6fd327288acbc2a2c5d215f95b96e51cdedeec5b34fbfe3267cc12f73d03534980e75fdfe8b09044062d56b4a23dbe7798937d8fa90640cf5ffe03f9be9fae3d"
 
 [update]
 [update.modrinth]
 mod-id = "P9vIqP8R"
-version = "mxTbYDl3"
+version = "kb2mDIxP"
 
 [option]
 optional = true
-description = "View Item NBT\n查看物品 NBT"
+default = false
+description = """
+Component Viewer
+
+A client-side mod displaying and copying item stack components via tooltips—press J to configure. Data exports in clean SNBT/JSON format; pairs well with Tooltip Scroll for large datasets.
+客戶端模組，透過提示框顯示並複製物品組件數據，按 J 鍵即可設定。支援乾淨格式的 SNBT/JSON 輸出，搭配 Tooltip Scroll 模組可處理大型數據集。"""

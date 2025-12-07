@@ -1,0 +1,22 @@
+name = "Low Fire"
+filename = "Low Fire.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jZGHJ05/versions/YCU6MIBD/Low%20Fire.zip"
+hash-format = "sha512"
+hash = "f5b7b144452e3ba311ecfa2005996febecafc1c6948fe60b5dba42467e70f21cf5a841a417fafa73d8435559ecb2d6d0c76b29d1b142f1485831a22d33859e8a"
+
+[update]
+[update.modrinth]
+mod-id = "1jZGHJ05"
+version = "YCU6MIBD"
+
+[option]
+optional = true
+default = true
+description = """
+Low Fire
+
+A resource pack that shortens in-game fire height to prevent view obstruction.
+縮短遊戲內火焰高度的資源包，有效防止視野被遮擋。"""

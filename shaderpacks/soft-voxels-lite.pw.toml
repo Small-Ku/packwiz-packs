@@ -1,0 +1,23 @@
+name = "Soft Voxels Lite"
+filename = "SoftVoxelsLite.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xl42lc6c/versions/IxJIqh4s/SoftVoxelsLite_v2.0.zip"
+hash-format = "sha512"
+hash = "e9e9f9d949dba32a0d5b1d61136d2b37bb1b3aa39601e8e05f6b61a1c20549c32f20e2bb0bd7a22f681ad87e5c6d0ef09bb7404bf49e3d46d39878d02790b174"
+
+[update]
+[update.modrinth]
+mod-id = "Xl42lc6c"
+version = "IxJIqh4s"
+
+[option]
+optional = true
+description = """
+Soft Voxels Lite
+
+A shaderpack that creates soft, natural lighting without harsh shadows—features gentle overcast skies, waving plants, and water reflections. Free lightweight version of Soft Voxels with full path-traced lighting.
+以柔和自然光影取代生硬陰影的光影包，呈現陰天般戶外視覺，支援植物搖曳與水體反射。Soft Voxels精簡免費版，完整保留光線追蹤核心效果。
+
+See more at https://rre36.com/soft-voxels/"""

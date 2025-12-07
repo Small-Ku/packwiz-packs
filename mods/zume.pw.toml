@@ -1,0 +1,22 @@
+name = "Zume"
+filename = "zume-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o6qsdrrQ/versions/zOLMcYq6/zume-1.2.0.jar"
+hash-format = "sha512"
+hash = "52a04c612ea939063115a927f948a1349eaab5f354db06d2084bd071ac072459bedefd82d5365677f4649cc7078fd265f3515b9208acec566e97a3cb5cbb49ad"
+
+[update]
+[update.modrinth]
+mod-id = "o6qsdrrQ"
+version = "zOLMcYq6"
+
+[option]
+optional = true
+default = true
+description = """
+Zume
+
+A simple zoom mod that temporarily narrows your field of view with a keybind—adjust zoom levels on the fly for better distant visibility.
+簡易縮放模組，按住按鍵即可縮小視野範圍，動態調整縮放程度以清晰觀察遠方景物。"""

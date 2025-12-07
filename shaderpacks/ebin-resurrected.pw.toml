@@ -1,0 +1,23 @@
+name = "Ebin Resurrected"
+filename = "Ebin-Resurrected.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VP9picRm/versions/blRQVUY5/Ebin-Resurrected-v1.5.6.zip"
+hash-format = "sha512"
+hash = "58c16c80cec86de34c46cb14e48147d2e8598ef0127fb5fca9ef440b64d7ecb29c548288b66dcd08673b31a4cf7a341cc3d1ca6dfc47e24d5a4383046f63f508"
+
+[update]
+[update.modrinth]
+mod-id = "VP9picRm"
+version = "blRQVUY5"
+
+[option]
+optional = true
+description = """
+Ebin Resurrected
+
+A shaderpack that makes Minecraft visuals pop with vibrant colors and smooth performance. Rain makes stones look wet, torches cast colorful glows, and grass moves naturally—runs well even on older PCs. Perfect for survival players who want eye candy without lag.
+以鮮豔色彩與流暢效能強化 Minecraft 視覺的光影包。下雨時石頭會反光、火把散發彩色光芒、草地自然搖曳，舊電腦也能順暢運行。專為生存玩家設計：享受華麗畫面，告別卡頓延遲。
+
+See more at https://github.com/jbritain/Ebin-Shaders-Resurrected/"""

@@ -1,0 +1,23 @@
+name = "BSL Shaders - Classic"
+filename = "BSLClassic.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pgzM6RBY/versions/a05qYRrG/BSLClassic_v10.0.zip"
+hash-format = "sha512"
+hash = "97bb2e8ea94e2d57130bae1c8e99efba96fdc06872742e69a23f82f011d9064c7c7bdd4a0abefddd6c578b56c8fa21d3d8f3339acaf3c21192f2acca9d783ef6"
+
+[update]
+[update.modrinth]
+mod-id = "pgzM6RBY"
+version = "a05qYRrG"
+
+[option]
+optional = true
+description = """
+BSL Shaders - Classic
+
+A shaderpack honoring vanilla aesthetics with subtle dreamy enhancements. Continuously updated since its inception, it has witnessed Minecraft's shader evolution. Cherished for buttery-smooth performance and masterful optimization despite forgoing extreme visual effects.
+一款忠於原版美學、細膩融入夢幻質感的光影包。從早期持續更新至今，見證 Minecraft 光影的演進歷程。雖捨棄極致視效，卻以絲滑流暢度與精湛優化贏得眾多玩家青睞。  
+
+See more at https://bitslablab.com/bslshaders/"""

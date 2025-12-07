@@ -1,18 +1,18 @@
 name = "BadOptimizations"
-filename = "BadOptimizations-2.3.1-1.21.2-21.5.jar"
+filename = "BadOptimizations-2.4.0-1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/GY6x0X6n/BadOptimizations-2.3.1-1.21.2-21.5.jar"
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/oGXA8nrb/BadOptimizations-2.4.0-1.21.10.jar"
 hash-format = "sha512"
-hash = "58703ca0542edb7af03789e3e4fc1a69be6e26702b9e6f26d81ca2fd4baa791c16fe68105fcf99ee5a4e0cf07cce591c77a27bdf89ef9ca04d68583c9b63f5c5"
+hash = "23de565b1de118f1b940b4bf1042b4b8e0c0cad27f91c25bbcb5f376cc71e2c7b39fd56a179d7802acc658a45e155c744beca382321c0e4bff2ea5dab30c671d"
 
 [update]
 [update.modrinth]
 mod-id = "g96Z4WVZ"
-version = "GY6x0X6n"
+version = "oGXA8nrb"
 
 [option]
-optional = false
-description = "Optimization\n優化"
+optional = true
+description = "BadOptimizations\n\nA client-side mod that skips unnecessary lightmap updates, simplifies sky color calculations in single-biome areas, and skips unused debug renders—improves FPS with configurable optimizations.\n客戶端模組，自動跳過無效亮度貼圖更新、簡化單一生態域天空運算、略過未啟用除錯渲染。可透過設定檔調整，有效提升遊戲幀率。"
 default = true

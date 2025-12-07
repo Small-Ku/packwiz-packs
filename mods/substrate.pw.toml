@@ -1,0 +1,22 @@
+name = "Substrate"
+filename = "substrate-4.1-Beta.2-1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/Lj6IJAX0/substrate-4.1-Beta.2-1.21.9.jar"
+hash-format = "sha512"
+hash = "4d70d839db9fd7eccdf479ea7526adb11cdccf16be96fc4f37ebd5990e36e18267433a19448cef37cd3fbbbf9965c00a49baa448145bc05079af07786119ce62"
+
+[update]
+[update.modrinth]
+mod-id = "zNuzb72d"
+version = "Lj6IJAX0"
+
+[option]
+optional = true
+default = true
+description = """
+Substrate
+
+A Sodium add-on mod that removes hidden block faces on world boundaries—boosts FPS on Overworld floor and Nether ceilings without visual changes.
+Sodium附加模組，移除世界邊界層不可見方塊面，提升主世界底層與下界頂底層幀率，無視覺差異。"""

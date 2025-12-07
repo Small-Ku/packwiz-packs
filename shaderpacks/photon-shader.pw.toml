@@ -1,0 +1,23 @@
+name = "Photon Shaders"
+filename = "photon.zip"
+side = "client"
+
+[download]
+url = "https://github.com/sixthsurge/photon/archive/ba11ae2ad9d506c3a2fd9ca10c317be259b94d69.zip"
+hash-format = "sha256"
+hash = "e111ad52f6869861b382a9560bc5dfa77e45925d6f3807aceb8f54aa5f90f4e2"
+
+[update]
+[update.modrinth]
+mod-id = "lLqFfGNs"
+version = "rz2vlXVm"
+
+[option]
+optional = true
+description = """
+Proton Shaders
+
+A buttery-smooth shaderpack that transforms Minecraft into a living painting—breathtaking sunsets, dynamic weather, and water that feels alive. Outperforms BSL in beauty while maintaining accessibility on lower-end machines.
+讓Minecraft化身流動畫卷的流暢光影包，醉人夕陽、會呼吸的天氣、波光粼粼的水面。畫面精緻度超越BSL，低階設備也能享受的流暢光影體驗。
+
+See more at https://github.com/sixthsurge/photon/"""

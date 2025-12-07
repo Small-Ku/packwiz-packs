@@ -1,0 +1,22 @@
+name = "Low Shield"
+filename = "Low Shield.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CZrLuVQo/versions/MelvnUPt/Low%20Shield.zip"
+hash-format = "sha512"
+hash = "a2830f837c759854df4a2dd7f8b71c8701c4bd3f4ad39db9b7f1b9cb7400cf0b80aa90bdee60e002be68ce6f350836ce8b7cef2a34c7bbca94488977cf2e495a"
+
+[update]
+[update.modrinth]
+mod-id = "CZrLuVQo"
+version = "MelvnUPt"
+
+[option]
+optional = true
+default = true
+description = """
+Low Shield
+
+A resource pack that lowers first-person shield height to prevent view obstruction.
+降低第一人稱盾牌高度的資源包，有效防止視野被遮擋。"""

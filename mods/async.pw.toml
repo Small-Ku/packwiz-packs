@@ -1,18 +1,22 @@
 name = "Async"
-filename = "async-fabric-0.1.8+alpha.1-1.21.4.jar"
-side = "both"
+filename = "async-fabric-0.1.8+alpha.1-1.21.10.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/q1VgmI8O/async-fabric-0.1.8%2Balpha.1-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/jW2W1uoQ/async-fabric-0.1.8%2Balpha.1-1.21.10.jar"
 hash-format = "sha512"
-hash = "7e90a2bb625515131821452c4c4e4b14dd674a488270ff79e8236e5904a67c45b5289961da5ef25bd85d46c3e8b588ebb8fe7234de9f14da618f3744603e6796"
+hash = "ab749a537bc84f61da3c45c257192fef2361874a5470f7803bdad478d4cb6ddea055035583f3b5b2f4c6bbab31a7617148e3571cf3bb295bb6be0e6206fb6f86"
 
 [update]
 [update.modrinth]
 mod-id = "vEC2jm6I"
-version = "q1VgmI8O"
+version = "jW2W1uoQ"
 
 [option]
-optional = false
-description = "Optimization\n優化"
+optional = true
 default = true
+description = """
+Async
+
+A Fabric mod that maintains stable TPS during massive mob spawns by spreading entity processing across CPU cores. Experimental async random ticks included.
+Fabric模組，透過多核心分擔運算，在大量生物生成時維持每秒遊戲刻穩定。含實驗性非同步隨機刻功能。"""

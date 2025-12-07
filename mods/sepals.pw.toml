@@ -1,0 +1,22 @@
+name = "Sepals"
+filename = "Sepals-fabric-1.0.29.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hH1OHXZD/versions/VmpUsElf/Sepals-fabric-1.0.29.jar"
+hash-format = "sha512"
+hash = "df530c44bff9fdbb1b2ebb127bef7c6267383955e41fc8826f4b7877148bd1f0aca18ec807b21574d572664b8341d4fa182116869cbde6b87538ed89f16205a4"
+
+[update]
+[update.modrinth]
+mod-id = "hH1OHXZD"
+version = "VmpUsElf"
+
+[option]
+optional = true
+default = true
+description = """
+Sepals
+
+An experimental server-side mod that drastically optimizes entity-heavy scenarios (villagers/frogs) when combined with Lithium/Async. May alter vanilla behavior.
+實驗性伺服器模組，搭配Lithium/Async時大幅優化村民/青蛙等高密度實體場景，可能改變原版行為。"""

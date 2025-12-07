@@ -1,18 +1,22 @@
 name = "Krypton"
-filename = "krypton-0.2.8.jar"
+filename = "krypton-0.2.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
-hash-format = "sha256"
-hash = "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
+url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar"
+hash-format = "sha512"
+hash = "4dcd7228d1890ddfc78c99ff284b45f9cf40aae77ef6359308e26d06fa0d938365255696af4cc12d524c46c4886cdcd19268c165a2bf0a2835202fe857da5cab"
 
 [update]
 [update.modrinth]
 mod-id = "fQEb0iXm"
-version = "Acz3ttTp"
+version = "O9LmWYR7"
 
 [option]
 optional = true
-description = "Improve network performance on installed servers (cannot login Hypixel)\n改進網絡性能（無法進入 Hypixel）"
 default = true
+description = """
+Krypton
+
+A Fabric mod optimizing Minecraft's networking stack with Velocity-derived handlers—reduces server CPU load and memory usage.
+Fabric模組，透過Velocity優化技術強化Minecraft網路效能，降低伺服器CPU負載與記憶體用量。"""

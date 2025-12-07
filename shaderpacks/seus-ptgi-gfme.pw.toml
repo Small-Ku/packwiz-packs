@@ -1,0 +1,21 @@
+name = "SEUS PTGI GFME"
+filename = "SEUS_PTGI_HRR_Test_2.1_GFME.jar"
+side = "client"
+
+[download]
+url = "https://github.com/GeForceLegend/SEUS_PTGI_GFME/releases/download/HRR2.1-v1.19/SEUS_PTGI_HRR_Test_2.1_GFME_v1.19.jar"
+hash-format = "sha256"
+hash = "cc503746003d6008761e4ca6bc00a689029940bcbcb1abf9e43acea8a7b913c5"
+
+[option]
+optional = true
+description = """
+SEUS PTGI GeForceLegend's Modified Edition
+
+A performance-optimized PTGI variant featuring per-pixel path tracing with PBR support, enhanced vanilla lighting colors, auto texture resolution for incomplete packs, and metal sunlight caustics. Requires powerful hardware to showcase its full potential.
+Installation: Execute the JAR file with PTGI HRR 2.1 file
+
+深度優化的PTGI改版光影，搭載PBR材質支援的逐像素光線追蹤、強化原版光源色彩、自動適配不完整材質包，並新增金屬陽光焦散效果。需要高階硬體才能流暢運行的頂級光影效果。
+安裝: 請同時勾選 SEUS PTGI HRR 2.1，並進入光影包資料夾執行此JAR檔案
+
+See more at https://github.com/GeForceLegend/SEUS_PTGI_GFME/"""

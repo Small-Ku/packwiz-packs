@@ -1,0 +1,17 @@
+name = "More Leaf Particles"
+filename = "more_leaf_particles-1.5.0+1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HwWDzPBa/versions/B6d6Ei4e/more_leaf_particles-1.5.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "2595708909a86201cf5df65326f6fcb9ff618985a92b9844d9a965738926c4e904281eb7aa137abaae2bdb08772202fdd02337bf5001afb2dc101b3e3d68c6a5"
+
+[update]
+[update.modrinth]
+mod-id = "HwWDzPBa"
+version = "B6d6Ei4e"
+
+[option]
+optional = true
+description = "More Leaf Particles\n\nA client-side mod that replaces generic leaf particles with type-specific falling foliage—spruce needles, birch leaves, and azalea petals. Fully configurable particle behavior.\n客戶端模組，將通用樹葉粒子替換為符合樹種的飄落效果：雲杉針葉、樺木葉片與杜鵑花瓣。可完整自訂粒子物理參數。"

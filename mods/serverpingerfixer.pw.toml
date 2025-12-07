@@ -13,6 +13,10 @@ mod-id = "iqK5uv72"
 version = "x7vxzThG"
 
 [option]
-optional = false
-description = "Speed up Server Pings\n加快列表伺服器載入"
+optional = true
 default = true
+description = """
+Server Pinger Fixer
+
+A mod that speeds up server list refreshes by optimizing ping threads and clearing overloaded pools.
+透過優化延遲測試執行緒與清理過載池，加速伺服器清單重新整理速度。"""

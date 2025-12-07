@@ -11,3 +11,12 @@ hash = "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda
 [update.modrinth]
 mod-id = "WwbubTsV"
 version = "KMOzdYko"
+
+[option]
+optional = false
+default = true
+description = """
+Your Options Shall Be Respected (YOSBR)
+
+A Fabric mod that auto-copies your predefined default configs from /config/yosbr/ when files are missing—no manual setup after mod updates.
+Fabric 模組，當設定檔遺失時自動從 /config/yosbr/ 複製預先定義的預設設定，模組更新後無需手動重新配置。"""

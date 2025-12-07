@@ -1,0 +1,23 @@
+name = "Kappa Shader"
+filename = "Kappa.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8161YLz/versions/8p4viq8V/Kappa_v5.3.zip"
+hash-format = "sha512"
+hash = "1103f42fe599ac6634675aa58e17de94b77b89ba148f30f3b4168eaebfe9e6ebc7fec76968c33b145d64e3234746efe3a932e0c2c46785f7e1b5b8bda8d355f9"
+
+[update]
+[update.modrinth]
+mod-id = "Y8161YLz"
+version = "8p4viq8V"
+
+[option]
+optional = true
+description = """
+Kappa Shader
+
+A shaderpack that paints Minecraft with real-world light: where shadows breathe, fog hugs the valleys at dawn, and every material feels tangible. Premium visuals requiring high-end hardware for optimal performance.
+以現實光影重塑Minecraft的光影包：陰影會呼吸、晨霧輕擁山谷，方塊材質觸手可及。需要高階硬體才能流暢運行的頂級光影效果。
+
+See more at https://rre36.com/kappa-shader/"""

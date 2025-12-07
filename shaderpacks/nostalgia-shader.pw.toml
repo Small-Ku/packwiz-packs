@@ -1,5 +1,5 @@
 name = "Nostalgia Shader"
-filename = "Nostalgia_v5.1.zip"
+filename = "Nostalgia.zip"
 side = "client"
 
 [download]
@@ -14,4 +14,10 @@ version = "fzxeGgx7"
 
 [option]
 optional = true
-description = "A shaderpack meant to replicate the look and feel of \"first-gen\" shaderpacks while also adding new features and visual effects.\n致力還原初代光影感覺，且加入新視覺效果和特性的光影包\n"
+description = """
+Nostalgia Shader
+
+A shaderpack that revives Minecraft's classic blocky clouds and dreamy color tones while adding modern effects like realistic lighting and reflections—optimized for mainstream systems.
+重現Minecraft經典方塊雲與夢幻色調的光影包，同時加入真實光影反射等現代特效。中階電腦可流暢運行的精緻光影效果。
+
+See more at https://rre36.com/nostalgia-shader/"""

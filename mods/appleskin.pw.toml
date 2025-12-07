@@ -1,18 +1,22 @@
 name = "AppleSkin"
-filename = "appleskin-fabric-mc1.21.3-3.0.6.jar"
+filename = "appleskin-fabric-mc1.21.9-3.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar"
-hash-format = "sha256"
-hash = "f8f611746df88f1737b62a76615a366f42a331730ea16db97c52d6f5540c58ab"
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/8sbiz1lS/appleskin-fabric-mc1.21.9-3.0.7.jar"
+hash-format = "sha512"
+hash = "79d0d0b4a09140cdb7cf74b1cd71554147c60648beb485ca647b149174e171660ec561ad329da58b78b5de439909b180e287b4b38bf068acfca20666100f4584"
 
 [update]
 [update.modrinth]
 mod-id = "EsAfCjCV"
-version = "cHQjeYVS"
+version = "8sbiz1lS"
 
 [option]
 optional = true
-description = "Show information about food\n顯示食物資訊"
 default = true
+description = """
+AppleSkin
+
+A client-focused mod that visualizes hidden hunger mechanics—shows food values, saturation bars, and health restoration previews. Requires server installation for accurate stats.
+專注客戶端的模組，可視化隱藏飢餓機制：顯示食物數值、飽食度條、生命恢復預覽。需伺服器安裝才能取得精準數據。"""

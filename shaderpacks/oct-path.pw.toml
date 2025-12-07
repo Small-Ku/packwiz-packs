@@ -1,0 +1,21 @@
+name = "Oct-Path"
+filename = "Oct-Path.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KOQHPy4R/versions/iPXh1Y0r/Oct-Path_1.20.zip"
+hash-format = "sha512"
+hash = "10e1e85546304ac6281e33b8b7029f6ab3587050ca32b56472ad53d2cea8a34bd6841866212386b50feb5eb31b93be6ed679ff7b904e11333bb1db21c6bd1556"
+
+[update]
+[update.modrinth]
+mod-id = "KOQHPy4R"
+version = "iPXh1Y0r"
+
+[option]
+optional = true
+description = """
+Oct-Path Shaders
+
+A shaderpack that extends ray tracing to the full 64x64 chunk render distance with accurate water reflections and visible mob/player shadows—completes Octray Rewrite's unfinished features while maintaining smooth gameplay.
+基於光線追蹤技術的光影包，支援完整64x64區塊渲染距離，修復水體倒影與玩家/生物陰影缺失問題。繼承八叉樹加速結構，大幅減少計算負載，確保遊戲流暢不中斷。"""

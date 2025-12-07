@@ -1,17 +1,17 @@
 name = "ViaFabricPlus"
-filename = "ViaFabricPlus-4.0.5-BACKPORT.jar"
+filename = "ViaFabricPlus-4.3.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/8sPJsNcy/ViaFabricPlus-4.0.5-BACKPORT.jar"
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/YVfX9T5E/ViaFabricPlus-4.3.4.jar"
 hash-format = "sha512"
-hash = "12ec6461070b50124c0fec2173ca2b170eab0ff2bfbfd384185a5c661ec512bd670675dd88c42aa929f8db9306f3c09f9e8564f0f3e5f55d8f2921a8d3bb3597"
+hash = "2b34cbbff4c95e0f20b1ad04ae0d45fab3ac53b46efa09b838eb9b0564f115d1d7570e6d8dee7518d0f3d468b0977168e328ce9d5f8fa3e95bbb025a63c0d677"
 
 [update]
 [update.modrinth]
 mod-id = "rIC2XJV4"
-version = "8sPJsNcy"
+version = "YVfX9T5E"
 
 [option]
 optional = true
-description = "Cross-version server connecting\n加入舊版本遊戲伺服器"
+description = "ViaFabricPlus\n\nA Fabric mod enabling connections to servers from all Minecraft versions (Classic to Bedrock) with fixed movement/block interactions—client-only, latest version required.\nFabric 模組，支援連接全版本 Minecraft 伺服器（從經典版至基岩版），修正移動/方塊互動以重現原始體驗。僅限最新版客戶端使用，多人遊戲專用。"

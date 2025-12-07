@@ -1,0 +1,18 @@
+name = "Eclipse Shader"
+filename = "Eclipse-Shader.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Merlin1809/Eclipse-Shader/archive/1b661d120b25ff33ffeee77b63e9baf2ebd12c43.zip"
+hash-format = "sha256"
+hash = "33ce9dfcdbaf06cbc9ea4911784c968700807969ec15b2a60a9e1cec8ca1006c"
+
+[option]
+optional = true
+description = """
+Eclipse - A Bliss Edit
+
+A Bliss-based shaderpack adding celestial events with guaranteed eclipses, player water ripples, auroras, handheld shadows, and dynamic weather systems—enhanced mod support for Voxy/Colorwheel.
+基於Bliss深度改版的光影包，加入保證每年發生的日月蝕、玩家水面漣漪、極光效果、手持物陰影與動態天氣系統，強化Voxy/Colorwheel等模組相容性。
+
+See more at https://github.com/Merlin1809/Eclipse-Shader/"""

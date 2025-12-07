@@ -14,4 +14,9 @@ version = "XuKODRjo"
 
 [option]
 optional = true
-description = "Better debug for StdOut"
+default = true
+description = """
+BadStdOut
+
+A diagnostic mod that tags all STDOUT log entries with their source mod name—simplifies debugging when multiple mods output errors simultaneously.
+偵錯輔助模組，自動標註每條標準輸出日誌的來源模組名稱。當多個模組同時報錯時，快速定位問題根源。"""

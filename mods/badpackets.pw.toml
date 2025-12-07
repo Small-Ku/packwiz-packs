@@ -1,13 +1,22 @@
 name = "bad packets"
-filename = "badpackets-fabric-0.8.2.jar"
-side = "client"
+filename = "badpackets-fabric-0.10.2.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar"
-hash-format = "sha256"
-hash = "55ea0b01c54ad4fd769963649beb20a1971a6c820c9a258acdf43ca353d904d8"
+url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/bJjBP5HF/badpackets-fabric-0.10.2.jar"
+hash-format = "sha512"
+hash = "c286f9a9ef62729f285cc1a38d6d6912c87bd44d0528052c1b1616c53e010a797f41ba879d34a31e50f085dc2f1086407773dbe3591d754179898d4ed109b811"
 
 [update]
 [update.modrinth]
 mod-id = "ftdbN0KK"
-version = "hjhT2sMz"
+version = "bJjBP5HF"
+
+[option]
+optional = true
+default = true
+description = """
+Bad Packets
+
+A library mod enabling cross-platform communication between Fabric and Forge mods—requires developers to manually integrate its API. Does not auto-fix mod compatibility issues.
+跨平台通訊函式庫模組，讓Fabric與Forge版模組能互相傳訊。需開發者手動整合API，無法自動解決模組相容性問題。"""

@@ -1,18 +1,22 @@
 name = "Better Mount HUD"
-filename = "bettermounthud-1.2.5.jar"
+filename = "bettermounthud-1.2.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/GGWgvqjm/bettermounthud-1.2.5.jar"
-hash-format = "sha256"
-hash = "4723ebac23c3a210117f2231155bc869942e6e4cdcee4b0f26c6fcf355458330"
+url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/rXZxHSEZ/bettermounthud-1.2.6.jar"
+hash-format = "sha512"
+hash = "559163398693ad32de171781a461251178216afa31d226bcf037ddfd26ff2e6389cc6bd3c34539cd29928cc1bd27256b802f1f6cbda13ea270d12ff20db32371"
 
 [update]
 [update.modrinth]
 mod-id = "kqJFAPU9"
-version = "GGWgvqjm"
+version = "rXZxHSEZ"
 
 [option]
 optional = true
-description = "Improves the ingame HUD while riding a mount\n改善騎乘時界面"
-default = true
+default = false
+description = """
+Better Mount HUD
+
+A client-side mod that shows both your food bar and mount's health while riding—keeps the XP bar visible except during jumps.
+客戶端模組，騎乘坐騎時同時顯示玩家飽食度與坐騎生命值，僅跳躍瞬間替換經驗條。"""

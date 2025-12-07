@@ -1,18 +1,22 @@
 name = "Entity Culling"
-filename = "entityculling-fabric-1.8.2-mc1.21.4.jar"
+filename = "entityculling-fabric-1.9.3-mc1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/DfqQiPRw/entityculling-fabric-1.8.2-mc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/YkqoVa13/entityculling-fabric-1.9.3-mc1.21.10.jar"
 hash-format = "sha512"
-hash = "819ca6aaecd59c9f49b2b13b0dda7e22f0ee3f0e7d1e10c8d19cf9c467e2ecba250c08bb936bebd170d9a5f184203f0cde2d0b47d5db83000a17998a06599710"
+hash = "e6828fed75063b8ce8ebd4ee0c2b35d4abe8c990b9bf3c4af7347eca6305bc3fa3001f1de64cd4032ed8e23e67035f9047cd04a2be48e04d57481c46679fd857"
 
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"
-version = "DfqQiPRw"
+version = "YkqoVa13"
 
 [option]
-optional = false
-description = "Entity culling when not visible.\n看不到的生物不再渲染，可改進性能"
+optional = true
 default = true
+description = """
+Entity Culling
+
+A mod that skips rendering hidden mobs and block entities behind walls using real-time multithreaded visibility checks—reduces GPU load while preserving visuals.
+利用多執行緒即時偵測視野外實體的模組，自動跳過牆後生物與區塊實體渲染，降低GPU負載且不影響畫面品質。"""

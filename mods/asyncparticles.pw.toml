@@ -1,18 +1,22 @@
 name = "AsyncParticles"
-filename = "AsyncParticles-4.3.0-beta.1+1.21.4.jar"
+filename = "AsyncParticles-Lite-0.7.1-alpha+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/c3onkd5k/versions/ecAkl6hy/AsyncParticles-4.3.0-beta.1%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/c3onkd5k/versions/Qo0vedFK/AsyncParticles-Lite-0.7.1-alpha%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "6bd122f94b255384fce2fa2e4870f4f18d609dd7a2c52e15e7add25150226d554dded682621de4941ee0802442792c676a0ad1dd9716a8fae50ae1e7dbd3cecf"
+hash = "4e98d2537d8800cd45efcf03dfc357fa31987720bb4e6cdc54e10c876218f1900ca333145658d2a14ae28e667e413352754d96402a46af57df6272941119ab46"
 
 [update]
 [update.modrinth]
 mod-id = "c3onkd5k"
-version = "ecAkl6hy"
+version = "Qo0vedFK"
 
 [option]
-optional = false
-description = "Particle optimization\n粒子效果優化"
+optional = true
 default = true
+description = """
+AsyncParticles
+
+A client-side mod that speeds up particle effects and weather rendering through async processing—reduces lag during storms and complex machinery scenes. Supports 1.21.5+ and mod interactions.
+客戶端模組，透過非同步技術加速粒子與天氣渲染，暴雨或大型機械場景不卡頓。支援1.21.5+版本及多模組交互運作。"""

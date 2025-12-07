@@ -1,13 +1,18 @@
 name = "MaLiLib"
-filename = "malilib-fabric-1.21.4-0.23.4.jar"
+filename = "malilib-fabric-1.21.10-0.26.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/kILcOIL5/malilib-fabric-1.21.4-0.23.4.jar"
+url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/Uddakc3M/malilib-fabric-1.21.10-0.26.6.jar"
 hash-format = "sha512"
-hash = "b7875b529ac5fe91c10f86efc42495231d0cccfb250a345d08eb4496c090ac2d4a4e80f620ca42450c9ac6f7a74aa3211098582285ff40127ee31128b61e03ae"
+hash = "4abf72916281bccc783bf96497909d0792a86bb45df607014d3a3aca5f96a7c10c1abd75b692f12a980613cbada701ba375abf9cf4f7a70f5b825639ef8d6ca4"
 
 [update]
 [update.modrinth]
 mod-id = "GcWjdA9I"
-version = "kILcOIL5"
+version = "Uddakc3M"
+
+[option]
+optional = false
+description = "MaLiLib\n\nA client-side library mod providing shared config, keybinds, and GUI systems for masa's mods—reduces code duplication across dependent mods.\nmasa 系列客戶端模組的共用函式庫，整合設定管理、按鍵綁定與介面系統，有效降低相依模組的程式碼重複。"
+default = true

@@ -1,0 +1,22 @@
+name = "Bridging Mod"
+filename = "BridgingMod-2.6.3+1.21.10.fabric-release.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lO3s8hjs/versions/jZK4g4qM/BridgingMod-2.6.3%2B1.21.10.fabric-release.jar"
+hash-format = "sha512"
+hash = "8b8d43d598c95d3f4a37aca41a940675115287a1c89d898878512344360c64e0974d4987e538c7c15420163b023cf7793ad6702484de06fe4adaa7b1ebb01109"
+
+[update]
+[update.modrinth]
+mod-id = "lO3s8hjs"
+version = "jZK4g4qM"
+
+[option]
+optional = true
+default = false
+description = """
+Bridging Mod
+
+A building assist mod that lets you place blocks in hidden gaps (up/down/horizontal) with visual crosshair guidance. Use only in singleplayer or trusted small servers—bannable on public networks.
+建築輔助模組，可在隱形縫隙（上下/水平）放置方塊，並以準心提示位置。僅限單人遊戲或受信任的小型伺服器使用，公開網路使用將遭封鎖。"""

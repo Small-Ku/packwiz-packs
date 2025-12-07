@@ -1,18 +1,18 @@
 name = "Continuity"
-filename = "continuity-3.0.0+1.21.4.jar"
+filename = "continuity-3.0.1-beta.2+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1IjD5062/versions/esC1Vejm/continuity-3.0.0%2B1.21.4.jar"
-hash-format = "sha256"
-hash = "15532119b71eb17796195a57d21289b30ada0c9e92995fbea170ca59e656e5bb"
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/7JbPpQnu/continuity-3.0.1-beta.2%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "1a3bc81518720290a060fe0a4ab1ccbffd82b229e067cc71f827eca91b8b11adcc6c62a3f57f3184d85c52ceb1b173ca4da564bfbfc5902e2f4a038efcdd5739"
 
 [update]
 [update.modrinth]
 mod-id = "1IjD5062"
-version = "esC1Vejm"
+version = "7JbPpQnu"
 
 [option]
 optional = true
-description = "Connect block texture\n連接方塊材質"
+description = "Continuity\n\nA client-side mod enabling OptiFine-style connected/emissive textures and custom block layers without OptiFine. Includes built-in packs for glass/bookshelves and glass pane culling. Works on Fabric/Forge/NeoForge via compatibility layers.\n客戶端模組，無需OptiFine即可支援OptiFine格式的連鎖紋理/發光紋理與自訂方塊層。內建玻璃/書架連鎖紋理及玻璃板縫隙修復資源包。透過相容層支援Fabric/Forge/NeoForge。"
 default = true

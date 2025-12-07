@@ -1,17 +1,22 @@
 name = "BetterGrassify"
-filename = "BetterGrassify-1.7.0+fabric.1.21.4.jar"
+filename = "BetterGrassify-1.8.2+fabric.1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/HxwKuBEU/BetterGrassify-1.7.0%2Bfabric.1.21.4.jar"
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/2C7y66BK/BetterGrassify-1.8.2%2Bfabric.1.21.10.jar"
 hash-format = "sha512"
-hash = "5ae1d24c3917c2e7b936c2b57cbfbb5b4b5f20ecc03191454a5255390a69dcdd96b6c7983036c1759c9cec4fbe48ab5077db34e17116b71ffe560ffe73e614b9"
+hash = "ad43e7a3040b3f103cae28e3f2067a7954419764231ac587baeb7352bd50b7371303abe1de420df42822695ee4ffc3eacb333b5995cfaa828ba2892506ab4255"
 
 [update]
 [update.modrinth]
 mod-id = "m5T5xmUy"
-version = "HxwKuBEU"
+version = "2C7y66BK"
 
 [option]
 optional = true
-description = "Fancy grass block\n好看的草地方塊"
+default = true
+description = """
+BetterGrassify
+
+A Fabric mod that replaces grass block side textures with top textures when surrounded by grass—eliminates distracting dirt streaks on hills and plains for cleaner terrain visuals.
+Fabric模組，當草方塊被其他草方塊包圍時，自動將側面紋理替換為頂部紋理，消除丘陵與平原上的泥土條紋，打造更乾淨的地形視覺效果。"""
