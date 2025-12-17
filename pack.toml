@@ -1,15 +1,15 @@
 name = "Vanilla Compatible Pack"
 author = "Small-Ku"
-version = "0.5.0-alpha.1"
+version = "0.5.0-alpha.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ba98a6c50084caa8ad24e51d5c6d212179585269c6d0ce4629bcb937843e2b02"
+hash = "775d093eba14330e2d2abe10919c6d23ba4fd0e7fedbc7d65f3b2dd456bb9d94"
 
 [versions]
-fabric = "0.18.1"
+fabric = "0.18.3"
 minecraft = "1.21.10"
 
 [options]

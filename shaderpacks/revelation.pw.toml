@@ -3,9 +3,9 @@ filename = "Revelation.zip"
 side = "client"
 
 [download]
-url = "https://github.com/HaringPro/Revelation/archive/4202bbfd49d5fed9175f4e88ef325422253a10f7.zip"
+url = "https://github.com/HaringPro/Revelation/archive/348aee02a8a3fffae9562659e712a5c527425b97.zip"
 hash-format = "sha256"
-hash = "8b244cc61adecfd45b2341a105e3957eb873a202cfca626ffb7fa11914646189"
+hash = "d6eee85cd2de88f763779df18d2b55e5dd262e07e896a6779e056da859535730"
 
 [option]
 optional = true

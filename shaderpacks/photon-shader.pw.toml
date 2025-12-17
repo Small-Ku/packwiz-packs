@@ -3,9 +3,9 @@ filename = "photon.zip"
 side = "client"
 
 [download]
-url = "https://github.com/sixthsurge/photon/archive/ba11ae2ad9d506c3a2fd9ca10c317be259b94d69.zip"
+url = "https://github.com/sixthsurge/photon/archive/09ab68f9879a88d2b9399dc55dc7c39cd456fe49.zip"
 hash-format = "sha256"
-hash = "e111ad52f6869861b382a9560bc5dfa77e45925d6f3807aceb8f54aa5f90f4e2"
+hash = "ff168cf5d3e5ea1d56003e3705e34ff0113a6ec0ccd9e23a5439189d6e8644f5"
 
 [update]
 [update.modrinth]

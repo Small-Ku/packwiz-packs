@@ -1,0 +1,18 @@
+name = "Sundial Lite"
+filename = "Sundial-Lite.zip"
+side = "client"
+
+[download]
+url = "https://github.com/GeForceLegend/Sundial-Lite/archive/bc39c25b0d7bbec039be64685cae41eb18f9e754.zip"
+hash-format = "sha256"
+hash = "8c9e5d7aea5779ff24384f39192406dba4a7ba63de68dc6a4addf9a4988c9d2a"
+
+[option]
+optional = true
+description = """
+Sundial Lite
+
+A free open-source shaderpack implementing physically-based deferred rendering with configurable quality settings. Features realistic shadows, atmospheric effects, and PBR material support. Temporarily excludes path-traced effects and Nether/End dimensions found in the paid version.
+免費開源光影包，採用物理基礎延遲渲染技術，提供可調節畫質設定。具備真實陰影、大氣效果與PBR材質支援。暫時不含付費版的光線追蹤效果與下界/終界維度特效。
+
+See more at https://github.com/GeForceLegend/Sundial-Lite"""

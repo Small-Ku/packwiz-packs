@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "dae62460c0f79ac9ceb93d83f8d893efc97e75f797ee9e46452ee82a4ebc79fd"
+hash = "a808d335a81221f907fd3288d290c1c7fb9a52c16b92c47ee09b8f174633ef29"
 metafile = true
 
 [[files]]
@@ -107,6 +107,16 @@ hash = "694283a5f9bcc9bb2ca2b178485f823e4d6037f8d153155abdfc24a14cd32c18"
 metafile = true
 
 [[files]]
+file = "mods/cesium.pw.toml"
+hash = "ee17df775a63fed62ca4ae25fbde893cb8fbfb6801f86306c7d429fda5fcfec6"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "9649f4950c31830239286a02c7dd7385eae1cd151fbabb87cbc1b0369538be79"
+metafile = true
+
+[[files]]
 file = "mods/client-maps.pw.toml"
 hash = "2ee01c4e7c1bb2b8664be3c511f1c6d1968e225b05b889889a29f2ed5e1ffcd0"
 metafile = true
@@ -123,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/component-viewer.pw.toml"
-hash = "d41ce5ecad2f742960482dd6e2b95939914c63b40c4b5628448ca4dab9ee41d5"
+hash = "ac8618690dada4e8b756a8361f0b52d351dae4ef9eefe977e8354d4ace901ecf"
 metafile = true
 
 [[files]]
@@ -148,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "dec3ac36c4cdade5d61e919a4fb2d3b07a54627ee263c63f36c55f0697da2879"
+hash = "5efa9904a8f7fcf9029bf4400d7975be515e37633d60159d7cd45d8b03cd1ee6"
 metafile = true
 
 [[files]]
@@ -158,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "748b2e0431fb5b70c994a23eb522cbfbd45c87edfdd7e6d77f9b32ad79355e6c"
+hash = "eeae403c9f8cf4fa4e1cfd25b0db3ee145aaef18ddefe9a649aadd6c9d1a3c67"
 metafile = true
 
 [[files]]
@@ -168,12 +178,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "142ffd82efccb30dae07992351178256c4b7a86a11550f0595a755eea1a07053"
+hash = "e07a390ac31ea0ab276c4ac0e2ec00f9c0cb0822507e52b85cdfdbf541b9b36c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c423facc6c8d9022ec4d2213753ed586f787a1f91dc2a0f7a230be415714ef1e"
+hash = "363d8353fb490a8ded5214e917e62a8b3d802bd01650f11d0bafa40cae022895"
 metafile = true
 
 [[files]]
@@ -183,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "8c0601cd5047a7e80bd86682ff231e8281dbc4ae69d110d643f47c56d4b57b0f"
+hash = "7d17d2031c7448fdd99007dad2b6aaecfeaa0270fa7c083cfaee7da205c953f8"
 metafile = true
 
 [[files]]
@@ -203,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "4e5eb15cec99e566a3e789d19e1030ee1b7ac151c8142d295ecaee8fb9a729cc"
+hash = "e42ae71d95c07d8c80968b7b54d351d04f059414f4c2a5c8ff9a0d1b825bb3cb"
 metafile = true
 
 [[files]]
@@ -238,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-printer.pw.toml"
-hash = "327f4985b7d97597ec1e54e1da6ae22396a8186b78dea8d9e6ba271abc0fa932"
+hash = "15e2922216ee906bce7f5b1d40694930eda2d7f971113db785a4f15d8b333091"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "35168f1b87c8d88908782b4fc41bee404c441aee3bcf649c536875776715d58f"
+hash = "eb137366b3466aa092dca404e1c274f5abc21dd6361ff0ac84b5e875cb7e47c9"
 metafile = true
 
 [[files]]
@@ -258,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "62e950595675ca56d20211cf817b3e5b82f0a8ed19a6ded9f365c0cd63d56938"
+hash = "96bc362927a185b736761c4e1df329948343aaceea98d8602d13645d7580fc14"
 metafile = true
 
 [[files]]
@@ -268,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "b87efcaec430c7d53a63f7dd1be90baa6345ef124a619dd8b552f7f48eddf4d6"
+hash = "38cab1aefd4ffd507e49d400df15d513ea7f596b26cfa98356ceb18351f24543"
 metafile = true
 
 [[files]]
@@ -288,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-leaf-particles.pw.toml"
-hash = "be728e6ea12d0b13c0bc80ad281a7335731c513538ed223dc5ffcd5b45f717f4"
+hash = "6d94336153dc7e80e73e9d3d70f59779105f02b32f1e8bfe33e1075728409bed"
 metafile = true
 
 [[files]]
@@ -333,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-view.pw.toml"
-hash = "020814227cd17b6c89958f034cbd38dd892231553d5b9960f22965a37c3c1a3a"
+hash = "b75f38c1ddcef13d7608d11476eac122096e03b6dd7dfb63fc454faba4d66013"
 metafile = true
 
 [[files]]
@@ -408,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "588ab299763e3edf452982702b6bab1357ff93b280b7787c8259115c8fe6db12"
+hash = "7bb94b7f063fa29bab8ccaed05d5ce8c109ae9e0fd69aa1f21e2988c63e41543"
 metafile = true
 
 [[files]]
@@ -458,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/substrate.pw.toml"
-hash = "0b5e895026d26fe49eeec4df339eee937fac6d072a3ece8da77bbfd78e28d254"
+hash = "a01beb0dec3b24633075b846b006d32f99eae7ec2bb0bba4096bc444d5da3d69"
 metafile = true
 
 [[files]]
@@ -468,12 +478,12 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "39303a06dec0ce35b80651265a8bb9e10493c9c0ba0e3c9e12af2fcd9b15ce8c"
+hash = "0f4cfbee60a911ace6ac49eb68497c45296acf2bf2bbec9a4b73b17ac1d15c44"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "4c3349e8ce6a96f45e99954063cfb7ef269fe2b0772c0878aabb2dfb3338e1f8"
+hash = "11cc9ca8696146adfd046063e500c79521f568941293766652a0739f9f0b1773"
 metafile = true
 
 [[files]]
@@ -508,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "3b79cd2fa9fc829a2599dfb8b88da7cb3e0a419b3476d77273ca67685c394916"
+hash = "13ff7d89353824f76a62ce47b90798b7d67f663bca01c380a6d595650049f73b"
 metafile = true
 
 [[files]]
@@ -527,13 +537,18 @@ hash = "1555143b4ed738dcd3cab6504b85ae02c26ae4beb5dd9e1a385a0f93beb4d8f0"
 preserve = true
 
 [[files]]
+file = "resourcepacks/3d-default.pw.toml"
+hash = "49da54bdd895f3183fb4dfbb503e1f287d5883a9d200e7313736eff3e5ef7e3a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "2bcf419fe5aaa598992aa7189e117e217c119354c9e8bd1d983d91e249e7ff7d"
+hash = "e52c791d6addc22abeb48ebd3eaee4a8a3499c4726ead63a6c38eaeb97a3ae32"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "e96c75e923beb1a2544741bfbe9e100bc7a4bf7a5d1055df5ebe390c0285ad8c"
+hash = "0e6a7d69e917c8bb8900bd3e013b2c7f4a3c5004e9494b0997e5bc77109c1805"
 metafile = true
 
 [[files]]
@@ -548,12 +563,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/nautilus3d.pw.toml"
-hash = "6dfb3dc22853644865d00a18bf612315e174e2b88e6e159dc005fc2225633bd4"
+hash = "7830329400962a2eef7194723878177d2cbfa1c693ddf536ff44f58c9b21a4f2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "9506649104e44e62d3f9b2ce704fae83578f1d216e5b7759af7bce5ef81dfa7b"
+hash = "3dd14153e3abbd7635fd99c5f1de3faaefdc1fb6f462e20bc229f392aa11f4ea"
 metafile = true
 
 [[files]]
@@ -588,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/eclipse-shader.pw.toml"
-hash = "c387f8c4142d8f76598270d64d851f2e49dcf6d6b6645a5e0d81ee69b9e1b9cc"
+hash = "d0a8ebc9d4253810e4dd24fd432cc09a246b342d257ce5b820abce21b1dd945a"
 metafile = true
 
 [[files]]
@@ -599,6 +614,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/glimmer-shaders.pw.toml"
 hash = "02d78ad6fb2164db8f24a34e4c4809d397ddf9da6232809d42c334a6a819222f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/helian-mmco.pw.toml"
+hash = "3e84aaa6b3533317ff37fb63e73dfcf9d2cb6e5bfa9bb17f8b40cd056ddc09d2"
 metafile = true
 
 [[files]]
@@ -638,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "cf395f04a38b75477e9963a419afd62e300efd7859f8350eb100e58efbe29019"
+hash = "0be2977ead7e6ce9d8471225384c6ddfb11810127a72929c08d09ddfadb81f21"
 metafile = true
 
 [[files]]
@@ -653,7 +673,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/revelation.pw.toml"
-hash = "5a0759b34b0ed62c02dca3ee54737a3358652c4d87d2d6a914ac472e8a0e8d38"
+hash = "a92e6cc07289cbcb8a159e8c5b7cb940c5e3309a6aaed2af206b455352956985"
+metafile = true
+
+[[files]]
+file = "shaderpacks/scrumptious-shayders.pw.toml"
+hash = "535abfc49dac19fcaa5f52ab1b8383f232cb014cd6d5d7e273a81fdf870817c9"
 metafile = true
 
 [[files]]
@@ -673,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/shrimple.pw.toml"
-hash = "367729ec463d0185b84532ebdf47f543a8ae5cce5a4fbdf3257182785013b03c"
+hash = "f9fda040e0ca22243691591291b5e595cecc6f489fee7344a693f92ef0bbb7d7"
 metafile = true
 
 [[files]]
@@ -684,6 +709,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "a444264e803f1ae5721293507e348799dbba63ef69516fbf8672dc6d4218c573"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sundial-lite.pw.toml"
+hash = "a30fb148933bfabab625921b89ba8060484ced191537d14d5eec47bce0c5e038"
 metafile = true
 
 [[files]]

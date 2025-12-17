@@ -1,23 +1,17 @@
 name = "SPBR"
-filename = "SPBR-18_8.zip"
+filename = "SPBR.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/xlnSBthu/SPBR-18_8.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/JhKKzGNP/SPBR-19.zip"
 hash-format = "sha512"
-hash = "e75e210c6a01aa2180ea71035fac6ffa3d6b9fdd15aa400c27ed864144267a31e206bdaa916f7c7c00cd4235993a6d1b91f3930363feaab4a111c424881e2133"
+hash = "e8ccf64408d394da721b72559a8f43702a290ee760ee85db88266838ee5825f4209f1be192a9003945a4e343d83e775438324464be8622b4b82886a8bf707065"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "xlnSBthu"
+version = "JhKKzGNP"
 
 [option]
 optional = true
-description = """
-SPBR Shulker's PBR
-
-A resource pack that adds realistic material depth to vanilla 16x textures—featuring PBR stonecutter surfaces, wood with layered depth effects, subsurface scattering on organic blocks, and fully 3D-modeled rails/pistons. Based on VNR textures with parallax mapping.
-為原版16x材質注入真實質感的資源包：石頭切石機具物理反光、木紋呈現立體層次、生物方塊透出次表面散射效果，軌道與活塞升級全3D模型。基於VNR材質，整合視差貼圖技術。
-
-See more at https://github.com/ShulkerSakura/SPBR/"""
+description = "SPBR Shulker's PBR\n\nA resource pack that adds realistic material depth to vanilla 16x textures—featuring PBR stonecutter surfaces, wood with layered depth effects, subsurface scattering on organic blocks, and fully 3D-modeled rails/pistons. Based on VNR textures with parallax mapping.\n為原版16x材質注入真實質感的資源包：石頭切石機具物理反光、木紋呈現立體層次、生物方塊透出次表面散射效果，軌道與活塞升級全3D模型。基於VNR材質，整合視差貼圖技術。\n\nSee more at https://github.com/ShulkerSakura/SPBR/"

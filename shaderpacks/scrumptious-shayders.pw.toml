@@ -1,0 +1,18 @@
+name = "Scrumptious Shayders"
+filename = "ScrumptiousShayders.zip"
+side = "client"
+
+[download]
+url = "https://github.com/LordChrom/ScrumptiousShayders/releases/download/v1.1.3-beta/ScrumptiousShayders_1.1.3.zip"
+hash-format = "sha256"
+hash = "09e66686542e62f2e68237e7e7c58ba5c633de58987ccea78015219eb51ab4a2"
+
+[option]
+optional = true
+description = """
+Scrumptious Shayders
+
+A BSL Shaders fork adding Voxy support.
+BSL光影的分支版本，專為支援Voxy而設計。
+
+See more at https://github.com/LordChrom/ScrumptiousShayders"""

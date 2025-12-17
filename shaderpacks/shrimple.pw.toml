@@ -3,9 +3,9 @@ filename = "Shrimple.zip"
 side = "client"
 
 [download]
-url = "https://github.com/Null-MC/Shrimple/archive/80c013fa0adefb876d2a98d2ef5c1d4931598160.zip"
+url = "https://github.com/Null-MC/Shrimple/archive/738fc7d4b9b22f0143d9b19830d4653c2e31c175.zip"
 hash-format = "sha256"
-hash = "3ee437ea28445b2eb97457311e1e62ea5700994e40da4f46c0dda5efa7f12cd0"
+hash = "18509a15f0f11a814370c2173e3b88ad24cec54dd288ed4d73cbbd07d9998f53"
 
 [update]
 [update.modrinth]

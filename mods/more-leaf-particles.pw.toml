@@ -1,16 +1,16 @@
 name = "More Leaf Particles"
-filename = "more_leaf_particles-1.5.0+1.21.10.jar"
+filename = "more_leaf_particles-1.5.1+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HwWDzPBa/versions/B6d6Ei4e/more_leaf_particles-1.5.0%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/HwWDzPBa/versions/3DGcxcIT/more_leaf_particles-1.5.1%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "2595708909a86201cf5df65326f6fcb9ff618985a92b9844d9a965738926c4e904281eb7aa137abaae2bdb08772202fdd02337bf5001afb2dc101b3e3d68c6a5"
+hash = "dd13dbdfe635135c88d74be04aa5106312c20b58315c58dba33e9f1c7de1aa309e5c7ed163a1ed2b31e988c415f0cab3fb4f66eee35825d217719206c5b9a0ae"
 
 [update]
 [update.modrinth]
 mod-id = "HwWDzPBa"
-version = "B6d6Ei4e"
+version = "3DGcxcIT"
 
 [option]
 optional = true

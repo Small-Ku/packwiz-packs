@@ -1,22 +1,17 @@
 name = "Litematica Printer"
-filename = "litematica-printer-1.21.10-rc1-3.2.1.jar"
+filename = "litematica-printer-1.21.10-3.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3llatzyE/versions/6gGYwSaw/litematica-printer-1.21.10-rc1-3.2.1.jar"
+url = "https://cdn.modrinth.com/data/3llatzyE/versions/eATPpsEq/litematica-printer-1.21.10-3.2.1.jar"
 hash-format = "sha512"
-hash = "5cdb0e0174ce6ba465b4d8b95aeffb6d7fe9bb136b1e6c5ba833d3b2fa634736eb0f0edebbf5ce58320e96e2564484a364b17fc49cd9ec4f7917b87374383940"
+hash = "51dc7a4ac51542842d19d6748ddc669d00688c044f69270e59055ba97ec9ac468a58ba188c51a5e0fdb5c2db0117f10f38d5e7a6b0b9bf373758454f4b4dac12"
 
 [update]
 [update.modrinth]
 mod-id = "3llatzyE"
-version = "6gGYwSaw"
+version = "eATPpsEq"
 
 [option]
 optional = true
-default = false
-description = """
-Litematica Printer
-
-A Litematica addon that auto-places correct blocks around you for rapid large-scale builds. Toggle with CAPS_LOCK; hold V to force-place. Skips unsupported blocks.
-Litematica 附加模組，自動放置周圍方塊加速大型建築的模組。按CAPS_LOCK開關，按住V強制放置，跳過不支援方塊。"""
+description = "Litematica Printer\n\nA Litematica addon that auto-places correct blocks around you for rapid large-scale builds. Toggle with CAPS_LOCK; hold V to force-place. Skips unsupported blocks.\nLitematica 附加模組，自動放置周圍方塊加速大型建築的模組。按CAPS_LOCK開關，按住V強制放置，跳過不支援方塊。"

@@ -1,0 +1,22 @@
+name = "3D Default"
+filename = "3D Default.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5aPp18Lx/versions/vcKuCyeQ/3D%20Default%201.21.2%2B%20v1.13.1.zip"
+hash-format = "sha512"
+hash = "0a74c57f1f79bdbf3f96012981a3f9de96b59277e75f473c4217d4a7c9cdc07a784343ca1d2d330a77668dc19d0983e571a76a198b0313574534e2551ef59d3e"
+
+[update]
+[update.modrinth]
+mod-id = "5aPp18Lx"
+version = "vcKuCyeQ"
+
+[option]
+optional = true
+default = true
+description = """
+GeForceLegend's 3D Default
+
+A lightweight 3D resource pack enhancing vanilla models with authentic item appearances and OptiFine/PBR support—minimal performance impact across Minecraft 1.8 to latest versions.
+輕量級3D資源包，為原版模型增添真實感，支援物品精準外觀與OptiFine/PBR效果，在Minecraft 1.8至最新版本間維持低效能負擔。"""

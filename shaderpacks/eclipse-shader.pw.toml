@@ -3,9 +3,9 @@ filename = "Eclipse-Shader.zip"
 side = "client"
 
 [download]
-url = "https://github.com/Merlin1809/Eclipse-Shader/archive/1b661d120b25ff33ffeee77b63e9baf2ebd12c43.zip"
+url = "https://github.com/Merlin1809/Eclipse-Shader/archive/269720f42c9950c6f3671d0bbbcaf3833d6c135f.zip"
 hash-format = "sha256"
-hash = "33ce9dfcdbaf06cbc9ea4911784c968700807969ec15b2a60a9e1cec8ca1006c"
+hash = "7b55a85c3b1633a61997503b974828651211b5552678c119862f7a543aa837a9"
 
 [option]
 optional = true
