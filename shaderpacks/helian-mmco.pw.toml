@@ -3,16 +3,16 @@ filename = "Helian-MMCO_Sundial-Lite_edit.zip"
 side = "both"
 
 [download]
-url = "https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit/releases/download/v0.4.6/Helian-MMCO_v0.4.6_Sundial-lite_edit.zip"
+url = "https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit/releases/download/v0.4.6a/Helian-MMCO_v0.4.6a_Sundial-lite_edit.zip"
 hash-format = "sha256"
-hash = "4122b557377515e5735ede2b7eca8f04bffc046eedfb27d756afe77d34506775"
+hash = "36df02c6eb0c6d8080df311732bea7f3a62966e75207edb4519a6595e6099442"
+
+[update]
+[update.github]
+branch = "main"
+slug = "MoAoXnX/Helian-mmco_Sundial-Lite_edit"
+tag = "v0.4.6a"
 
 [option]
 optional = true
-description = """
-Helian-MMCO (Sundial Lite edit)
-
-A personal Sundial Lite modification featuring refined cloud patterns, balanced color grading, and custom AGX filters—adds dynamic atmospheric lighting with enhanced dimension support.
-Sundial Lite個人修改版，提供精緻雲層樣式、平衡色調與自訂AGX濾鏡，強化動態大氣光照並完善下界/末地支援。
-
-See more at https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit"""
+description = "Helian-MMCO (Sundial Lite edit)\n\nA personal Sundial Lite modification featuring refined cloud patterns, balanced color grading, and custom AGX filters—adds dynamic atmospheric lighting with enhanced dimension support.\nSundial Lite個人修改版，提供精緻雲層樣式、平衡色調與自訂AGX濾鏡，強化動態大氣光照並完善下界/末地支援。\n\nSee more at https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit"

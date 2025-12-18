@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "23679f2f1237bb35a14ed13724850c752903cbdea90b673fc4b73df4a01e2471"
+hash = "37b397f8bcc8e3b6a922db38c9eda29cec2b3602935ae89f61708e7516c1396a"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5efa9904a8f7fcf9029bf4400d7975be515e37633d60159d7cd45d8b03cd1ee6"
+hash = "0a0d0d985f9ec75d51805763870df96b10e4de927a8d2d6b63d207d610464405"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/helian-mmco.pw.toml"
-hash = "3e84aaa6b3533317ff37fb63e73dfcf9d2cb6e5bfa9bb17f8b40cd056ddc09d2"
+hash = "0ae56956788a01b7c2995c16306068afb1781af0b65cae4e3d63bfcb394806c7"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "e506cd32be24bb0606c441c4116edce945166f85e226d01172ef3aef3eeeeef3"
+hash = "5c888eb144ce183e5b0a04ea004ccb7ecb9c0bbd493aa8ddeb42092e8d94ffbc"
 metafile = true
 
 [[files]]
@@ -678,12 +678,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/scrumptious-shayders.pw.toml"
-hash = "535abfc49dac19fcaa5f52ab1b8383f232cb014cd6d5d7e273a81fdf870817c9"
+hash = "77b19c8728e871d74d3b0b8639ec3f6193a37821ef8c890ac266385a7e340852"
 metafile = true
 
 [[files]]
 file = "shaderpacks/seus-ptgi-gfme.pw.toml"
-hash = "18f37eaeacb8bcd12d0de7d6c4e0addc4e0e53661e4150926e9c801bd44107b5"
+hash = "da1450e1106f813eceece17cf66cfa3608d77a9b38c084ec756ac2a799c9a499"
 metafile = true
 
 [[files]]
