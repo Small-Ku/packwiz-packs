@@ -1,22 +1,17 @@
 name = "Smooth Scrolling Refurbished"
-filename = "SmoothScrollingRefurbished+1.21.9-rc1-1.5.0.jar"
+filename = "SmoothScrollingRefurbished+1.21.10-1.5.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/trr0scVt/versions/D7FK6HD2/SmoothScrollingRefurbished%2B1.21.9-rc1-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar"
 hash-format = "sha512"
-hash = "e330cd7b0198b6c0cf10209f75fd0a9d76703d984d816c86887df25e3c1e6b75b3c0eac7740e0159be1058087268d618ddf352b47e7d9075f1685467de938958"
+hash = "ea5200c3ba435bb026c63264b44b3abfcc1cb792a3f9b8ecebbe2c0a05e90b29da04bdb26f2cfb6df8ee6a3be2a123243b0b14209e8d5862a17069aa5e49310d"
 
 [update]
 [update.modrinth]
 mod-id = "trr0scVt"
-version = "D7FK6HD2"
+version = "CQGsF1Uq"
 
 [option]
 optional = true
-default = false
-description = """
-Smooth Scrolling Refurbished
-
-A client-side mod that replaces all in-game scrollbars with smooth animations—direct replacement for the abandoned Smooth Scrolling Everywhere mod.
-客戶端模組，將遊戲內所有捲動條替換為平滑滾動效果，作為已停止維護的Smooth Scrolling Everywhere模組的現代替代方案。"""
+description = "Smooth Scrolling Refurbished\n\nA client-side mod that replaces all in-game scrollbars with smooth animations—direct replacement for the abandoned Smooth Scrolling Everywhere mod.\n客戶端模組，將遊戲內所有捲動條替換為平滑滾動效果，作為已停止維護的Smooth Scrolling Everywhere模組的現代替代方案。"

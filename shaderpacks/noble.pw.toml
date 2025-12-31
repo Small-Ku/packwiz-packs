@@ -3,21 +3,15 @@ filename = "Noble.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sclYVqbt/versions/t997qQEe/Noble%20v1.8.4.zip"
+url = "https://cdn.modrinth.com/data/sclYVqbt/versions/nmQNT7S5/Noble%20v1.8.8.zip"
 hash-format = "sha512"
-hash = "a9815b561ccd2556be92b798a277218d96d287543132f1f48c9f843e23547d5f5da043077817ed41a3d7bc02ffaf715ad153fab3339a3e2f39ee1612a20b6ae8"
+hash = "fdef8ec102e5532aa65f294c3cf0429125290e43a2c24014854b113dadced3bc77298dc1d6017f00b0cc704e05c375d0c94eae0ba6f7fb7c0edc5511f6d37934"
 
 [update]
 [update.modrinth]
 mod-id = "sclYVqbt"
-version = "t997qQEe"
+version = "nmQNT7S5"
 
 [option]
 optional = true
-description = """
-Noble Shaders
-
-A shaderpack that adds realistic torchlight on tools, dynamic water ripples, and detailed rain/stars—optimized to run smoothly on mid-to-low-end PCs without frame drops during mining.
-為工具增添真實火把光效、水面波紋動態變化、雨雪與星空細節強化的光影包。針對中低階電腦優化，挖礦時畫面依然流暢穩定。
-
-See more at https://github.com/BelmuTM/Noble/"""
+description = "Noble Shaders\n\nA shaderpack that adds realistic torchlight on tools, dynamic water ripples, and detailed rain/stars—optimized to run smoothly on mid-to-low-end PCs without frame drops during mining.\n為工具增添真實火把光效、水面波紋動態變化、雨雪與星空細節強化的光影包。針對中低階電腦優化，挖礦時畫面依然流暢穩定。\n\nSee more at https://github.com/BelmuTM/Noble/"

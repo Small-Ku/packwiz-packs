@@ -1,16 +1,16 @@
 name = "Substrate"
-filename = "substrate-4.1-Beta.3+1.21.10-fabric.jar"
+filename = "substrate-4.1-Beta.4+1.21.10-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zNuzb72d/versions/uWsj08Ha/substrate-4.1-Beta.3%2B1.21.10-fabric.jar"
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/NYm32hw6/substrate-4.1-Beta.4%2B1.21.10-fabric.jar"
 hash-format = "sha512"
-hash = "d6cbf775748e75cfdc906f318d1a5708c480497ce5dd677878ee754fe75f02ab2703a41af90c76c76a8b11920514c9b0992b06944ad32eaea271c9a4eefe58c2"
+hash = "b7af53c9d4edb6119a720b444c037c1068315acf362675e0a1d67d8cda06eda30782a91c193d5efe76a286bff5282eccecd85924bc616c12ed0d164f151c4849"
 
 [update]
 [update.modrinth]
 mod-id = "zNuzb72d"
-version = "uWsj08Ha"
+version = "NYm32hw6"
 
 [option]
 optional = true

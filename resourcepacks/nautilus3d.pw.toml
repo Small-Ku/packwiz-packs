@@ -3,22 +3,16 @@ filename = "Nautilus3D.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1MyOrwfu/versions/DBpo00nj/Nautilus3D-V2.4.1.zip"
+url = "https://cdn.modrinth.com/data/1MyOrwfu/versions/76Vezkrs/Nautilus3D-V2.5.zip"
 hash-format = "sha512"
-hash = "6b045d1d9c019ec471644236d7976f4d1b32fcfd8b31d83b24c6559ef61d71ac6baa52c7ac2e91164f0d9bc99dfa78be4ba0d954906879e9cdcd93c505eb12ff"
+hash = "19e9273d0514183443ff20328f30a4641406b667acb768f784360f73f8752ea6f345f7ac4f27827211293e32ac1bd2906534b70a98d2d7600ffb2c486054527c"
 
 [update]
 [update.modrinth]
 mod-id = "1MyOrwfu"
-version = "DBpo00nj"
+version = "76Vezkrs"
 
 [option]
 optional = true
+description = "Nautilus3D\n\nA vanilla-style 3D resource pack focused on decorative blocks—featuring randomized bookshelves/ores, animated stonecutter, perfect leaf clusters, and epic trident model. Highly optimized with themed menus.\n專注裝飾性方塊的原版風格3D資源包：書架與礦石隨機紋理、動畫切石機、茂密樹葉、三叉戟手持模型。高度優化，整合主題化選單與介面。\n\nSee more at https://github.com/FabianMPunkt/Nautilus3D/"
 default = true
-description = """
-Nautilus3D
-
-A vanilla-style 3D resource pack focused on decorative blocks—featuring randomized bookshelves/ores, animated stonecutter, perfect leaf clusters, and epic trident model. Highly optimized with themed menus.
-專注裝飾性方塊的原版風格3D資源包：書架與礦石隨機紋理、動畫切石機、茂密樹葉、三叉戟手持模型。高度優化，整合主題化選單與介面。
-
-See more at https://github.com/FabianMPunkt/Nautilus3D/"""

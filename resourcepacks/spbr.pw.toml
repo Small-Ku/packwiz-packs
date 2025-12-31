@@ -3,14 +3,14 @@ filename = "SPBR.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/JhKKzGNP/SPBR-19.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/gMrmOwPb/SPBR-19_2.zip"
 hash-format = "sha512"
-hash = "e8ccf64408d394da721b72559a8f43702a290ee760ee85db88266838ee5825f4209f1be192a9003945a4e343d83e775438324464be8622b4b82886a8bf707065"
+hash = "e0ebfaf26a5f2765f4566e1986caf2b30607dc7cdc79a57d0de33ca59b61c91a32a49059aac770f789c9c56dbce29561932e20f2ca24ecdb79770f9f566d80a4"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "JhKKzGNP"
+version = "gMrmOwPb"
 
 [option]
 optional = true
