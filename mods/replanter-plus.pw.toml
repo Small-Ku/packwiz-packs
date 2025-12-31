@@ -3,20 +3,15 @@ filename = "replanter-plus-2.3.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/is7374ZC/versions/2efGXYxZ/replanter-plus-2.3.3.jar"
+url = "https://cdn.modrinth.com/data/is7374ZC/versions/1vgkHi5b/replanter-plus-2.3.3.jar"
 hash-format = "sha512"
-hash = "f4bb1029c8e78647b490df934955898b9b0e13a47f7671e5a5509870975d5e703a65ca513eac2b86923b12aa942d0bf6ab481c9b81d73f9103dc89409f2c1c2f"
+hash = "1f9b34dc7e012a206f3f2b3b837aaddd5c5ae45c117e13a189ac8fffc413ade577c1389721228b56823a01e8cc49c346e4fa6baf8fdcd4cf927d8a46dc7c2c68"
 
 [update]
 [update.modrinth]
 mod-id = "is7374ZC"
-version = "2efGXYxZ"
+version = "1vgkHi5b"
 
 [option]
 optional = true
-default = false
-description = """
-Replanter Plus
-
-A client-side mod that automatically harvests and replants crops with right-click—auto-switches to Fortune tools and applies bone meal. Supports wheat, carrots, cocoa beans, nether warts, and modded crops.
-客戶端模組，右鍵自動收穫並重種作物，智慧切換幸運附魔工具與骨粉使用。支援小麥、胡蘿蔔、可可豆、地獄疙瘩及自訂模組作物。"""
+description = "Replanter Plus\n\nA client-side mod that automatically harvests and replants crops with right-click—auto-switches to Fortune tools and applies bone meal. Supports wheat, carrots, cocoa beans, nether warts, and modded crops.\n客戶端模組，右鍵自動收穫並重種作物，智慧切換幸運附魔工具與骨粉使用。支援小麥、胡蘿蔔、可可豆、地獄疙瘩及自訂模組作物。"

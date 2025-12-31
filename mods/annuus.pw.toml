@@ -1,22 +1,18 @@
 name = "Annuus"
-filename = "Annuus-fabric-1.0.16-fix2.jar"
+filename = "Annuus-fabric-1.0.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kIfxYoGs/versions/xzX2gEs3/Annuus-fabric-1.0.16-fix2.jar"
+url = "https://cdn.modrinth.com/data/kIfxYoGs/versions/IZ9Qy7hL/Annuus-fabric-1.0.17.jar"
 hash-format = "sha512"
-hash = "0fc42cd857a4669bfbbf6b79fc339c0413e8c0e6587df7a567e003d273cafa6400c171711be3168753a01c743adcd1dc749d3d562cfb7c8f13033a57fc7defc3"
+hash = "74c2ac87a171c29c43a2676c6036ed32ec2cd794fd321ee0a55936c2303f7c079e404585e06a96ace98ec3e665e0d037e0e2a7ef0a4c360b6bc4e66149c782de"
 
 [update]
 [update.modrinth]
 mod-id = "kIfxYoGs"
-version = "xzX2gEs3"
+version = "IZ9Qy7hL"
 
 [option]
 optional = true
+description = "Annuus\n\nA server-side mod that compresses network traffic for large Minecraft servers—reduces chunk/block update data by up to 90% while remaining compatible with vanilla clients.\n針對大型伺服器的網路流量壓縮模組：區塊與方塊更新數據量減少達90%，客戶端不裝模組也能正常連線。"
 default = true
-description = """
-Annuus
-
-A server-side mod that compresses network traffic for large Minecraft servers—reduces chunk/block update data by up to 90% while remaining compatible with vanilla clients.
-針對大型伺服器的網路流量壓縮模組：區塊與方塊更新數據量減少達90%，客戶端不裝模組也能正常連線。"""

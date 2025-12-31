@@ -14,7 +14,7 @@ version = "Ule7YwhC"
 
 [option]
 optional = true
-default = true
+default = false
 description = """
 caramelChat
 

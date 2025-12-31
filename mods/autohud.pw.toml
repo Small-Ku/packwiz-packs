@@ -1,22 +1,17 @@
 name = "Auto HUD"
-filename = "autohud-8.10+1.21.9-fabric.jar"
+filename = "autohud-8.10+1.21.11-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/temczoTQ/versions/KzlQtK91/autohud-8.10%2B1.21.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/E8hWPu4w/autohud-8.10%2B1.21.11-fabric.jar"
 hash-format = "sha512"
-hash = "91fdbb820aa2210963e166225cbf9c13b1c599f44e514f455f8f206cc0b0471f1f0a373b77dbadd4094118d548ed6a3620c1c2014a6f99c86d623a24e5dce2da"
+hash = "a88d45f2ab6391adbf982009d65ba6ac7c03243b179c767c767d6a2450274595b704a98c12634f7503af34f7750ddfdb787318c0cc741bf70601981f89aa1680"
 
 [update]
 [update.modrinth]
 mod-id = "temczoTQ"
-version = "KzlQtK91"
+version = "E8hWPu4w"
 
 [option]
 optional = true
-default = false
-description = """
-Auto HUD
-
-A mod that auto-hides static HUD elements like permanent status effects—keeps hands, names, and chat visible while allowing full customization. Requires YetAnotherConfigLib for in-game settings.
-自動隱藏靜態遊戲介面元素（如永久狀態效果）的模組：手持物品、玩家名字、聊天訊息始終可見，介面高度可調。需YetAnotherConfigLib支援遊戲內設定。"""
+description = "Auto HUD\n\nA mod that auto-hides static HUD elements like permanent status effects—keeps hands, names, and chat visible while allowing full customization. Requires YetAnotherConfigLib for in-game settings.\n自動隱藏靜態遊戲介面元素（如永久狀態效果）的模組：手持物品、玩家名字、聊天訊息始終可見，介面高度可調。需YetAnotherConfigLib支援遊戲內設定。"

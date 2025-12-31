@@ -1,22 +1,18 @@
 name = "Stfu"
-filename = "Stfu-2.7.1-1.21.9.jar"
+filename = "Stfu-2.8.1-1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/jNuFLUMH/Stfu-2.7.1-1.21.9.jar"
+url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/K6MSOY3A/Stfu-2.8.1-1.21.11.jar"
 hash-format = "sha512"
-hash = "6841d100142bec56b78230603b8711789b356e01ca72024215f0f015caa9747b832274a8be46e3cd4d70f385891af994b79b1eb8a717443ec67b8d592f559da2"
+hash = "449c90b29de2bbcbd34b185f32405793197df7abf0e61ebc23c388ff7c2b666ceaa12811048756fa6ae2ada844b2c86e47399ccd92fb30b721f9dfcf30499370"
 
 [update]
 [update.modrinth]
 mod-id = "Rg9WdvvR"
-version = "jNuFLUMH"
+version = "K6MSOY3A"
 
 [option]
 optional = true
+description = "Stfu\n\nA mod silencing notifications (Realms/telemetry/chat warnings) and speeding up loading—customizes UI/HUD with key rebinding. Requires Fabric API/Mod Menu/YACL.\n消除通知干擾（Realms/遙測/聊天警告）並加速載入的模組，可自訂介面/HUD元素及按鍵綁定。需Fabric API/Mod Menu/YACL支援。"
 default = true
-description = """
-Stfu
-
-A mod silencing notifications (Realms/telemetry/chat warnings) and speeding up loading—customizes UI/HUD with key rebinding. Requires Fabric API/Mod Menu/YACL.
-消除通知干擾（Realms/遙測/聊天警告）並加速載入的模組，可自訂介面/HUD元素及按鍵綁定。需Fabric API/Mod Menu/YACL支援。"""

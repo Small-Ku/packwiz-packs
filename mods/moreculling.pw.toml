@@ -1,22 +1,18 @@
 name = "More Culling"
-filename = "moreculling-fabric-1.21.9-1.5.0-beta.2.jar"
+filename = "moreculling-fabric-1.21.11-1.6.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/51shyZVL/versions/nASRyMbu/moreculling-fabric-1.21.9-1.5.0-beta.2.jar"
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar"
 hash-format = "sha512"
-hash = "94a1fc8a75a2db1fa1d4b6296bca6ecc4b8ece318e9621ee6b3d02db66d44afb0cd7fdf79ba20f8c6470a1cbdbc99273a407fbed9b128ec6d693361fac7b5225"
+hash = "86b9ab2123c8419963a10d14177e6337b13623e077b3a8d240c9575fe583b1eb377ce8e128b5caf3ab6cd958f25d8f0163131aef7de59791cd6683eef0703663"
 
 [update]
 [update.modrinth]
 mod-id = "51shyZVL"
-version = "nASRyMbu"
+version = "kWU8mVq5"
 
 [option]
 optional = true
+description = "More Culling\n\nA performance mod that optimizes multiple culling types (block/item frame/leaves) to reduce GPU load and fix vanilla culling bugs.\n效能優化模組，強化方塊/物品展示框/樹葉等多種剔除技術，降低GPU負載並修復原版剔除錯誤。"
 default = true
-description = """
-More Culling
-
-A performance mod that optimizes multiple culling types (block/item frame/leaves) to reduce GPU load and fix vanilla culling bugs.
-效能優化模組，強化方塊/物品展示框/樹葉等多種剔除技術，降低GPU負載並修復原版剔除錯誤。"""

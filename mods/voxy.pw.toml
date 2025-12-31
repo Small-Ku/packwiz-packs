@@ -1,23 +1,17 @@
 name = "voxy"
-filename = "voxy-0.2.6-alpha.jar"
+filename = "voxy-0.2.8-alpha.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fxxUqruK/versions/agZsxLao/voxy-0.2.6-alpha.jar"
+url = "https://cdn.modrinth.com/data/fxxUqruK/versions/bs9Tu5uz/voxy-0.2.8-alpha.jar"
 hash-format = "sha512"
-hash = "68f919ecfeea553dfd799fd4d849a823ab81ddba53d3fe568225259e24123b88e84d1986ffdb75050e010249a5d63125010ed3f09e39b7ad84078c291dd929b3"
+hash = "2fc5d1700350247266f8ed438f7cdf41fb8adad870fb44d2924e3f80c9a9d1d0a1e9f0ba4436aab3fe34c0553fe9c2483724b71c2575476e5eacb2fdb306ca19"
 
 [update]
 [update.modrinth]
 mod-id = "fxxUqruK"
-version = "agZsxLao"
+version = "bs9Tu5uz"
 
 [option]
 optional = true
-default = false
-description = """
-voxy
-
-A Level of Detail rendering mod that dynamically adjusts visual detail based on distance to optimize performance.
-階層式細節渲染模組，依據距離動態調整畫面細節以優化效能。
-"""
+description = "voxy\n\nA Level of Detail rendering mod that dynamically adjusts visual detail based on distance to optimize performance.\n階層式細節渲染模組，依據距離動態調整畫面細節以優化效能。\n"

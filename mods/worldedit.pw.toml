@@ -1,22 +1,17 @@
 name = "WorldEdit"
-filename = "worldedit-mod-7.4.0-beta-01.jar"
+filename = "worldedit-mod-7.4.0-beta-02.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/wlq4UM7x/worldedit-mod-7.4.0-beta-01.jar"
+url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/D4snyuU8/worldedit-mod-7.4.0-beta-02.jar"
 hash-format = "sha512"
-hash = "c1775c587c3773804ab38fd2c307ba7f45a6ef603535e645d6006c95b2f1acfac4bdd31a10f84256e02ab13406b424f995c9da6a553093358e1c1fe4080353a8"
+hash = "887c1f9479ef0d06714c4f842f49568a209f57cc29b21b59373ff8ae5702f65c45b3f5caa442a2cc1b9f0242f93f46706d67b808c30c054eae1e142bc1259fb3"
 
 [update]
 [update.modrinth]
 mod-id = "1u6JkXh5"
-version = "wlq4UM7x"
+version = "D4snyuU8"
 
 [option]
 optional = true
-default = false
-description = """
-WorldEdit
-
-An in-game map editor with region selection, schematics, copy/paste, brushes, and scripting—usable in creative or temporarily in survival mode.
-遊戲內地圖編輯器，支援區域選取、結構存檔、複製貼上、筆刷與腳本功能，適用於創造模式或生存模式臨時使用。"""
+description = "WorldEdit\n\nAn in-game map editor with region selection, schematics, copy/paste, brushes, and scripting—usable in creative or temporarily in survival mode.\n遊戲內地圖編輯器，支援區域選取、結構存檔、複製貼上、筆刷與腳本功能，適用於創造模式或生存模式臨時使用。"

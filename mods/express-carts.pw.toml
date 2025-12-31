@@ -1,22 +1,17 @@
 name = "Express Carts"
-filename = "expresscarts-fabric-1.3.0+1.21.10.jar"
+filename = "expresscarts-fabric-1.3.0+1.21.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xog4t7Fl/versions/y5fxvWVv/expresscarts-fabric-1.3.0%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/Xog4t7Fl/versions/fj0vfnqT/expresscarts-fabric-1.3.0%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "fc01c71ca0b2b58739f2b02072b3b897f0b342333f1bf092966bf36dedfc438cf318af6900ab7651f072c1b3c9d2c4b17ac3479f49c1712a646c20647b833500"
+hash = "055c5d34312078334b7e79e819f9dbbd5c24c930562487b5b6e1dc2650e11dcd486fcb6f2bbf213bbcad6639534ec0be48528227093140b4d52638a5d52d51d2"
 
 [update]
 [update.modrinth]
 mod-id = "Xog4t7Fl"
-version = "y5fxvWVv"
+version = "fj0vfnqT"
 
 [option]
 optional = true
-default = false
-description = """
-Express Carts
-
-A server-side Fabric mod adding Express Minecarts with 2x speed and improved physics—no client mods needed, fully compatible with vanilla systems and technical builds.
-伺服器端Fabric模組，添加速度兩倍且物理效果更佳的特快礦車。無需客戶端模組，完全相容原版系統與礦車機關建築。"""
+description = "Express Carts\n\nA server-side Fabric mod adding Express Minecarts with 2x speed and improved physics—no client mods needed, fully compatible with vanilla systems and technical builds.\n伺服器端Fabric模組，添加速度兩倍且物理效果更佳的特快礦車。無需客戶端模組，完全相容原版系統與礦車機關建築。"

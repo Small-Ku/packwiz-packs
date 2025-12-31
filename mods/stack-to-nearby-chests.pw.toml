@@ -1,22 +1,17 @@
 name = "Stack to Nearby Chests"
-filename = "stack-to-nearby-chests-mc1.21.10-0.5.14.jar"
+filename = "stack-to-nearby-chests-mc1.21.11-0.5.15.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HtGckJVc/versions/3tklqxjA/stack-to-nearby-chests-mc1.21.10-0.5.14.jar"
+url = "https://cdn.modrinth.com/data/HtGckJVc/versions/dcphzFbB/stack-to-nearby-chests-mc1.21.11-0.5.15.jar"
 hash-format = "sha512"
-hash = "352a9240addd88fc6f5d8359ecd3e1c0b19c6786d12812839be52d0ebe711b39dca17ee591b44ab03562d5954342fcd979c3c348796d9e3016f2d83779c678c1"
+hash = "5b22f4aa9db15486b72b578b3d8f340fdecd42116a1b1ea38547ed843efd80967961e1a232006e177fd021c298b96026814207e37cee623f13768d87b9d1f22a"
 
 [update]
 [update.modrinth]
 mod-id = "HtGckJVc"
-version = "3tklqxjA"
+version = "dcphzFbB"
 
 [option]
 optional = true
-default = false
-description = """
-Stack to Nearby Chests
-
-A client-side mod importing Terraria-style quick stacking/restocking—organize items into nearby chests/barrels with one keypress. Customizable hotkeys and favorite items.
-客戶端模組，移植泰拉瑞亞式快速整理/補充功能：一鍵將物品分類至附近儲物箱、木桶，支援自訂快捷鍵與收藏特定物品。"""
+description = "Stack to Nearby Chests\n\nA client-side mod importing Terraria-style quick stacking/restocking—organize items into nearby chests/barrels with one keypress. Customizable hotkeys and favorite items.\n客戶端模組，移植泰拉瑞亞式快速整理/補充功能：一鍵將物品分類至附近儲物箱、木桶，支援自訂快捷鍵與收藏特定物品。"

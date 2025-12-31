@@ -1,16 +1,16 @@
 name = "Audio Engine Tweaks"
-filename = "audio_engine_tweaks-1.2.11-MC1.21.10 build 2.jar"
+filename = "audio_engine_tweaks-1.2.12+MC1.21.11 build 5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/Kbjxzphq/audio_engine_tweaks-1.2.11-MC1.21.10%20build%202.jar"
+url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/FIDRhV9c/audio_engine_tweaks-1.2.12%2BMC1.21.11%20build%205.jar"
 hash-format = "sha512"
-hash = "640259d35c58d65fbf31b29ff0421c48915fde977d60668451d5663749822025a392613b10d416270194c7d0613c0b9f8527eb97d2dd8224bac5535a217b09d0"
+hash = "8d45a1bfd6f4ab15a9834dc771f7665aa0afb68dbfbcb90ab95dd3427e660389142a996bf388ec31d33f262da3b1b03c8866ed819db682c4ec87a8248e487525"
 
 [update]
 [update.modrinth]
 mod-id = "DZ81JNQ1"
-version = "Kbjxzphq"
+version = "FIDRhV9c"
 
 [option]
 optional = true

@@ -1,22 +1,17 @@
 name = "Client Maps"
-filename = "client_maps-1.2.1+1.21.9.jar"
+filename = "client_maps-1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/K7BL4mb2/versions/ADFpsftW/client_maps-1.2.1%2B1.21.9.jar"
+url = "https://cdn.modrinth.com/data/K7BL4mb2/versions/vpwnJXCu/client_maps-1.3.0.jar"
 hash-format = "sha512"
-hash = "343ac3edc14362b8c8a384f94eaa71def3efded4ef744bbd09323f548a7454594c3fc46a6c469114370fe1c924a3ee8dc1254587ca2793500a808ccedb5a6f9e"
+hash = "3d682649e03f4f33bfa2c0dff89e5c0a34d31c38e08b092f1f866bf73558d72795163e6f239e058f8b657e05d4de91e81a416787a4d180346979ae36bfa80d1b"
 
 [update]
 [update.modrinth]
 mod-id = "K7BL4mb2"
-version = "ADFpsftW"
+version = "vpwnJXCu"
 
 [option]
 optional = true
-default = false
-description = """
-Client Maps
-
-A mod that saves server map data locally—keeps maps intact when disconnected and fills gaps during server lag. Complements Map In Slot and Minihud mods.
-本地儲存伺服器地圖數據的模組，斷線時保留地圖完整性，伺服器延遲時自動填補空白，完美搭配Map In Slot與Minihud等模組。"""
+description = "Client Maps\n\nA mod that saves server map data locally—keeps maps intact when disconnected and fills gaps during server lag. Complements Map In Slot and Minihud mods.\n本地儲存伺服器地圖數據的模組，斷線時保留地圖完整性，伺服器延遲時自動填補空白，完美搭配Map In Slot與Minihud等模組。"

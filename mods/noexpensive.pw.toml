@@ -1,22 +1,17 @@
 name = "NoExpensive"
-filename = "NE-1.21.10-1.10.2.jar"
+filename = "NE-1.21.11-1.10.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2nz0kJ1N/versions/zPTEu5ZA/NE-1.21.10-1.10.2.jar"
+url = "https://cdn.modrinth.com/data/2nz0kJ1N/versions/v6NgGWpm/NE-1.21.11-1.10.2.jar"
 hash-format = "sha512"
-hash = "fe88050c213096f5edc8cc0f1004b563696395d5995dd7bf0200c277982be739d3fad8b0a5c23479b6a46d0e6139f1fa82e1cbbe0f601f128c35df484a56856b"
+hash = "b567aaf1300c1ea65da48222277d1330ed7e2d658c9cfa8b87aee8d6ff7fb207b189d4df8a4dcff1c2091f816ce8ccd02c70d638632cca699a82b2e296a0b5f6"
 
 [update]
 [update.modrinth]
 mod-id = "2nz0kJ1N"
-version = "zPTEu5ZA"
+version = "v6NgGWpm"
 
 [option]
 optional = true
-default = false
-description = """
-NoExpensive
-
-A lightweight mod that removes anvil cost limits and allows any enchantment combinations—fully configurable with cross-version compatibility.
-輕量級模組，移除鐵砧成本限制並允許任意附魔組合。可完整自訂設定，相容新舊Minecraft版本。"""
+description = "NoExpensive\n\nA lightweight mod that removes anvil cost limits and allows any enchantment combinations—fully configurable with cross-version compatibility.\n輕量級模組，移除鐵砧成本限制並允許任意附魔組合。可完整自訂設定，相容新舊Minecraft版本。"

@@ -1,22 +1,18 @@
 name = "Resourceful Config"
-filename = "ResourcefulConfig-fabric-1.21.9-3.9.1.jar"
+filename = "ResourcefulConfig-fabric-1.21.11-3.11.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1953qlQ/versions/bjepA5CF/ResourcefulConfig-fabric-1.21.9-3.9.1.jar"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/nC6Zw8Lx/ResourcefulConfig-fabric-1.21.11-3.11.2.jar"
 hash-format = "sha512"
-hash = "68055693f86d23694ae2a69a913bd85dbdb7541130cb1d27e8b3174ab7da69dc168b0e60c95e0daf72cc1b88c9407f720d4a19746d5143d957a71cdf3c8468a6"
+hash = "2acc99216e288680388e4b7635ba525a00494538b075ad7a49be65940884fa622346dc561ab4ecd5fde8425aa408f1f564b4973eef87ce85f07c9ca314460e43"
 
 [update]
 [update.modrinth]
 mod-id = "M1953qlQ"
-version = "bjepA5CF"
+version = "nC6Zw8Lx"
 
 [option]
 optional = false
+description = "Resourceful Config\n\nA developer library enabling cross-platform configs with in-game UI and hot reloading—supports Forge/Fabric with JSONC fallback.\n開發者函式庫，提供跨平台設定檔支援，內建遊戲設定介面與即時生效功能，相容Forge/Fabric平台。"
 default = true
-description = """
-Resourceful Config
-
-A developer library enabling cross-platform configs with in-game UI and hot reloading—supports Forge/Fabric with JSONC fallback.
-開發者函式庫，提供跨平台設定檔支援，內建遊戲設定介面與即時生效功能，相容Forge/Fabric平台。"""
