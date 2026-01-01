@@ -3,14 +3,14 @@ filename = "Noble.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sclYVqbt/versions/nmQNT7S5/Noble%20v1.8.8.zip"
+url = "https://cdn.modrinth.com/data/sclYVqbt/versions/QyRKkpUW/Noble%20v1.8.9.zip"
 hash-format = "sha512"
-hash = "fdef8ec102e5532aa65f294c3cf0429125290e43a2c24014854b113dadced3bc77298dc1d6017f00b0cc704e05c375d0c94eae0ba6f7fb7c0edc5511f6d37934"
+hash = "f63c6e4c605dc72e13eb44080efdcfbcde4e783f8177462118870ba56ac17591fe0391d3035fe48f24b143cea621b56ec202677bc3ea78fe949a4b0057551bb5"
 
 [update]
 [update.modrinth]
 mod-id = "sclYVqbt"
-version = "nmQNT7S5"
+version = "QyRKkpUW"
 
 [option]
 optional = true

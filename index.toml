@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "a3b056c9965974eb261d1f8fb0952e13b6f17bc90c8c4903689a7c2b01121416"
+hash = "f3d069c14326497a07ba9547eb7d5570ee66466028e66f4f4f589b29527f9c16"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "a5ce0e968f8d58b240b35563fadd45d41fc353615c92ca7781df6bbd1408d850"
+hash = "42679f6261f4b813d1fd0fea87c9a2686dc4f770584e9d912458cc6f221b43b2"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "34d19a634bc23a06f2b4e42c0b0a30161c83a77754d146fcd0f8327823753f53"
+hash = "f73b147da71f6377d5c400a2f1d7f3c7e2142039c171a534a6cb74e3771b10fc"
 metafile = true
 
 [[files]]
@@ -478,12 +478,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "de5c8d55bd83eb9e1f937b8f9c0308ab8b456aa521a2ec7cae55622fd9b16c44"
+hash = "311d9fdb1caa70aac440f82cb0438f98c0b7fe33e16d51be1d50965c9bcb606d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8e957b7ffa7019a6783baa175805be54eef501d20fedd31e34f9610429f5073a"
+hash = "5b6999a653a07047fd10b04a7dde945edc1e82c209bf7ee626638fa5fb85db73"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/noble.pw.toml"
-hash = "227decd31f7d5362bf35cad58c1bace58a94ef0b703001f1776b2180d6ec3ed0"
+hash = "6f5ed47cd1541451e8eb89a8fe834ffc0fed531d353ad80ac7b7c9edc6b6ff10"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "a444264e803f1ae5721293507e348799dbba63ef69516fbf8672dc6d4218c573"
+hash = "e4901c299492cd90554218f046a120269400cb09178e608844687b404e26b2d9"
 metafile = true
 
 [[files]]
