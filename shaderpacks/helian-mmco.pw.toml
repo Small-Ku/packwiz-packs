@@ -3,15 +3,15 @@ filename = "Helian-MMCO_Sundial-Lite_edit.zip"
 side = "both"
 
 [download]
-url = "https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit/releases/download/v0.4.7/Helian-MMCO_v0.4.7_Sundial-lite_edit.zip"
+url = "https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit/releases/download/v0.4.7a/Helian-MMCO_v0.4.7a_Sundial-lite_edit.zip"
 hash-format = "sha256"
-hash = "6f3597c7087b33eb5a0af19c9647dd0e2965cfe1d2d1fc2d5459afa4bdd1d3c8"
+hash = "10cb70f3664fe7c936ce2c6c6f4081ed76a0ecbcb74bb14fc09c89eb1f75a102"
 
 [update]
 [update.github]
 branch = "main"
 slug = "MoAoXnX/Helian-mmco_Sundial-Lite_edit"
-tag = "v0.4.7"
+tag = "v0.4.7a"
 
 [option]
 optional = true

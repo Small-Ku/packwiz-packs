@@ -3,9 +3,9 @@ filename = "Bliss_(Chocapic13_Shaders_edit).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZvMtQlho/versions/kC2Y8q1P/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip"
-hash-format = "sha512"
-hash = "dafc60be4980ec40f40edc0f2625cb0976f3c9ce5ed86383146a120480826bb1de70ef5e38b7f1437294ed4d38c6ef3c82ebef0ae4e00b8cee165788c9c18280"
+url = "https://github.com/X0nk/Bliss-Shader/archive/f5fc71da673c3073a17a0a6cc621e4f692a69887.zip"
+hash-format = "sha256"
+hash = "ef56ca33b9957f49e0a420afcc008d076a185ef849480e23af93918a3c4ed4e5"
 
 [update]
 [update.modrinth]

@@ -3,9 +3,9 @@ filename = "Sundial-Lite.zip"
 side = "client"
 
 [download]
-url = "https://github.com/GeForceLegend/Sundial-Lite/archive/bc39c25b0d7bbec039be64685cae41eb18f9e754.zip"
+url = "https://github.com/GeForceLegend/Sundial-Lite/archive/de3a1ebe06c58ad65840f899689f16ace075de53.zip"
 hash-format = "sha256"
-hash = "8c9e5d7aea5779ff24384f39192406dba4a7ba63de68dc6a4addf9a4988c9d2a"
+hash = "a72f52365fcd60ed714d26c802a6433d22cb043285e1171f677221b7d6f14ca1"
 
 [option]
 optional = true

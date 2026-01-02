@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "121504cd1b9ef6cf17ff1018983aa105cb3e6696f4ca3e3996c66b6f31bb5cfe"
+hash = "1457296ebcc286354414259083510d44bd783320efbe7693f67d630c1159d3f0"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "f73b147da71f6377d5c400a2f1d7f3c7e2142039c171a534a6cb74e3771b10fc"
+hash = "8ae699c80c6e548f09d9bc9cf3d2e7ae548063851a8bb587bec3369c1a846e5c"
 metafile = true
 
 [[files]]
@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
-hash = "94e4efc6f8846a7bf2843014721c05b917577e5375e795b7ace259367c7c1445"
+hash = "809ffd07ef2a83b53f0e42cd2e62023ce56004d541b1c8e87e6c332fcd906c54"
 metafile = true
 
 [[files]]
@@ -554,11 +554,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "783abc577abe0ccd870558cda4213cd8d8f2db3f453ca2069ca234ce59be2eb9"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "8589fd22fee9759108ba16012c20b0ff6ce3c571d5e54ae044411072b47e2435"
 metafile = true
 
 [[files]]
@@ -583,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/helian-mmco.pw.toml"
-hash = "78e4150af1c4aad31bb0fadcc739b1afa861d84f159fc38b8a0d1e56d764311a"
+hash = "c4b24104c303e98aaf2d36b19bf4b58cd4a67b421a9c075e974f6995f2e9b3bf"
 metafile = true
 
 [[files]]
@@ -642,11 +637,6 @@ hash = "a92e6cc07289cbcb8a159e8c5b7cb940c5e3309a6aaed2af206b455352956985"
 metafile = true
 
 [[files]]
-file = "shaderpacks/scrumptious-shayders.pw.toml"
-hash = "77b19c8728e871d74d3b0b8639ec3f6193a37821ef8c890ac266385a7e340852"
-metafile = true
-
-[[files]]
 file = "shaderpacks/seus-ptgi-gfme.pw.toml"
 hash = "da1450e1106f813eceece17cf66cfa3608d77a9b38c084ec756ac2a799c9a499"
 metafile = true
@@ -678,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/sundial-lite.pw.toml"
-hash = "a30fb148933bfabab625921b89ba8060484ced191537d14d5eec47bce0c5e038"
+hash = "96e0b465c1155ed99e197b17386568bda754530834fe2511f4527b893cf3025e"
 metafile = true
 
 [[files]]
